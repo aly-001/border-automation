@@ -1,0 +1,3325 @@
+28 - 24
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2852.90.10 00 - - -Mercury albuminate;
+Nucleoproteids of mercury
+
+
+
+6.5%, H
+C, : 
+: 3%
+
+2852.90.90 00 - - -Other, H, C, : 
+
+2853.10.00 00 -Cyanogen chloride (chlorcyan), H, C, : 
+
+2853.90.00 00 -Other, H, C, : 
+
+28.52
+
+SS
+
+Description of Goods
+Inorganic or organic compounds of mercury, whether or not chemically
+defined, excluding amalgams.
+
+2852.10.00 00 -Chemically defined
+
+2852.90
+
+28.53
+
+-Other
+
+Phosphides, whether or not chemically defined, excluding
+ferrophosphorus; other inorganic compounds (including distilled or
+conductivity water and water of similar purity); liquid air (whether or not
+rare gases have been removed); compressed air; amalgams, other than
+amalgams of precious metals.
+
+Issued January 1, 2025
+
+COMS TARIFF – SCHEDULE
+29 - i
+Chapter 29
+ORGANIC CHEMICALS
+Notes.
+1.
+
+2.
+
+Except where the context otherwise requires, the headings of this Chapter apply only to:
+(a)
+
+Separate chemically defined organic compounds, whether or not containing impurities;
+
+(b)
+
+Mixtures of two or more isomers of the same organic compound (whether or not containing impurities), except
+mixtures of acyclic hydrocarbon isomers (other than stereoisomers), whether or not saturated (Chapter 27);
+
+(c)
+
+The products of headings 29.36 to 29.39 or the sugar ethers, sugar acetals and sugar esters, and their salts, of
+heading 29.40, or the products of heading 29.41, whether or not chemically defined;
+
+(d)
+
+The products mentioned in (a), (b) or (c) above dissolved in water;
+
+(e)
+
+The products mentioned in (a), (b) or (c) above dissolved in other solvents provided that the solution constitutes a
+normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and
+that the solvent does not render the product particularly suitable for specific use rather than for general use;
+
+(f)
+
+The products mentioned in (a), (b), (c), (d) or (e) above with an added stabiliser (including an anti-caking agent)
+necessary for their preservation or transport;
+
+(g)
+
+The products mentioned in (a), (b), (c), (d), (e) or (f) above with an added anti-dusting agent or a colouring or
+odoriferous substance or an emetic added to facilitate their identification or for safety reasons, provided that the
+additions do not render the product particularly suitable for specific use rather than for general use;;
+
+(h)
+
+The following products, diluted to standard strengths, for the production of azo dyes: diazonium salts, couplers used
+for these salts and diazotisable amines and their salts.
+
+This Chapter does not cover:
+(a)
+
+Goods of heading 15.04 or crude glycerol of heading 15.20;
+
+(b)
+
+Ethyl alcohol (heading 22.07 or 22.08);
+
+(c)
+
+Methane or propane (heading 27.11);
+
+(d)
+
+The compounds of carbon mentioned in Note 2 to Chapter 28;
+
+(e)
+
+Immunological products of heading 30.02;
+
+(f)
+
+Urea (heading 31.02 or 31.05);
+
+(g)
+
+Colouring matter of vegetable or animal origin (heading 32.03), synthetic organic colouring matter, synthetic organic
+products of a kind used as fluorescent brightening agents or as luminophores (heading 32.04) or dyes or other
+colouring matter put up in forms or packings for retail sale (heading 32.12);
+
+(h)
+
+Enzymes (heading 35.07);
+
+(ij)
+
+Metaldehyde, hexamethylenetetramine or similar substances, put up in forms (for example, tablets, sticks or similar
+forms) for use as fuels, or liquid or liquefied gas fuels in containers of a kind used for filling or refilling cigarette or
+similar lighters and of a capacity not exceeding 300 cm³ (heading 36.06);
+
+(k)
+
+Products put up as charges for fire-extinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink
+removers put up in packings for retail sale, of heading 38.24; or
+
+(l)
+
+Optical elements, for example, of ethylenediamine tartrate (heading 90.01).
+
+3.
+
+Goods which could be included in two or more of the headings of this Chapter are to be classified in that one of those
+headings which occurs last in numerical order.
+
+4.
+
+In headings 29.04 to 29.06, 29.08 to 29.11 and 29.13 to 29.20, any reference to halogenated, sulphonated, nitrated or
+nitrosated derivatives includes a reference to compound derivatives, such as sulphohalogenated, nitrohalogenated
+nitrosulphonated or nitrosulphohalogenated derivatives.
+Nitro or nitroso groups are not to be taken as "nitrogen-functions" for the purpose of heading 29.29.
+
+Issued January 1, 2025
+
+COMS TARIFF – SCHEDULE
+29 - ii
+For the purposes of headings 29.11, 29.12, 29.14, 29.18 and 29.22, “oxygen function”, the characteristic organic oxygencontaining group of those respective headings, is restricted to the oxygen-functions referred to in headings 29.05 to 29.20.
+5.
+
+(A) The esters of acid-function organic compounds of sub-Chapters I to VII with organic compounds of these sub
+Chapters are to be classified with that compound which is classified in the heading which occurs last in numerical
+order in these sub Chapters.
+(B) Esters of ethyl alcohol with acid-function organic compounds of sub-Chapters I to VII are to be classified in the same
+heading as the corresponding acid function compounds.
+(C) Subject to Note 1 to Section VI and Note 2 to Chapter 28:
+(1)
+
+Inorganic salts of organic compounds such as acid-, phenol- or enol-function compounds or organic bases, of
+sub-Chapters I to X or heading 29.42, are to be classified in the heading appropriate to the organic compound;
+
+(2)
+
+Salts formed between organic compounds of sub-Chapters I to X or heading 29.42 are to be classified in the
+heading appropriate to the base or to the acid (including phenol- or enol-function compounds) from which they
+are formed, whichever occurs last in numerical order in the Chapter; and
+
+(3)
+
+Co-ordination compounds, other than products classifiable in sub-Chapter XI or heading 29.41, are to be
+classified in the heading which occurs last in numerical order in Chapter 29, among those appropriate to the
+fragments formed by "cleaving" of all metal bonds, other than metal-carbon bonds.
+
+(D) Metal alcoholates are to be classified in the same heading as the corresponding alcohols except in the case of ethanol
+(heading 29.05).
+(E) Halides of carboxylic acids are to be classified in the same heading as the corresponding acids.
+6.
+
+The compounds of headings 29.30 and 29.31 are organic compounds the molecules of which contain, in addition to atoms
+of hydrogen, oxygen or nitrogen, atoms of other non metals or of metals (such as sulphur, arsenic or lead) directly linked
+to carbon atoms.
+Heading 29.30 (organo-sulphur compounds) and heading 29.31 (other organo-inorganic compounds) do not include
+sulphonated or halogenated derivatives (including compound derivatives) which, apart from hydrogen, oxygen and
+nitrogen, only have directly linked to carbon the atoms of sulphur or of a halogen which give them their nature of
+sulphonated or halogenated derivatives (or compound derivatives).
+
+7.
+
+Headings 29.32, 29.33 and 29.34 do not include epoxides with a three-membered ring, ketone peroxides, cyclic polymers
+of aldehydes or of thioaldehydes, anhydrides of polybasic carboxylic acids, cyclic esters of polyhydric alcohols or phenols
+with polybasic acids or imides of polybasic acids.
+These provisions apply only when the ring-position hetero-atoms are those resulting solely from the cyclising function or
+functions here listed.
+
+8.
+
+For the purposes of heading 29.37:
+(a)
+
+the term "hormones" includes hormone-releasing or hormone-stimulating factors, hormone inhibitors and hormone
+antagonists (anti-hormones);
+
+(b)
+
+the expression "used primarily as hormones" applies not only to hormone derivatives and structural analogues used
+primarily for their hormonal effect, but also to those derivatives and structural analogues used primarily as
+intermediates in the synthesis of products of this heading.
+
+Subheading Notes.
+1.
+
+Within any one heading of this Chapter, derivatives of a chemical compound (or group of chemical compounds) are to be
+classified in the same subheading as that compound (or group of compounds) provided that they are not more specifically
+covered by any other subheading and that there is no residual subheading named ''Other'' in the series of subheadings
+concerned.
+
+2.
+
+Note 3 to Chapter 29 does not apply to the subheadings of this Chapter.
+
+Supplementary Note.
+1.
+
+For the purpose of tariff items of this Chapter, the following terms have the meanings hereby assigned to them:
+(a)
+
+"Glues or adhesives" goods described in heading 35.06;
+
+(b)
+
+"Optical fibres or optical fibre bundles or cables" goods described in subheading 9001.10;
+
+Issued January 1, 2025
+
+COMS TARIFF - SCHEDULE
+29 - iii
+(c)
+
+"Typewriter or similar ribbons" goods described in subheading 9612.10;
+
+(d)
+
+"Polymers in primary forms or profile shapes or sheets of plastics" goods described in subheadings 3901.10 to
+3917.39 or in subheadings 3918.10 to 3921.90.
+
+Issued January 1, 2025
+
+29 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+I. -HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED
+NRATED OR NROSATED DERIVATIVES
+29.01
+
+Acyclic hydrocarbons.
+
+2901.10.00
+
+-Saturated
+
+- - - - -Butanes:
+11 - - - - - -n-Butane ..............................................................................................
+12 - - - - - -2-Methylpropane (isobutane) ...............................................................
+20 - - - - -Hexanes .................................................................................................
+30 - - - - -Pentanes ................................................................................................
+40 - - - - -Ethane....................................................................................................
+90 - - - - -Other ......................................................................................................
+
+LTR
+LTR
+
+
+
+
+
+-Unsaturated:
+2901.21.00 00 - -Ethylene, H, C, : 
+
+2901.22.00 00 - -Propene (propylene), H, C, :, H, C, :, H, C, :, H, C, : 
+
+2901.23.00
+
+- -Butene (butylene) and isomers thereof
+
+10 - - - - -1-Butene.................................................................................................
+20 - - - - -Isobutene ...............................................................................................
+90 - - - - -Other ......................................................................................................
+2901.24.00 00 - -Buta-1,3-diene and isoprene
+
+2901.29.00
+
+
+
+
+
+
+- -Other
+
+- - - - -Linear alpha olefins, unmixed:
+11 - - - - - -1-Octene ..............................................................................................
+
+
+
+Issued January 1, 2025
+
+29 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+12 - - - - - -1-Hexene..............................................................................................
+19 - - - - - -Other ....................................................................................................
+- - - - -Other:
+91 - - - - - -Nonenes ...............................................................................................
+99 - - - - - -Other ....................................................................................................
+29.02
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+
+
+
+
+
+Cyclic hydrocarbons.
+-Cyclanes, cyclenes and cycloterpenes:
+
+2902.11.00 00 - -Cyclohexane, H, C, : 
+
+2902.19.00 00 - -Other, H, C, : 
+
+2902.20.00 00 -Benzene, H, C, : 
+
+2902.30.00 00 -Toluene, H, C, : 
+
+2902.41.00 00 - -o-Xylene, H, C, : 
+
+2902.42.00 00 - -m-Xylene, H, C, : 
+
+2902.43.00 00 - -p-Xylene, H, C, : 
+
+-Xylenes:
+
+Issued January 1, 2025
+
+29 - 3
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2902.44.00 00 - -Mixed xylene isomers, H, C, : 
+
+2902.50.00 00 -Styrene, H, C, : 
+
+2902.60.00 00 -Ethylbenzene, H, C, : 
+
+2902.70.00 00 -Cumene, H, C, :, H, C, : 
+
+Tariff
+Item
+
+2902.90.00
+
+SS
+
+Description of Goods
+
+-Other
+
+30 - - - - -Naphthalene ...........................................................................................
+90 - - - - -Other ......................................................................................................
+29.03
+
+
+
+
+Halogenated derivatives of hydrocarbons.
+-Saturated chlorinated derivatives of acyclic hydrocarbons:
+
+2903.11.00 00 - -Chloromethane (methyl chloride) and chloroethane (ethyl chloride), H, C, : 
+
+2903.12.00 00 - -Dichloromethane (methylene chloride), H, C, : 
+
+2903.13.00 00 - -Chloroform (trichloromethane), H, C, : 
+
+Issued January 1, 2025
+
+29 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2903.14.00 00 - -Carbon tetrachloride, H, C, : 
+
+2903.15.00 00 - -Ethylene dichloride (ISO) (1,2-dichloroethane), H, C, : 
+
+2903.19.00 00 - -Other, H, C, : 
+
+2903.21.00 00 - -Vinyl chloride (chloroethylene), H, C, : 
+
+2903.22.00 00 - -Trichloroethylene, H, C, : 
+
+2903.23.00 00 - -Tetrachloroethylene (perchloroethylene), H, C, : 
+
+2903.29.00 00 - -Other, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+-Unsaturated chlorinated derivatives of acyclic hydrocarbons:
+
+-Saturated fluorinated derivatives of acyclic hydrocarbons:
+2903.41.00 00 - -Trifluoromethane (HFC-23)
+
+Issued January 1, 2025
+
+29 - 5
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2903.42.00 00 - -Difluoromethane (HFC-32), H, C, : 
+
+2903.43.00 00 - -Fluoromethane (HFC-41), 1,2-difluoroethane (HFC-152) and 1,1difluoroethane (HFC-152a), H, C, : 
+
+2903.44.00 00 - -Pentafluoroethane (HFC-125), 1,1,1-trifluoroethane (HFC-143a) and
+1,1,2-trifluoroethane (HFC-143), H, C, : 
+
+2903.45.00 00 - -1,1,1,2-Tetrafluoroethane (HFC-134a) and 1,1,2,2-tetrafluoroethane
+(HFC-134), H, C, : 
+
+2903.46.00 00 - -1,1,1,2,3,3,3-Heptafluoropropane (HFC-227ea), 1,1,1,2,2,3hexafluoropropane (HFC-236cb), 1,1,1,2,3,3-hexafluoropropane (HFC236ea) and 1,1,1,3,3,3-hexafluoropropane (HFC-236fa), H, C, : 
+
+2903.47.00 00 - -1,1,1,3,3-Pentafluoropropane (HFC-245fa) and 1,1,2,2,3pentafluoropropane (HFC-245ca), H, C, : 
+
+2903.48.00 00 - -1,1,1,3,3-Pentafluorobutane (HFC-365mfc) and 1,1,1,2,2,3,4,5,5,5decafluoropentane (HFC-43-10mee), H, C, : 
+
+2903.49.00 00 - -Other, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Unsaturated fluorinated derivatives of acyclic hydrocarbons:
+2903.51.00 00 - -2,3,3,3-Tetrafluoropropene (HFO-1234yf), 1,3,3,3-tetrafluoropropene
+(HFO-1234ze) and (Z)-1,1,1,4,4,4-hexafluoro-2-butene (HFO-1336mzz)
+
+Issued January 1, 2025
+
+29 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2903.59.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Other
+
+20 - - - - -1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-prop-1-ene
+...............................................................................................................
+90 - - - - -Other
+...............................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+
+-Brominated or iodinated derivatives of acyclic hydrocarbons:
+2903.61.00 00 - -Methyl bromide (bromomethane), H, C, : 
+
+2903.62.00 00 - -Ethylene dibromide (ISO) (1,2-dibromoethane), H, C, : 
+
+2903.69.00 00 - -Other, H, C, : 
+
+2903.71.00 00 - -Chlorodifluoromethane (HCFC-22), H, C, : 
+
+2903.72.00 00 - -Dichlorotrifluoroethanes (HCFC-123), H, C, : 
+
+2903.73.00 00 - -Dichlorofluoroethanes (HCFC-141, 141b), H, C, : 
+
+2903.74.00 00 - -Chlorodifluoroethanes (HCFC-142, 142b), H, C, : 
+
+-Halogenated derivatives of acyclic hydrocarbons containing two or
+more different halogens:
+
+Issued January 1, 2025
+
+29 - 7
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2903.75.00 00 - -Dichloropentafluoropropanes (HCFC-225, 225ca, 225cb), H, C, : 
+
+2903.76.00 00 - -Bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane
+(Halon-1301) and dibromotetrafluoroethanes (Halon-2402), H, C, : 
+
+2903.77.00 00 - -Other, perhalogenated only with fluorine and chlorine, H, C, : 
+
+2903.78.00 00 - -Other perhalogenated derivatives, H, C, : 
+
+2903.79.00 00 - -Other, H, C, : 
+
+2903.81.00 00 - -1,2,3,4,5,6-Hexachlorocyclohexane (HCH (ISO)), including lindane
+(ISO, INN), H, C, : 
+
+2903.82.00 00 - -Aldrin (ISO), chlordane (ISO) and heptachlor (ISO), H, C, : 
+
+2903.83.00 00 - -Mirex (ISO), H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Halogenated derivatives of cyclanic, cyclenic or cycloterpenic
+hydrocarbons:
+
+2903.89.00
+
+- -Other
+
+Issued January 1, 2025
+
+29 - 8
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Hexabromocyclododecanes (HBCDs)
+...............................................................................................................
+90 - - - - -Other
+...............................................................................................................
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+
+
+
+-Halogenated derivatives of aromatic hydrocarbons:
+2903.91.00 00 - -Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene, H, C, : 
+
+2903.92.00 00 - -Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN), 1,1,1trichloro-2,2-bis(p-chlorophenyl)ethane), H, C, : 
+
+2903.93.00 00 - -Pentachlorobenzene (ISO), H, C, : 
+
+2903.94.00 00 - -Hexabromobiphenyls, H, C, : 
+
+2903.99.00 00 - -Other, H, C, : 
+
+2904.10.00 00 -Derivatives containing only sulpho groups, their salts and ethyl esters, H, C, : 
+
+2904.20.00 00 -Derivatives containing only nitro or only nitroso groups, H, C, : 
+
+29.04
+
+Sulphonated, nitrated or nitrosated derivatives of hydrocarbons
+whether or not halogenated.
+
+-Perfluorooctane sulphonic acid, its salts and perfluorooctane
+sulphonyl fluoride:
+
+Issued January 1, 2025
+
+29 - 9
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2904.31.00 00 - -Perfluorooctane sulphonic acid, H, C, : 
+
+2904.32.00 00 - -Ammonium perfluorooctane sulphonate, H, C, : 
+
+2904.33.00 00 - -Lithium perfluorooctane sulphonate, H, C, : 
+
+2904.34.00 00 - -Potassium perfluorooctane sulphonate, H, C, : 
+
+2904.35.00 00 - -Other salts of perfluorooctane sulphonic acid, H, C, : 
+
+2904.36.00 00 - -Perfluorooctane sulphonyl fluoride, H, C, : 
+
+2904.91.00 00 - -Trichloronitromethane (chloropicrin), H, C, : 
+
+2904.99.00 00 - -Other, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Other:
+
+II. -ALCOHOLS AND THEIR HALOGENATED, SULPHONATED, NRATED
+OR NROSATED DERIVATIVES
+29.05
+
+Acyclic alcohols and their halogenated, sulphonated, nitrated or
+nitrosated derivatives.
+-Saturated monohydric alcohols:
+
+Issued January 1, 2025
+
+29 - 10
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2905.11.00 00 - -Methanol (methyl alcohol)
+
+2905.12.00
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, : 
+
+- -Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol)
+
+10 - - - - -Propan-1-ol.............................................................................................
+20 - - - - -Propan-2-ol.............................................................................................
+
+
+
+
+2905.13.00 00 - -Butan-1-ol (n-butyl alcohol), H, C, : 
+
+2905.14.00 00 - -Other butanols, H, C, :, H, C, :, H, C, :, H, C, : 
+
+2905.16.00
+
+- -Octanol (octyl alcohol) and isomers thereof
+
+20 - - - - -2-Ethyl-1-hexanol ...................................................................................
+90 - - - - -Other ......................................................................................................
+2905.17.00 00 - -Dodecan-1-ol (lauryl alcohol), hexadecan-1-ol (cetyl alcohol) and
+octadecan-1-ol (stearyl alcohol)
+
+2905.19.00
+
+
+
+
+
+- -Other
+
+50 - - - - -3,3-Dimethylbutan-2-ol (pinacolyl alcohol)
+...............................................................................................................
+90 - - - - -Other
+...............................................................................................................
+-Unsaturated monohydric alcohols:
+
+Issued January 1, 2025
+
+
+
+
+29 - 11
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2905.22.00 00 - -Acyclic terpene alcohols, H, C, : 
+
+2905.29.00 00 - -Other, H, C, : 
+
+2905.31.00 00 - -Ethylene glycol (ethanediol), H, C, : 
+
+2905.32.00 00 - -Propylene glycol (propane-1,2-diol), H, C, : 
+
+2905.39.00 00 - -Other, H, C, : 
+
+2905.41.00 00 - -2-Ethyl-2-(hydroxymethyl) propane-1,3-diol (trimethylolpropane), H, C, : 
+
+2905.42.00 00 - -Pentaerythritol, H, C, : 
+
+2905.43.00 00 - -Mannitol, H, C, : 
+
+2905.44.00 00 - -D-glucitol (sorbitol), H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Diols:
+
+-Other polyhydric alcohols:
+
+Issued January 1, 2025
+
+29 - 12
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2905.45.00 00 - -Glycerol
+
+2905.49.00
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, : 
+
+- -Other
+
+10 - - - - -Esters of glycerol, formed with acids of heading 29.04 ..........................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+-Halogenated, sulphonated, nitrated or nitrosated derivatives of acyclic
+alcohols:
+2905.51.00 00 - -Ethchlorvynol (INN), H, C, : 
+
+2905.59.00 00 - -Other, H, C, : 
+
+2906.11.00 00 - -Menthol, H, C, : 
+
+2906.12.00 00 - -Cyclohexanol, methylcyclohexanols and dimethylcyclohexanols, H, C, : 
+
+2906.13.00 00 - -Sterols and inositols, H, C, : 
+
+29.06
+
+Cyclic alcohols and their halogenated, sulphonated, nitrated or
+nitrosated derivatives.
+-Cyclanic, cyclenic or cycloterpenic:
+
+Issued January 1, 2025
+
+29 - 13
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2906.21.00 00 - -Benzyl alcohol, H, C, : 
+
+2906.29.00 00 - -Other, H, C, : 
+
+2907.11.00 00 - -Phenol (hydroxybenzene) and its salts, H, C, : 
+
+2907.12.00 00 - -Cresols and their salts, H, C, : 
+
+2907.13.00 00 - -Octylphenol, nonylphenol and their isomers; salts thereof, H, C, : 
+
+2907.15.00 00 - -Naphthols and their salts, H, C, : 
+
+2907.19.00 00 - -Other, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2906.19.00 00 - -Other
+
+-Aromatic:
+
+III. -PHENOLS, PHENOL-ALCOHOLS AND THEIR HALOGENATED
+SULPHONATED, NRATED OR NROSATED DERIVATIVES
+29.07
+
+Phenols; phenol-alcohols.
+-Monophenols:
+
+Issued January 1, 2025
+
+29 - 14
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2907.21.00 00 - -Resorcinol and its salts, H, C, : 
+
+2907.22.00 00 - -Hydroquinone (quinol) and its salts, H, C, : 
+
+2907.23.00 00 - -4,4'-Isopropylidenediphenol (bisphenol A, diphenylolpropane) and its
+salts, H, C, : 
+
+2907.29.00 00 - -Other, H, C, : 
+
+2908.11.00 00 - -Pentachlorophenol (ISO), H, C, : 
+
+2908.19.00 00 - -Other, H, C, : 
+
+2908.91.00 00 - -Dinoseb (ISO) and its salts, H, C, : 
+
+2908.92.00 00 - -4,6-Dinitro-o-cresol (DNOC (ISO)) and its salts, H, C, : 
+
+SS
+
+Description of Goods
+-Polyphenols; phenol-alcohols:
+
+29.08
+
+Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols
+or phenol-alcohols.
+-Derivatives containing only halogen substituents and their salts:
+
+-Other:
+
+Issued January 1, 2025
+
+29 - 15
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2909.11.00 00 - -Diethyl ether, H, C, : 
+
+2909.19.00 00 - -Other, H, C, : 
+
+2909.20.00 00 -Cyclanic, cyclenic or cycloterpenic ethers and their halogenated
+sulphonated, nitrated or nitrosated derivatives, H, C, :, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2908.99.00 00 - -Other
+
+IV. -ETHERS, ALCOHOL PEROXIDES, ETHER PEROXIDES, KETONE
+PEROXIDES, EPOXIDES WH A THREE-MEMBERED RING, ACETALS
+AND HEMIACETALS, AND THEIR HALOGENATED, SULPHONATED
+NRATED OR NROSATED DERIVATIVES
+29.09
+
+Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol
+peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone
+peroxides (whether or not chemically defined), and their halogenated
+sulphonated, nitrated or nitrosated derivatives.
+-Acyclic ethers and their halogenated, sulphonated, nitrated or
+nitrosated derivatives:
+
+2909.30.00
+
+-Aromatic ethers and their halogenated, sulphonated, nitrated or
+nitrosated derivatives
+
+20 - - - - -Decabromodiphenyl ether........................................................................
+
+
+
+90 - - - - -Other........................................................................................................
+
+
+
+-Ether-alcohols and their halogenated, sulphonated, nitrated or
+nitrosated derivatives:
+2909.41.00 00 - -2,2'-Oxydiethanol (diethylene glycol, digol)
+
+
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+29 - 16
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2909.43.00 00 - -Monobutyl ethers of ethylene glycol or of diethylene glycol, H, C, : 
+
+2909.44.00 00 - -Other monoalkylethers of ethylene glycol or of diethylene glycol, H, C, :, H, C, : 
+
+2909.49.00
+
+SS
+
+Description of Goods
+
+- -Other
+
+10 - - - - -Triethylene glycol....................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2909.50.00 00 -Ether-phenols, ether-alcohol-phenols and their halogenated
+sulphonated, nitrated or nitrosated derivatives, H, C, : 
+
+2909.60.00 00 -Alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides
+ketone peroxides and their halogenated, sulphonated, nitrated or
+nitrosated derivatives, H, C, : 
+
+2910.10.00 00 -Oxirane (ethylene oxide), H, C, : 
+
+2910.20.00 00 -Methyloxirane (propylene oxide), H, C, : 
+
+2910.30.00 00 -1-Chloro-2,3-epoxypropane (epichlorohydrin), H, C, : 
+
+29.10
+
+Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a threemembered ring, and their halogenated, sulphonated, nitrated or
+nitrosated derivatives.
+
+Issued January 1, 2025
+
+29 - 17
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2910.40.00 00 -Dieldrin (ISO, INN), H, C, : 
+
+2910.50.00 00 -Endrin (ISO), H, C, : 
+
+2910.90.00 00 -Other, H, C, : 
+
+2911.00.00 00 Acetals and hemiacetals, whether or not with other oxygen function, and
+their halogenated, sulphonated, nitrated or nitrosated derivatives., H, C, : 
+
+2912.11.00 00 - -Methanal (formaldehyde), H, C, : 
+
+2912.12.00 00 - -Ethanal (acetaldehyde), H, C, : 
+
+2912.19.00 00 - -Other, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+V. -ALDEHYDE-FUNION COMPOUNDS
+29.12
+
+Aldehydes, whether or not with other oxygen function; cyclic polymers
+of aldehydes; paraformaldehyde.
+-Acyclic aldehydes without other oxygen function:
+
+-Cyclic aldehydes without other oxygen function:
+2912.21.00 00 - -Benzaldehyde
+
+Issued January 1, 2025
+
+29 - 18
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2912.41.00 00 - -Vanillin (4-hydroxy-3-methoxybenzaldehyde), H, C, : 
+
+2912.42.00 00 - -Ethylvanillin (3-ethoxy-4-hydroxybenzaldehyde), H, C, : 
+
+2912.49.00 00 - -Other, H, C, : 
+
+2912.50.00 00 -Cyclic polymers of aldehydes, H, C, : 
+
+2912.60.00 00 -Paraformaldehyde, H, C, : 
+
+2913.00.00 00 Halogenated, sulphonated, nitrated or nitrosated derivatives of products
+of heading 29.12., H, C, : 
+
+SS
+
+Description of Goods
+
+2912.29.00 00 - -Other
+
+-Aldehyde-alcohols, aldehyde-ethers, aldehyde-phenols and aldehydes
+with other oxygen function:
+
+VI. -KETONE-FUNION COMPOUNDS AND QUINONE-FUNION
+COMPOUNDS
+29.14
+
+Ketones and quinones, whether or not with other oxygen function, and
+their halogenated, sulphonated, nitrated or nitrosated derivatives.
+-Acyclic ketones without other oxygen function:
+
+Issued January 1, 2025
+
+29 - 19
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2914.11.00 00 - -Acetone, H, C, : 
+
+2914.12.00 00 - -Butanone (methyl ethyl ketone), H, C, : 
+
+2914.13.00 00 - -4-Methylpentan-2-one (methyl isobutyl ketone), H, C, : 
+
+2914.19.00 00 - -Other, H, C, : 
+
+2914.22.00 00 - -Cyclohexanone and methylcyclohexanones, H, C, : 
+
+2914.23.00 00 - -Ionones and methylionones, H, C, : 
+
+2914.29.00 00 - -Other, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Cyclanic, cyclenic or cycloterpenic ketones without other oxygen
+function:
+
+-Aromatic ketones without other oxygen function:
+2914.31.00 00 - -Phenylacetone (phenylpropan-2-one)
+
+Issued January 1, 2025
+
+29 - 20
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2914.39.00 00 - -Other, H, C, : 
+
+2914.40.00 00 -Ketone-alcohols and ketone-aldehydes, H, C, : 
+
+2914.50.00 00 -Ketone-phenols and ketones with other oxygen function, H, C, : 
+
+2914.61.00 00 - -Anthraquinone, H, C, : 
+
+2914.62.00 00 - -Coenzyme Q10 (ubidecarenone (INN)), H, C, : 
+
+2914.69.00 00 - -Other, H, C, : 
+
+2914.71.00 00 - -Chlordecone (ISO), H, C, : 
+
+2914.79.00 00 - -Other, H, C, : 
+
+SS
+
+Description of Goods
+
+-Quinones:
+
+-Halogenated, sulphonated, nitrated or nitrosated derivatives:
+
+VII. -CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES
+PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED
+SULPHONATED, NRATED OR NROSATED DERIVATIVES
+
+Issued January 1, 2025
+
+29 - 21
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2915.11.00 00 - -Formic acid, H, C, : 
+
+2915.12.00 00 - -Salts of formic acid, H, C, : 
+
+2915.13.00 00 - -Esters of formic acid, H, C, : 
+
+2915.21.00 00 - -Acetic acid, H, C, : 
+
+2915.24.00 00 - -Acetic anhydride, H, C, : 
+
+2915.29.00 00 - -Other, H, C, : 
+
+2915.31.00 00 - -Ethyl acetate, H, C, : 
+
+2915.32.00 00 - -Vinyl acetate, H, C, : 
+
+Tariff
+Item
+29.15
+
+SS
+
+Description of Goods
+Saturated acyclic monocarboxylic acids and their anhydrides, halides
+peroxides and peroxyacids; their halogenated, sulphonated, nitrated or
+nitrosated derivatives.
+-Formic acid, its salts and esters:
+
+-Acetic acid and its salts; acetic anhydride:
+
+-Esters of acetic acid:
+
+Issued January 1, 2025
+
+29 - 22
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2915.33.00 00 - -n-Butyl acetate, H, C, : 
+
+2915.36.00 00 - -Dinoseb (ISO) acetate, H, C, : 
+
+2915.39.00 00 - -Other, H, C, : 
+
+2915.40.00 00 -Mono-, di- or trichloroacetic acids, their salts and esters, H, C, :, H, C, : 
+
+2915.50.00
+
+SS
+
+Description of Goods
+
+-Propionic acid, its salts and esters
+
+30 - - - - -Propionic acid .........................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2915.60.00 00 -Butanoic acids, pentanoic acids, their salts and esters, H, C, : 
+
+2915.70.00 00 -Palmitic acid, stearic acid, their salts and esters, H, C, :, H, C, : 
+
+2915.90.00
+
+-Other
+
+10 - - - - -Perfluorooctanoic acids and their salts....................................................
+90 - - - - -Other........................................................................................................
+29.16
+
+Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic
+acids, their anhydrides, halides, peroxides and peroxyacids; their
+halogenated, sulphonated, nitrated or nitrosated derivatives.
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+
+
+
+29 - 23
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, :, H, C, : 
+
+-Unsaturated acyclic monocarboxylic acids, their anhydrides, halides
+peroxides, peroxyacids and their derivatives:
+2916.11.00 00 - -Acrylic acid and its salts
+
+2916.12.00
+
+- -Esters of acrylic acid
+
+10 - - - - -Butyl acrylate..........................................................................................
+20 - - - - -Ethyl acrylate..........................................................................................
+30 - - - - -2-Ethylhexyl acrylate ..............................................................................
+90 - - - - -Other ......................................................................................................
+2916.13.00 00 - -Methacrylic acid and its salts
+
+2916.14.00
+
+
+
+
+
+
+
+- -Esters of methacrylic acid
+
+40 - - - - -Methyl methacrylate ...............................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2916.15.00 00 - -Oleic, linoleic or linolenic acids, their salts and esters, H, C, : 
+
+2916.16.00 00 - -Binapacryl (ISO), H, C, :, H, C, : 
+
+2916.19.00
+
+- -Other
+
+30 - - - - -Potassium sorbate .................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+Issued January 1, 2025
+
+29 - 24
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2916.31.00 00 - -Benzoic acid, its salts and esters, H, C, : 
+
+2916.32.00 00 - -Benzoyl peroxide and benzoyl chloride, H, C, : 
+
+2916.34.00 00 - -Phenylacetic acid and its salts, H, C, : 
+
+2916.39.00 00 - -Other, H, C, : 
+
+2917.11.00 00 - -Oxalic acid, its salts and esters, H, C, : 
+
+2917.12.00 00 - -Adipic acid, its salts and esters, H, C, : 
+
+2917.13.00 00 - -Azelaic acid, sebacic acid, their salts and esters, H, C, : 
+
+SS
+
+Description of Goods
+
+2916.20.00 00 -Cyclanic, cyclenic or cycloterpenic monocarboxylic acids, their
+anhydrides, halides, peroxides, peroxyacids and their derivatives
+
+-Aromatic monocarboxylic acids, their anhydrides, halides, peroxides
+peroxyacids and their derivatives:
+
+29.17
+
+Polycarboxylic acids, their anhydrides, halides, peroxides and
+peroxyacids; their halogenated, sulphonated, nitrated or nitrosated
+derivatives.
+-Acyclic polycarboxylic acids, their anhydrides, halides, peroxides
+peroxyacids and their derivatives:
+
+Issued January 1, 2025
+
+29 - 25
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2917.14.00 00 - -Maleic anhydride, H, C, : 
+
+2917.19.00 00 - -Other, H, C, : 
+
+2917.20.00 00 -Cyclanic, cyclenic or cycloterpenic polycarboxylic acids, their
+anhydrides, halides, peroxides, peroxyacids and their derivatives, H, C, :, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Aromatic polycarboxylic acids, their anhydrides, halides, peroxides
+peroxyacids and their derivatives:
+2917.32.00 00 - -Dioctyl orthophthalates
+
+2917.33.00
+
+- -Dinonyl or didecyl orthophthalates
+
+10 - - - - -Diisononyl orthophthalate.......................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2917.34.00 00 - -Other esters of orthophthalic acid, H, C, : 
+
+2917.35.00 00 - -Phthalic anhydride, H, C, : 
+
+2917.36.00 00 - -Terephthalic acid and its salts, H, C, : 
+
+Issued January 1, 2025
+
+29 - 26
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2917.37.00 00 - -Dimethyl terephthalate
+
+2917.39.00
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, : 
+
+- -Other
+
+10 - - - - -Trimellitic anhydride................................................................................
+20 - - - - -Isophthalic acid.......................................................................................
+90 - - - - -Other ......................................................................................................
+29.18
+
+Unit of
+Meas.
+
+
+
+
+
+Carboxylic acids with additional oxygen function and their anhydrides
+halides, peroxides and peroxyacids; their halogenated, sulphonated
+nitrated or nitrosated derivatives.
+-Carboxylic acids with alcohol function but without other oxygen
+function, their anhydrides, halides, peroxides, peroxyacids and their
+derivatives:
+
+2918.11.00
+
+- -Lactic acid, its salts and esters
+
+10 - - - - -Lactic acid ..............................................................................................
+20 - - - - -Salts .......................................................................................................
+30 - - - - -Esters .....................................................................................................
+
+
+
+
+
+2918.12.00 00 - -Tartaric acid, H, C, : 
+
+2918.13.00 00 - -Salts and esters of tartaric acid, H, C, : 
+
+2918.14.00 00 - -Citric acid, H, C, :, H, C, : 
+
+2918.15.00
+
+- -Salts and esters of citric acid
+
+40 - - - - -Esters of citric acid .................................................................................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+
+
+
+29 - 27
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2918.16.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Gluconic acid, its salts and esters
+
+30 - - - - -Esters of gluconic acid ...........................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+
+2918.17.00 00 - -2,2-Diphenyl-2-hydroxyacetic acid (benzilic acid), H, C, : 
+
+2918.18.00 00 - -Chlorobenzilate (ISO), H, C, : 
+
+2918.19.00 00 - -Other, H, C, : 
+
+2918.21.00 00 - -Salicylic acid and its salts, H, C, : 
+
+2918.22.00 00 - -O-Acetylsalicylic acid, its salts and esters, H, C, : 
+
+2918.23.00 00 - -Other esters of salicylic acid and their salts, H, C, : 
+
+2918.29.00 00 - -Other, H, C, : 
+
+-Carboxylic acids with phenol function but without other oxygen
+function, their anhydrides, halides, peroxides, peroxyacids and their
+derivatives:
+
+Issued January 1, 2025
+
+29 - 28
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2918.30.00 00 -Carboxylic acids with aldehyde or ketone function but without other
+oxygen function, their anhydrides, halides, peroxides, peroxyacids and
+their derivatives
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, : 
+
+-Other:
+2918.91.00 00 - -2,4,5-T (ISO) (2,4,5-trichlorophenoxyacetic acid), its salts and esters
+
+2918.99.00
+
+- -Other
+
+10 - - - - -2,4-Dichlorophenoxyacetic acid, its salts and esters..............................
+20 - - - - -2-Methyl-4-cholorophenoxyacetic acid, its salts and esters ...................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+
+VIII. -ESTERS OF INORGANIC ACIDS OF NON-METALS AND THEIR
+SALTS, AND THEIR HALOGENATED, SULPHONATED, NRATED OR
+NROSATED DERIVATIVES
+29.19
+
+Phosphoric esters and their salts, including lactophosphates; their
+halogenated, sulphonated, nitrated or nitrosated derivatives.
+
+2919.10.00 00 -Tris(2,3-dibromopropyl) phosphate, H, C, : 
+
+2919.90.00 00 -Other, H, C, :, H, C, : 
+
+29.20
+
+Esters of other inorganic acids of non-metals (excluding esters of
+hydrogen halides) and their salts; their halogenated, sulphonated
+nitrated or nitrosated derivatives.
+-Thiophosphoric esters (phosphorothioates) and their salts; their
+halogenated, sulphonated, nitrated or nitrosated derivatives:
+
+2920.11.00 00 - -Parathion (ISO) and parathion-methyl (ISO) (methyl-parathion)
+
+Issued January 1, 2025
+
+29 - 29
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2920.21.00 00 - -Dimethyl phosphite, H, C, : 
+
+2920.22.00 00 - -Diethyl phosphite, H, C, : 
+
+2920.23.00 00 - -Trimethyl phosphite, H, C, : 
+
+2920.24.00 00 - -Triethyl phosphite, H, C, : 
+
+2920.29.00 00 - -Other, H, C, : 
+
+2920.30.00 00 -Endosulfan (ISO), H, C, : 
+
+2920.90.00 00 -Other, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2920.19.00 00 - -Other
+
+-Phosphite esters and their salts; their halogenated, sulphonated
+nitrated or nitrosated derivatives:
+
+IX. -NROGEN-FUNION COMPOUNDS
+29.21
+
+Amine-function compounds.
+-Acyclic monoamines and their derivatives; salts thereof:
+
+Issued January 1, 2025
+
+29 - 30
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2921.11.00 00 - -Methylamine, di- or trimethylamine and their salts, H, C, : 
+
+2921.12.00 00 - -2-(N,N-Dimethylamino)ethylchloride hydrochloride, H, C, : 
+
+2921.13.00 00 - -2-(N,N-Diethylamino)ethylchloride hydrochloride, H, C, : 
+
+2921.14.00 00 - -2-(N,N-Diisopropylamino)ethylchloride hydrochloride, H, C, :, H, C, : 
+
+2921.19.00
+
+SS
+
+Description of Goods
+
+- -Other
+
+70 - - - - -N,N-Dialkyl (methyl, ethyl, n-propyl or isopropyl) -2-chloroethylamines
+and their protonated salts
+...............................................................................................................
+90 - - - - -Other
+...............................................................................................................
+
+
+
+
+-Acyclic polyamines and their derivatives; salts thereof:
+2921.21.00 00 - -Ethylenediamine and its salts, H, C, : 
+
+2921.22.00 00 - -Hexamethylenediamine and its salts, H, C, : 
+
+2921.29.00 00 - -Other, H, C, : 
+
+Issued January 1, 2025
+
+29 - 31
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2921.41.00 00 - -Aniline and its salts, H, C, : 
+
+2921.42.00 00 - -Aniline derivatives and their salts, H, C, : 
+
+2921.43.00 00 - -Toluidines and their derivatives; salts thereof, H, C, : 
+
+2921.44.00 00 - -Diphenylamine and its derivatives; salts thereof, H, C, : 
+
+2921.45.00 00 - -1-Naphthylamine (alpha-naphthylamine), 2-naphthylamine (betanaphthylamine) and their derivatives; salts thereof, H, C, : 
+
+2921.46.00 00 - -Amfetamine (INN), benzfetamine (INN), dexamfetamine (INN)
+etilamfetamine (INN), fencamfamin (INN), lefetamine (INN)
+levamfetamine (INN), mefenorex (INN) and phentermine (INN); salts
+thereof, H, C, : 
+
+2921.49.00 00 - -Other, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2921.30.00 00 -Cyclanic, cyclenic or cycloterpenic mono- or polyamines, and their
+derivatives; salts thereof
+
+-Aromatic monoamines and their derivatives; salts thereof:
+
+-Aromatic polyamines and their derivatives; salts thereof:
+2921.51.00 00 - -o-, m-, p-Phenylenediamine, diaminotoluenes, and their derivatives;
+salts thereof
+
+Issued January 1, 2025
+
+29 - 32
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2922.11.00 00 - -Monoethanolamine and its salts, H, C, : 
+
+2922.12.00 00 - -Diethanolamine and its salts, H, C, : 
+
+2922.14.00 00 - -Dextropropoxyphene (INN) and its salts, H, C, : 
+
+2922.15.00 00 - -Triethanolamine, H, C, : 
+
+2922.16.00 00 - -Diethanolammonium perfluorooctane sulphonate, H, C, : 
+
+2922.17.00 00 - -Methyldiethanolamine and ethyldiethanolamine, H, C, : 
+
+2922.18.00 00 - -2-(N,N-Diisopropylamino)ethanol, H, C, : 
+
+SS
+
+Description of Goods
+
+2921.59.00 00 - -Other
+
+29.22
+
+Oxygen-function amino-compounds.
+-Amino-alcohols, other than those containing more than one kind of
+oxygen function, their ethers and esters; salts thereof:
+
+Issued January 1, 2025
+
+29 - 33
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2922.19.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Other
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+- - - - -N,N-Dialkyl (methyl, ethyl, n-propyl or isopropyl) -2-aminoethanols and
+their protonated salts :
+11 - - - - - -N,N-Dimethyl-2-aminoethanol and its protonated salts
+.............................................................................................................
+12 - - - - - -N,N-Diethyl-2-aminoethanol and its protonated salts
+.............................................................................................................
+19 - - - - - -Other
+.............................................................................................................
+90 - - - - -Other
+...............................................................................................................
+
+
+
+
+
+
+-Amino-naphthols and other amino-phenols, other than those
+containing more than one kind of oxygen function, their ethers and
+esters; salts thereof:
+2922.21.00 00 - -Aminohydroxynaphthalenesulphonic acids and their salts, H, C, : 
+
+2922.29.00 00 - -Other, H, C, : 
+
+2922.31.00 00 - -Amfepramone (INN), methadone (INN) and normethadone (INN); salts
+thereof, H, C, : 
+
+2922.39.00 00 - -Other, H, C, :, H, C, : 
+
+-Amino-aldehydes, amino-ketones and amino-quinones, other than
+those containing more than one kind of oxygen function; salts thereof:
+
+-Amino-acids, other than those containing more than one kind of
+oxygen function, and their esters; salts thereof:
+2922.41.00
+
+- -Lysine and its esters; salts thereof
+
+Issued January 1, 2025
+
+29 - 34
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Lysine and its salts; Lysine esters and their salts, for use in the
+manufacture of animal or poultry feeds ..................................................
+90 - - - - -Other ......................................................................................................
+2922.42.00
+
+Unit of
+Meas.
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+
+- -Glutamic acid and its salts
+
+20 - - - - -Monosodium glutamate ..........................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+
+
+
+2922.43.00 00 - -Anthranilic acid and its salts, H, C, : 
+
+2922.44.00 00 - -Tilidine (INN) and its salts, H, C, :, H, C, :, H, C, :, H, C, : 
+
+2922.49.00
+
+- -Other
+
+- - - - -Aromatic:
+11 - - - - - -m-Aminobenzoic acid; p-Aminobenzoic acid; 3,5-Diaminobenzoic
+acid; 2-Ethylamino-5-sulfobenzoic acid; 3-(N-ethyl-anilino) propionic
+acid methyl ester; Methyl anthranilate; L-phenylalanine ......................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Edetic acid and its derivatives ................................................................
+30 - - - - -Glycine and its derivatives......................................................................
+40 - - - - -Sodium nitrilotriacetate ...........................................................................
+90 - - - - -Other ......................................................................................................
+2922.50.00
+
+-Amino-alcohol-phenols, amino-acid-phenols and other aminocompounds with oxygen function
+
+20 - - - - -L-threonine .............................................................................................
+90 - - - - -Other ......................................................................................................
+29.23
+
+
+
+
+
+
+
+
+
+
+
+Quaternary ammonium salts and hydroxides; lecithins and other
+phosphoaminolipids, whether or not chemically defined.
+
+2923.10.00 00 -Choline and its salts
+
+Issued January 1, 2025
+
+
+
+29 - 35
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2923.20.00 00 -Lecithins and other phosphoaminolipids, H, C, : 
+
+2923.30.00 00 -Tetraethylammonium perfluorooctane sulphonate, H, C, : 
+
+2923.40.00 00 -Didecyldimethylammonium perfluorooctane sulphonate, H, C, : 
+
+2923.90.00 00 -Other, H, C, : 
+
+2924.11.00 00 - -Meprobamate (INN), H, C, : 
+
+2924.12.00 00 - -Fluoroacetamide (ISO), monocrotophos (ISO) and phosphamidon
+(ISO), H, C, : 
+
+2924.19.00 00 - -Other, H, C, :, H, C, : 
+
+Tariff
+Item
+
+29.24
+
+SS
+
+Description of Goods
+
+Carboxyamide-function compounds; amide-function compounds of
+carbonic acid.
+-Acyclic amides (including acyclic carbamates) and their derivatives;
+salts thereof:
+
+-Cyclic amides (including cyclic carbamates) and their derivatives; salts
+thereof:
+2924.21.00 00 - -Ureines and their derivatives; salts thereof
+
+Issued January 1, 2025
+
+29 - 36
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2924.23.00 00 - -2-Acetamidobenzoic acid (N-acetylanthranilic acid) and its salts, H, C, : 
+
+2924.24.00 00 - -Ethinamate (INN), H, C, : 
+
+2924.25.00 00 - -Alachlor (ISO), H, C, :, H, C, :, H, C, : 
+
+2924.29.00
+
+SS
+
+Description of Goods
+
+- -Other
+
+20 - - - - -Acetaminophen ......................................................................................
+80 - - - - -Other aromatics ......................................................................................
+90 - - - - -Other ......................................................................................................
+29.25
+
+
+
+
+
+Carboxyimide-function compounds (including saccharin and its salts)
+and imine-function compounds.
+-Imides and their derivatives; salts thereof:
+
+2925.11.00
+
+- -Saccharin and its salts
+
+10 - - - - -Saccharin ...............................................................................................
+20 - - - - -Salts of saccharin ...................................................................................
+
+
+
+
+2925.12.00 00 - -Glutethimide (INN), H, C, : 
+
+2925.19.00 00 - -Other, H, C, : 
+
+-Imines and their derivatives; salts thereof:
+
+Issued January 1, 2025
+
+29 - 37
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2925.21.00 00 - -Chlordimeform (ISO), H, C, : 
+
+2925.29.00 00 - -Other, H, C, : 
+
+2926.10.00 00 -Acrylonitrile, H, C, : 
+
+2926.20.00 00 -1-Cyanoguanidine (dicyandiamide), H, C, : 
+
+2926.30.00 00 -Fenproporex (INN) and its salts; methadone (INN) intermediate
+(4-cyano-2-dimethylamino-4,4-diphenylbutane), H, C, : 
+
+2926.40.00 00 -alpha-Phenylacetoacetonitrile, H, C, : 
+
+2926.90.00 00 -Other, H, C, : 
+
+2927.00.00 00 Diazo-, azo- or azoxy-compounds., H, C, :, H, C, : 
+
+Tariff
+Item
+
+29.26
+
+2928.00.00
+
+SS
+
+Description of Goods
+
+Nitrile-function compounds.
+
+Organic derivatives of hydrazine or of hydroxylamine.
+
+20 - - - - -Aromatic .................................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+Issued January 1, 2025
+
+29 - 38
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+29.29
+
+Compounds with other nitrogen function.
+
+2929.10.00
+
+-Isocyanates
+
+10 - - - - -Toluene diisocyanates............................................................................
+20 - - - - -Diphenylmethane-4,4'-diisocyanate .......................................................
+90 - - - - -Other ......................................................................................................
+2929.90.00
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, : 
+
+
+
+
+
+-Other
+
+- - - - -N,N-Dialkyl (methyl, ethyl, n-propyl or isopropyl) phosphoramidic
+dihalides:
+11 - - - - - -N,N-Dimethylphosphoramidic dichloride
+.............................................................................................................
+19 - - - - - -Other
+.............................................................................................................
+20 - - - - -Dialkyl (methyl, ethyl, n-propyl or isopropyl) N,N-dialkyl (methyl, ethyl
+n-propyl or isopropyl) phosphoramidates
+...............................................................................................................
+30 - - - - -N-(1-(Dialkyl (<=C10, incl. cycloalkyl) amino))alkylidene (H or <=C10
+incl. cycloalkyl) phosphonamidic fluorides and corresponding alkylated
+or protonated salts
+...............................................................................................................
+40 - - - - -O-Alkyl (H or <=C10, incl. cycloalkyl) N-(1-(dialkyl (<=C10, incl.
+cycloalkyl) amino))alkylidene (H or <=C10, incl. cycloalkyl)
+phosphoramidofluoridates and corresponding alkylated or protonated
+salts
+...............................................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+X. -ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC
+COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND
+SULPHONAMIDES
+29.30
+
+Organo-sulphur compounds.
+
+2930.10.00 00 -2-(N,N-Dimethylamino) ethanethiol, H, C, : 
+
+2930.20.00 00 -Thiocarbamates and dithiocarbamates, H, C, : 
+
+Issued January 1, 2025
+
+29 - 39
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2930.30.00 00 -Thiuram mono-, di- or tetrasulphides, H, C, : 
+
+2930.40.00 00 -Methionine, H, C, : 
+
+2930.60.00 00 -2-(N,N-Diethylamino)ethanethiol, H, C, : 
+
+2930.70.00 00 -Bis(2-hydroxyethyl)sulfide (thiodiglycol (INN)), H, C, : 
+
+2930.80.00 00 -Aldicarb (ISO), captafol (ISO) and methamidophos (ISO), H, C, :, H, C, : 
+
+Tariff
+Item
+
+2930.90.00
+
+SS
+
+Description of Goods
+
+-Other
+
+- - - - -Thiols:
+
+18 - - - - - -N,N-Dialkyl (methyl, ethyl, n-propyl or isopropyl) aminoethane-2-thiols
+and their protonated salts, except for 2-(N,Ndimethylamino)ethanethiol and 2-(N,N-diethylamino)ethanethiol
+.............................................................................................................
+19 - - - - - -Other
+.............................................................................................................
+20 - - - - -Methionine derivatives and its analogues ..............................................
+50 - - - - -O-Ethyl S-phenyl ethylphosphonothiolothionate (fonofos)
+...............................................................................................................
+60 - - - - -Phorate (ISO)
+...............................................................................................................
+70 - - - - -O,O-Diethyl S-[2-(diethylamino)ethyl]phosphorothioate and its alkylated
+or protonated salts
+...............................................................................................................
+- - - - -Other :
+
+
+
+
+
+
+
+
+
+Issued January 1, 2025
+
+29 - 40
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+94 - - - - - -Containing a phosphorus atom to which one methyl, ethyl, N-propyl or
+isopropyl group is bonded but no further carbon atoms
+.............................................................................................................
+99 - - - - - -Other
+.............................................................................................................
+29.31
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+
+
+
+Other organo-inorganic compounds.
+
+2931.10.00 00 -Tetramethyl lead and tetraethyl lead, H, C, : 
+
+2931.20.00 00 -Tibutyltin compounds, H, C, : 
+
+2931.41.00 00 - -Dimethyl methylphosphonate, H, C, : 
+
+2931.42.00 00 - -Dimethyl propylphosphonate, H, C, : 
+
+2931.43.00 00 - -Diethyl ethylphosphonate, H, C, : 
+
+2931.44.00 00 - -Methylphosphonic acid, H, C, : 
+
+2931.45.00 00 - -Salt of methylphosphonic acid and (aminoiminomethyl)urea (1 : 1), H, C, : 
+
+2931.46.00 00 - -2,4,6-Tripropyl-1,3,5,2,4,6-trioxatriphosphinane 2,4,6-trioxide, H, C, : 
+
+-Non-halogenated organo-phosphorous derivatives:
+
+Issued January 1, 2025
+
+29 - 41
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2931.47.00 00 - -(5-Ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl) methyl methyl
+methylphosphonate, H, C, : 
+
+2931.48.00 00 - -3,9-Dimethyl-2,4,8,10-tetraoxa-3,9-diphosphaspiro[5.5] undecane 3,9dioxide, H, C, :, H, C, : 
+
+Tariff
+Item
+
+2931.49.00
+
+SS
+
+Description of Goods
+
+- -Other
+
+10 - - - - -Butyl methylphosphinate
+...............................................................................................................
+20 - - - - -Bis(1-methylpentyl) methylphosphonate
+...............................................................................................................
+- - - - -Other :
+91 - - - - - -Containing a phosphorus atom to which one methyl, ethyl, N-propyl or
+isopropyl group is bonded but no further carbon atoms
+.............................................................................................................
+99 - - - - - -Other
+.............................................................................................................
+
+
+
+
+
+
+
+-Halogenated organo-phosphorous derivatives :
+2931.51.00 00 - -Methylphosphonic dichloride, H, C, : 
+
+2931.52.00 00 - -Propylphosphonic dichloride, H, C, : 
+
+2931.53.00 00 - -O-(3-chloropropyl) O-[4-nitro-3-(trifluoromethyl)phenyl]
+methylphosphonothionate, H, C, : 
+
+2931.54.00 00 - -Trichlorfon (ISO), H, C, : 
+
+Issued January 1, 2025
+
+29 - 42
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2931.59.00
+
+2931.90.00
+
+SS
+
+Description of Goods
+- -Other
+
+10 - - - - -P-Alkyl (<=C10, incl. cycloalkyl) N-(1-(dialkyl (<=C10, incl. cycloalkyl)
+amino))alkylidene (H or <=C10, incl. cycloalkyl) phosphonamidic
+fluorides and corresponding alkylated or protonated salts
+...............................................................................................................
+20 - - - - -Methyl-(bis(diethylamino)methylene)phosphonamidofluoridate
+...............................................................................................................
+- - - - -Other :
+
+
+
+91 - - - - - -Containing a phosphorus atom to which one methyl, ethyl, N-propyl or
+isopropyl group is bonded but no further carbon atoms
+.............................................................................................................
+99 - - - - - -Other
+.............................................................................................................
+
+
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, : 
+
+
+
+
+
+-Other
+
+10 - - - - -Triethylaluminum ....................................................................................
+20 - - - - -N-(Phosphonomethyl)glycine and its salts .............................................
+30 - - - - -Organo-silicon compounds.....................................................................
+90 - - - - -Other ......................................................................................................
+29.32
+
+Unit of
+Meas.
+
+
+
+
+
+
+Heterocyclic compounds with oxygen hetero-atom(s) only.
+-Compounds containing an unfused furan ring (whether or not
+hydrogenated) in the structure:
+
+2932.11.00 00 - -Tetrahydrofuran, H, C, : 
+
+2932.12.00 00 - -2-Furaldehyde (furfuraldehyde), H, C, : 
+
+2932.13.00 00 - -Furfuryl alcohol and tetrahydrofurfuryl alcohol, H, C, : 
+
+Issued January 1, 2025
+
+29 - 43
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2932.14.00 00 - -Sucralose, H, C, : 
+
+2932.19.00 00 - -Other, H, C, : 
+
+2932.20.00 00 -Lactones, H, C, : 
+
+2932.91.00 00 - -Isosafrole, H, C, : 
+
+2932.92.00 00 - -1-(1,3-Benzodioxol-5-yl)propan-2-one, H, C, : 
+
+2932.93.00 00 - -Piperonal, H, C, : 
+
+2932.94.00 00 - -Safrole, H, C, : 
+
+2932.95.00 00 - -Tetrahydrocannabinols (all isomers), H, C, : 
+
+2932.96.00 00 - -Carbofuran (ISO), H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Other:
+
+Issued January 1, 2025
+
+29 - 44
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+2933.11.00 00 - -Phenazone (antipyrin) and its derivatives, H, C, : 
+
+2933.19.00 00 - -Other, H, C, : 
+
+2933.21.00 00 - -Hydantoin and its derivatives, H, C, : 
+
+2933.29.00 00 - -Other, H, C, : 
+
+2933.31.00 00 - -Pyridine and its salts, H, C, : 
+
+2933.32.00 00 - -Piperidine and its salts, H, C, : 
+
+SS
+
+Description of Goods
+
+2932.99.00 00 - -Other
+
+29.33
+
+Heterocyclic compounds with nitrogen hetero-atom(s) only.
+-Compounds containing an unfused pyrazole ring (whether or not
+hydrogenated) in the structure:
+
+-Compounds containing an unfused imidazole ring (whether or not
+hydrogenated) in the structure:
+
+-Compounds containing an unfused pyridine ring (whether or not
+hydrogenated) in the structure:
+
+Issued January 1, 2025
+
+29 - 45
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2933.33.00 00 - -Alfentanil (INN), anileridine (INN), bezitramide (INN), bromazepam
+(INN), carfentanil (INN), difenoxin (INN), diphenoxylate (INN)
+dipipanone (INN), fentanyl (INN), ketobemidone (INN), methylphenidate
+(INN), pentazocine (INN), pethidine (INN), pethidine (INN) intermediate
+A, phencyclidine (INN) (PCP), phenoperidine (INN), pipradrol (INN)
+piritramide (INN), propiram (INN), remifentanil (INN) and trimeperidine
+(INN); salts thereof, H, C, : 
+
+2933.34.00 00 - -Other fentanyls and their derivatives, H, C, : 
+
+2933.35.00 00 - -3-Quinuclidinol, H, C, : 
+
+2933.36.00 00 - -4-Anilino-N-phenethylpiperidine (ANPP), H, C, : 
+
+2933.37.00 00 - -N-Phenethyl-4-piperidone (NPP), H, C, :, H, C, : 
+
+Tariff
+Item
+
+2933.39.00
+
+SS
+
+Description of Goods
+
+- -Other
+
+50 - - - - -Containing a pyridine ring and other rings with nitrogen hetero-atoms in
+the structure ...........................................................................................
+- - - - -Containing a pyridine ring as the only hetero-atom ring in the structure:
+61 - - - - - -1-[N,N-Dialkyl (<=C10) -N-(n-(hydroxyl, cyano, acetoxy)alkyl (<=C10))
+ammonio]-n-[N-(3-dimethylcarbamoxy-a-picolinyl)-N,N-dialkyl
+(<=C10) ammonio]decane dibromide (n=1-8)
+.............................................................................................................
+62 - - - - - -1,n-Bis[N-(3-dimethylcarbamoxy-a-picolyl)-N,N-dialkyl (<=C10)
+ammonio]-alkane-(2,(n-1)-dione) dibromide (n=2-12)
+.............................................................................................................
+69 - - - - - -Other
+.............................................................................................................
+- - - - -Other :
+
+91 - - - - - -3-Quinuclidinyl benzilate
+.............................................................................................................
+
+
+
+
+
+
+
+
+
+
+Issued January 1, 2025
+
+29 - 46
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+99 - - - - - -Other
+.............................................................................................................
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+
+
+-Compounds containing in the structure a quinoline or isoquinoline
+ring-system (whether or not hydrogenated), not further fused:
+2933.41.00 00 - -Levorphanol (INN) and its salts, H, C, : 
+
+2933.49.00 00 - -Other, H, C, : 
+
+2933.52.00 00 - -Malonylurea (barbituric acid) and its salts, H, C, : 
+
+2933.53.00 00 - -Allobarbital (INN), amobarbital (INN), barbital (INN), butalbital (INN)
+butobarbital, cyclobarbital (INN), methylphenobarbital (INN)
+pentobarbital (INN), phenobarbital (INN), secbutabarbital (INN)
+secobarbital (INN) and vinylbital (INN); salts thereof, H, C, : 
+
+2933.54.00 00 - -Other derivatives of malonylurea (barbituric acid); salts thereof, H, C, : 
+
+2933.55.00 00 - -Loprazolam (INN), mecloqualone (INN), methaqualone (INN) and
+zipeprol (INN); salts thereof, H, C, :, H, C, : 
+
+-Compounds containing a pyrimidine ring (whether or not
+hydrogenated) or piperazine ring in the structure:
+
+2933.59.00
+
+- -Other
+
+- - - - -Containing a pyrimidine ring:
+11 - - - - - -Acyclovir ...............................................................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Containing a piperazine ring...................................................................
+-Compounds containing an unfused triazine ring (whether or not
+hydrogenated) in the structure:
+
+Issued January 1, 2025
+
+
+
+
+
+29 - 47
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+2933.61.00 00 - -Melamine
+
+2933.69.00
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, : 
+
+- -Other
+
+10 - - - - -Trichloroisocyanuric acid........................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+-Lactams:
+2933.71.00
+
+- -6-Hexanelactam (epsilon-caprolactam)
+
+10 - - - - -For use in the manufacture of polycaprolactam .....................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2933.72.00 00 - -Clobazam (INN) and methyprylon (INN), H, C, : 
+
+2933.79.00 00 - -Other lactams, H, C, : 
+
+2933.91.00 00 - -Alprazolam (INN), camazepam (INN), chlordiazepoxide (INN)
+clonazepam (INN), clorazepate, delorazepam (INN), diazepam (INN)
+estazolam (INN), ethyl loflazepate (INN), fludiazepam (INN)
+flunitrazepam (INN), flurazepam (INN), halazepam (INN), lorazepam
+(INN), lormetazepam (INN), mazindol (INN), medazepam (INN)
+midazolam (INN), nimetazepam (INN), nitrazepam (INN), nordazepam
+(INN), oxazepam (INN), pinazepam (INN), prazepam (INN)
+pyrovalerone(INN), temazepam (INN), tetrazepam (INN) and triazolam
+(INN); salts thereof, H, C, : 
+
+2933.92.00 00 - -Azinphos-methyl (ISO), H, C, : 
+
+-Other:
+
+Issued January 1, 2025
+
+29 - 48
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2933.99.00
+
+SS
+
+Description of Goods
+- -Other
+
+10 - - - - -Amino-acids, for use in the manufacture of mixtures of amino-acids or
+of mixtures of amino-acids and protein hydrolysates (whether or not
+containing added minerals, vitamins, fats or carbohydrates), specially
+compounded for persons afflicted with amino acid disorders; Chemical
+antioxidants, hardeners, inhibitors, restrainers, sensitizers and
+stabilizers, for use in the manufacture of photographic emulsions; For
+use in the manufacture of animal or poultry feeds, glues or adhesives
+optical fibres or optical fibre bundles or cables, typewriter or similar
+ribbons, polymers in primary forms or profile shapes or sheets of
+plastics; Having a benzenoid structure, for use as a starting material in
+the manufacture of synthetic organic dyes or pigment dyestuffs; LTryptophan, for use in the manufacture of pharmaceutical products .....
+20 - - - - -Compounds containing an unfused five-membered hetero-atom ring in
+the structure ...........................................................................................
+30 - - - - -Compounds having a tricyclic ring system .............................................
+90 - - - - -Other ......................................................................................................
+29.34
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+
+
+
+Nucleic acids and their salts, whether or not chemically defined; other
+heterocyclic compounds.
+
+2934.10.00 00 -Compounds containing an unfused thiazole ring (whether or not
+hydrogenated) in the structure, H, C, : 
+
+2934.20.00 00 -Compounds containing in the structure a benzothiazole ring-system
+(whether or not hydrogenated), not further fused, H, C, : 
+
+2934.30.00 00 -Compounds containing in the structure a phenothiazine ring-system
+(whether or not hydrogenated), not further fused, H, C, : 
+
+2934.91.00 00 - -Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN)
+dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb
+(INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN)
+phenmetrazine (INN) and sufentanil (INN); salts thereof, H, C, : 
+
+2934.92.00 00 - -Other fentanyls and their derivatives, H, C, : 
+
+-Other:
+
+Issued January 1, 2025
+
+29 - 49
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2934.99.00
+
+SS
+
+Description of Goods
+- -Other
+
+10 - - - - -Nucleic acids, nucleosides, nucleotides, and their salts, excluding
+synthetic nucleotide sequences (oligonudeotides) and their salts .........
+90 - - - - -Other ......................................................................................................
+29.35
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+
+Sulphonamides.
+
+2935.10.00 00 -N-Methylperfluorooctane sulphonamide, H, C, : 
+
+2935.20.00 00 -N-Ethylperfluorooctane sulphonamide, H, C, : 
+
+2935.30.00 00 -N-Ethyl-N-(2-hydroxyethyl) perfluorooctane sulphonamide, H, C, : 
+
+2935.40.00 00 -N-(2-Hydroxyethyl)-N-methylperfluorooctane sulphonamide, H, C, : 
+
+2935.50.00 00 -Other perfluorooctane sulphonamides, H, C, : 
+
+2935.90.00 00 -Other, H, C, : 
+
+XI. -PROVAMINS, VAMINS AND HORMONES
+29.36
+
+Provitamins and vitamins, natural or reproduced by synthesis (including
+natural concentrates), derivatives thereof used primarily as vitamins
+and intermixtures of the foregoing, whether or not in any solvent.
+-Vitamins and their derivatives, unmixed:
+
+Issued January 1, 2025
+
+29 - 50
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+2936.21.00
+
+SS
+
+Description of Goods
+- -Vitamins A and their derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption ...........................................................................................
+90 - - - - -Other ......................................................................................................
+2936.22.00
+
+2936.24.00
+
+2936.25.00
+
+2936.26.00
+
+- -Vitamin B 12 and its derivatives
+
+Issued January 1, 2025, H, C, :, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+
+
+
+- -Vitamin B 6 and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption ...........................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+
+
+- -D- or DL-Pantothenic acid (Vitamin B5) and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption ...........................................................................................
+90 - - - - -Other ......................................................................................................
+
+Applicable
+Preferential Tariffs
+
+
+
+
+- -Vitamin B 2 and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption ...........................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+
+
+
+- -Vitamin B 1 and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption ...........................................................................................
+90 - - - - -Other ......................................................................................................
+2936.23.00
+
+Unit of
+Meas.
+
+
+
+
+29 - 51
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption...........................................................................................
+90 - - - - -Other ......................................................................................................
+2936.27.00
+
+2936.29.00
+
+2936.90.00
+
+29.37, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+
+
+
+
+-Other, including natural concentrates
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption...........................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+
+
+- -Other vitamins and their derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption...........................................................................................
+60 - - - - -Nicotinic acid (niacin) and its derivatives ...............................................
+90 - - - - -Other ......................................................................................................
+
+Applicable
+Preferential Tariffs
+
+
+
+
+- -Vitamin E and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption...........................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+
+
+
+- -Vitamin C and its derivatives
+
+10 - - - - -For the use in the manufacture of food or beverages for human
+consumption...........................................................................................
+90 - - - - -Other ......................................................................................................
+2936.28.00
+
+Unit of
+Meas.
+
+
+
+
+Hormones, prostaglandins, thromboxanes and leukotrienes, natural or
+reproduced by synthesis; derivatives and structural analogues thereof
+including chain modified polypeptides, used primarily as hormones.
+-Polypeptide hormones, protein hormones and glycoprotein hormones
+their derivatives and structural analogues:
+
+2937.11.00 00 - -Somatotropin, its derivatives and structural analogues
+
+
+
+Issued January 1, 2025
+
+29 - 52
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2937.12.00 00 - -Insulin and its salts, H, C, : 
+
+2937.19.00 00 - -Other, H, C, :, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+-Steroidal hormones, their derivatives and structural analogues:
+2937.21.00 00 - -Cortisone, hydrocortisone, prednisone (dehydrocortisone) and
+prednisolone (dehydrohydrocortisone)
+
+2937.22.00
+
+- -Halogenated derivatives of corticosteroidal hormones
+
+10 - - - - -Betamethasone ......................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+2937.23.00 00 - -Oestrogens and progestogens, H, C, : 
+
+2937.29.00 00 - -Other, H, C, : 
+
+2937.50.00 00 -Prostaglandins, thromboxanes and leukotrienes, their derivatives and
+structural analogues, H, C, : 
+
+2937.90.00 00 -Other, H, C, : 
+
+XII. -GLYCOSIDES AND ALKALOIDS, NATURAL OR REPRODUCED BY
+SYHESIS, AND THEIR SALTS, ETHERS, ESTERS AND OTHER
+DERIVATIVES
+
+Issued January 1, 2025
+
+29 - 53
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2938.10.00 00 -Rutoside (rutin) and its derivatives, H, C, : 
+
+2938.90.00 00 -Other, H, C, : 
+
+2939.11.00 00 - -Concentrates of poppy straw; buprenorphine (INN), codeine
+dihydrocodeine (INN), ethylmorphine, etorphine (INN), heroin
+hydrocodone (INN), hydromorphone (INN), morphine, nicomorphine
+(INN), oxycodone (INN), oxymorphone (INN), pholcodine (INN)
+thebacon (INN) and thebaine; salts thereof, H, C, : 
+
+2939.19.00 00 - -Other, H, C, : 
+
+2939.20.00 00 -Alkaloids of cinchona and their derivatives; salts thereof, H, C, : 
+
+2939.30.00 00 -Caffeine and its salts, H, C, : 
+
+2939.41.00 00 - -Ephedrine and its salts, H, C, : 
+
+2939.42.00 00 - -Pseudoephedrine (INN) and its salts, H, C, : 
+
+Tariff
+Item
+29.38
+
+29.39
+
+SS
+
+Description of Goods
+Glycosides, natural or reproduced by synthesis, and their salts, ethers
+esters and other derivatives.
+
+Alkaloids, natural or reproduced by synthesis, and their salts, ethers
+esters and other derivatives.
+-Alkaloids of opium and their derivatives; salts thereof:
+
+-Alkaloids of ephedra and their derivatives; salts thereof:
+
+Issued January 1, 2025
+
+29 - 54
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2939.43.00 00 - -Cathine (INN) and its salts, H, C, : 
+
+2939.44.00 00 - -Norephedrine and its salts, H, C, : 
+
+2939.45.00 00 - -Levometamfetamine, metamfetamine (INN), metamfetamine racemate
+and their salts, H, C, : 
+
+2939.49.00 00 - -Other, H, C, : 
+
+2939.51.00 00 - -Fenetylline (INN) and its salts, H, C, : 
+
+2939.59.00 00 - -Other, H, C, : 
+
+2939.61.00 00 - -Ergometrine (INN) and its salts, H, C, : 
+
+2939.62.00 00 - -Ergotamine (INN) and its salts, H, C, : 
+
+SS
+
+Description of Goods
+
+-Theophylline and aminophylline (theophylline-ethylenediamine) and
+their derivatives; salts thereof:
+
+-Alkaloids of rye ergot and their derivatives; salts thereof:
+
+Issued January 1, 2025
+
+29 - 55
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2939.63.00 00 - -Lysergic acid and its salts, H, C, : 
+
+2939.69.00 00 - -Other, H, C, : 
+
+2939.72.00 00 - -Cocaine, ecgonine; salts, esters and other derivatives thereof, H, C, : 
+
+2939.79.00 00 - -Other, H, C, : 
+
+2939.80.00 00 -Other, H, C, :, H, C, :, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Other, of vegetal origin:
+
+XIII. -OTHER ORGANIC COMPOUNDS
+2940.00.00 00 Sugars, chemically pure, other than sucrose, lactose, maltose, glucose
+and fructose; sugar ethers, sugar acetals and sugar esters, and their
+salts, other than products of heading 29.37, 29.38 or 29.39.
+
+29.41
+
+Antibiotics.
+
+2941.10.00
+
+-Penicillins and their derivatives with a penicillanic acid structure; salts
+thereof
+
+30 - - - - -Amoxicillin trihydrate ..............................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+Issued January 1, 2025
+
+29 - 56
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+2941.20.00 00 -Streptomycins and their derivatives; salts thereof, H, C, : 
+
+2941.30.00 00 -Tetracyclines and their derivatives; salts thereof, H, C, : 
+
+2941.40.00 00 -Chloramphenicol and its derivatives; salts thereof, H, C, : 
+
+2941.50.00 00 -Erythromycin and its derivatives; salts thereof, H, C, :, H, C, :, H, C, : 
+
+2941.90.00
+
+SS
+
+Description of Goods
+
+-Other
+
+20 - - - - -Rifampin (rifampicin), its salts and derivatives .......................................
+90 - - - - -Other ......................................................................................................
+2942.00.00 00 Other organic compounds.
+
+Issued January 1, 2025
+
+
+
+
+
+

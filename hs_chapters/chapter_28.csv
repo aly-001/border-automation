@@ -1,0 +1,797 @@
+HS10 Code,HS10 Code Formatted,HS10 Date Key,HS10 Start Date,HS10 End Date,Unit of Measure,HS10 UOM Date Key,UOM Start Date,UOM End Date,HS10 English Description,HS10 French Description
+2801100000,2801.10.00.00,2801.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Chlorine,Chlore
+2801100010,2801.10.00.10,2801.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Chlorine, in steel containers","Chlore, en bouteilles d'acier"
+2801100090,2801.10.00.90,2801.10.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Chlorine, except in steel containers","Chlore, a/q en bouteilles d'acier"
+2801200000,2801.20.00.00,2801.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Iodine,Iode
+2801300000,2801.30.00.00,2801.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Fluorine; bromine,Fluor; brome
+2801300010,2801.30.00.10,2801.30.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Fluorine,Fluor
+2801300020,2801.30.00.20,2801.30.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Bromine,Brome
+2802000000,2802.00.00.00,2802.00.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Sulfur, sublimed or precipitated; collodial sulphur",Soufre sublimé ou précipité; soufre colloïdal
+2803000010,2803.00.00.10,2803.00.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Lampblack,Noir de fumée
+2803000090,2803.00.00.90,2803.00.00.90 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Carbon, carbon blacks and other forms of carbon, nes, o/t lampblack","Carbone, noirs de carbone et autres formes de carbone, nda, a/q noir de fumée"
+2804100000,2804.10.00.00,2804.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Hydrogen,Hydrogène
+2804210000,2804.21.00.00,2804.21.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Argon,Argon
+2804290000,2804.29.00.00,2804.29.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Rare gases except argon,"Gaz rares, a/q argon"
+2804290010,2804.29.00.10,2804.29.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Helium,Hélium
+2804290090,2804.29.00.90,2804.29.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Rare gases, nes","Gaz rares, nda"
+2804291000,2804.29.10.00,2804.29.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Helium,Hélium
+2804299000,2804.29.90.00,2804.29.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Rare gases, nes","Gaz rares, nda"
+2804300000,2804.30.00.00,2804.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Nitrogen,Azote
+2804400000,2804.40.00.00,2804.40.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Oxygen,Oxygène
+2804500000,2804.50.00.00,2804.50.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Boron; tellurium,Bore; tellure
+2804500010,2804.50.00.10,2804.50.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Boron,Bore
+2804500020,2804.50.00.20,2804.50.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Tellurium,Tellure
+2804610000,2804.61.00.00,2804.61.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Silicon, containing by weight not less than 99.99% of silicon","Silicium, contenant en poids >=99,99 % de silicium"
+2804690000,2804.69.00.00,2804.69.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Silicon, less than 99.99% pure","Silicium, pureté < 99,99 %"
+2804700000,2804.70.00.00,2804.70.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Phosphorus,Phosphore
+2804800000,2804.80.00.00,2804.80.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Arsenic,Arsenic
+2804900000,2804.90.00.00,2804.90.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Selenium,Sélénium
+2805110000,2805.11.00.00,2805.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium,Sodium
+2805120000,2805.12.00.00,2805.12.00.00 (2002-01/9999-12),200201,999912,KGM,KGM (2002-01/9999-12),200201,999912,Calcium,Calcium
+2805190000,2805.19.00.00,2805.19.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,"Alkali metals, nes","Métaux alcalins, nda"
+2805190000,2805.19.00.00,2805.19.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Alkali or alkaline-earth metals, nes","Métaux alcalins ou alcalino-terreux, nda"
+2805191000,2805.19.10.00,2805.19.10.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Strontium and barium,Strontium et baryum
+2805199000,2805.19.90.00,2805.19.90.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Alkali or alkaline-earth metals, nes","Métaux alcalins ou alcalino-terreux, nda"
+2805210000,2805.21.00.00,2805.21.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Calcium,Calcium
+2805220000,2805.22.00.00,2805.22.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Strontium and barium,Strontium et baryum
+2805300000,2805.30.00.00,2805.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Rare-earth metals, scandium and yttrium","Métaux de terres rares, scandium et yttrium"
+2805400000,2805.40.00.00,2805.40.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Mercury,Mercure
+2806100000,2806.10.00.00,2806.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Hydrogen chloride (hydrochloric acid),Chlorure d'hydrogène (acide chlorhydrique)
+2806100010,2806.10.00.10,2806.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Hydrogen chloride (hydrochloric acid), anhydrous","Chlorure d'hydrogène (acide chlorhydrique), anhydre"
+2806100090,2806.10.00.90,2806.10.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Hydrogen chloride (hydrochloric acid), except anhydrous","Chlorure d'hydrogène (acide chlorhydrique), a/q anhydre"
+2806200000,2806.20.00.00,2806.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Chlorosulphuric acid,Acide chlorosulfurique
+2807000000,2807.00.00.00,2807.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Sulphuric acid; oleum,Acide sulfurique; oléum
+2807000010,2807.00.00.10,2807.00.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sulphuric acid,Acide sulfurique
+2807000020,2807.00.00.20,2807.00.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Oleum,Oléum
+2808000000,2808.00.00.00,2808.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Nitric acid; sulphonitric acids,Acide nitrique; acides sulfonitriques
+2808000010,2808.00.00.10,2808.00.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Nitric acid,Acide nitrique
+2808000020,2808.00.00.20,2808.00.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sulphonitric acids,Acides sulfonitriques
+2809100000,2809.10.00.00,2809.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Diphosphorus pentaoxide,Pentaoxyde de diphosphore
+2809200010,2809.20.00.10,2809.20.00.10 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,Orthophosphoric acid,Acide orthophosphorique
+2809200011,2809.20.00.11,2809.20.00.11 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Phosphoric acid, fertilizer grade, superacid grade (68-72% P2O5)","Acides phosphoriques, pour engrais, teneur superacide (68-72 % P2O5)"
+2809200019,2809.20.00.19,2809.20.00.19 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Phosphoric acids, fertilizer grade, o/t superacid","Acides phosphoriques, pour engrais, a/q teneur superacide"
+2809200020,2809.20.00.20,2809.20.00.20 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Phosphoric acids, o/t fertilizer grade","Acides phosphoriques, a/q pour engrais"
+2809200030,2809.20.00.30,2809.20.00.30 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,Polyphosphoric acids,Acides polyphosphoriques
+2809200090,2809.20.00.90,2809.20.00.90 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,Phosphoric acid and polyphosphoric acids o/t orthophosphoric acid,Acide phosphorique et acides polyphosriques a/q acide orthophosphorique
+2810000000,2810.00.00.00,2810.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Oxides of boron; boric acids,Oxydes de bore; acides boriques
+2810000010,2810.00.00.10,2810.00.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Oxides of boron,Oxydes de bore
+2810000020,2810.00.00.20,2810.00.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Boric acids,Acides boriques
+2811110000,2811.11.00.00,2811.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Hydrogen fluoride (hydrofluoric acid),Fluorure d'hydrogène (acide fluorhydrique)
+2811120000,2811.12.00.00,2811.12.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Hydrogen cyanide (hydrocyanic acid),Cyanure d'hydrogène (acide cyanhydrique)
+2811190000,2811.19.00.00,2811.19.00.00 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Inorganic acids, nes","Acides inorganiques, nda"
+2811190000,2811.19.00.00,2811.19.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Inorganic acids, o/t hydrogen fluoride/cyanide, nes","Acides inorganiques, a/q fluorure/cyanure d'hydrogène"
+2811191010,2811.19.10.10,2811.19.10.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Fluorosilicic acid,Acide fluorosilicique
+2811191020,2811.19.10.20,2811.19.10.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Aminosulphonic acid (sulphamic acid),Acide aminosulphonique (acide sulfamique)
+2811191030,2811.19.10.30,2811.19.10.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Hydrogen cyanide,f use as pet rfng catalyst,anml feed,glue,opt fib/cable,etc","Cyanure d'hydrogène,dev ser catalyseur raffinage du pétrole,aliments animaux,etc"
+2811191090,2811.19.10.90,2811.19.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Inorganic acids,f use pet refng catalysts,anml feeds, glues, opt gib/cables, etc","Acide inorganique,dev ser catalyseur raffinage du pétrole,aliments animaux,etc"
+2811199010,2811.19.90.10,2811.19.90.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Hydrogen sulphide,Sulfure d'hydrogène
+2811199020,2811.19.90.20,2811.19.90.20 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,Hydrogen cyanide,Cyanure d'hydrogène
+2811199020,2811.19.90.20,2811.19.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Hydrogen cyanide, nes","Cyanure d'hydrogène, nda"
+2811199090,2811.19.90.90,2811.19.90.90 (1988-01/1996-12),198801,199612,KGM,KGM (1988-01/1996-12),198801,199612,"Inorganic acids, nes","Acides inorganiques, nda"
+2811199090,2811.19.90.90,2811.19.90.90 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,"Inorganic acids, nes","Acides inorganiques, nda"
+2811199090,2811.19.90.90,2811.19.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Inorganic acids, nes","Acides inorganiques, nda"
+2811210000,2811.21.00.00,2811.21.00.00 (1988-01/2006-05),198801,200605,KGM,KGM (1988-01/2006-05),198801,200605,Carbon dioxide,Dioxyde de carbone
+2811210000,2811.21.00.00,2811.21.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Carbon dioxide,Dioxyde de carbone
+2811211000,2811.21.10.00,2811.21.10.00 (2006-06/2011-12),200606,201112,KGM,KGM (2006-06/2011-12),200606,201112,"Carbon dioxide, in non-refillable cylinders,for the use in Canadian manufactures","Dioxyde de carbone,en cyl non rechargeables, devant servir à la fabrication CDN"
+2811219000,2811.21.90.00,2811.21.90.00 (2006-06/2011-12),200606,201112,KGM,KGM (2006-06/2011-12),200606,201112,"Carbon dioxide, nes","Dioxyde de carbone, nda"
+2811220010,2811.22.00.10,2811.22.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Hydrated silica,Silice hydratée
+2811220020,2811.22.00.20,2811.22.00.20 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Silica gel,Gel de silice
+2811220030,2811.22.00.30,2811.22.00.30 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Fused quartz or other fused silica,Quartz fondus ou autres silices fondus
+2811220090,2811.22.00.90,2811.22.00.90 (1988-01/1996-12),198801,199612,KGM,KGM (1988-01/1996-12),198801,199612,"Silicon dioxide, nes","Dioxyde de silicium, nda"
+2811220090,2811.22.00.90,2811.22.00.90 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,"Silicon dioxide, nes","Dioxyde de silicium, nda"
+2811220090,2811.22.00.90,2811.22.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Silicon dioxide, nes","Dioxyde de silicium, nda"
+2811230000,2811.23.00.00,2811.23.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Sulphur dioxide,Dioxyde de soufre
+2811290000,2811.29.00.00,2811.29.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Inorganic oxygen compounds of non-metals, nes","Composés oxygénés inorganiques des éléments non métalliques, nda"
+2811291000,2811.29.10.00,2811.29.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Dinitrogen oxide (nitrous oxide),Protoxyde d'azote (oxyde nitreux)
+2811291010,2811.29.10.10,2811.29.10.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Arsenic pentaoxide,Pentaoxyde d'arsenic
+2811291020,2811.29.10.20,2811.29.10.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Arsenic trioxide,Trioxyde d'arsenic
+2811291030,2811.29.10.30,2811.29.10.30 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sulphur trioxide,Trioxyde de soufre
+2811299010,2811.29.90.10,2811.29.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Dinitrogen oxide (nitrous oxide),Protoxyde d'azote (oxyde nitreux)
+2811299090,2811.29.90.90,2811.29.90.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Inorganic oxygen compounds of non-metals, nes","Composés oxygénés inorganiques des éléments non métalliques, nda"
+2811299110,2811.29.91.10,2811.29.91.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Arsenic pentaoxide,Pentaoxyde d'arsenic
+2811299120,2811.29.91.20,2811.29.91.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Arsenic trioxide,Trioxyde d'arsenic
+2811299130,2811.29.91.30,2811.29.91.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sulphur trioxide,Trioxyde de soufre
+2811299190,2811.29.91.90,2811.29.91.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Inorganic oxygen compounds of non-metals, for use as pet refining catalysts, etc","Composé oxygéné inorganique non métaux, devant servir catalyseur raff pétrl, etc"
+2811299190,2811.29.91.90,2811.29.91.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Inorganic oxygen compd,of non-metals,f pet refng catalyst,anml feed,glue,opt fib","Comp oxygéné inorg,non-métaux,pr catalyseur raff pétrl,ali ani,colles,fib opt"
+2811299900,2811.29.99.00,2811.29.99.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Other, inorganic oxygen compounds of non-metals, nes","Autres composés oxygénés inorganiques des éléments non métalliques, nda"
+2812100000,2812.10.00.00,2812.10.00.00 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Chlorides and chloride oxides of non-metals,Chlorure et oxychlorures des éléments non métalliques
+2812101010,2812.10.10.10,2812.10.10.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Phosphorus trichloride,Trichlorure de phosphore
+2812101020,2812.10.10.20,2812.10.10.20 (1988-01/1996-12),198801,199612,KGM,KGM (1988-01/1996-12),198801,199612,Phosphorus pentachloride; phosphorus oxychlorides,Pentachlorure de phosphore; oxychlorure de phosphore
+2812101020,2812.10.10.20,2812.10.10.20 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Phosphorus pentachloride,Pentachlorure de phosphore
+2812101030,2812.10.10.30,2812.10.10.30 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Phosphorus oxychloride,Oxychlorure de phosphore
+2812101040,2812.10.10.40,2812.10.10.40 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sulphur dichloride dioxide,f use pet refng cata,anml feed,glue,opt fib/cable,etc","Dioxydichlorure de soufre,devant servir catalys raff pétrl,etc"
+2812101050,2812.10.10.50,2812.10.10.50 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Thionyl chloride,f use pet refining catalyst,anml feed,glue,opt fib/cable,etc","Chlorure de thionyle,dev ser catalys raff pétrl,ali pr ani,colle,adhé,etc"
+2812101060,2812.10.10.60,2812.10.10.60 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Carbonyl dichloride(phosgene),f use pet refng cata,anml feed,glue,opt fib,etc","Dichlorure de carbonyle (phosgène),dev ser catalys raff pétrl,ali pr ani,colle,etc"
+2812101090,2812.10.10.90,2812.10.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Chlorides & chloride oxides of non-metals,f use pet refng cata,anml feed,glue,etc","Chlorures et oxychlorures,élément non métallique,dev ser catalys raff pétrl,etc"
+2812109010,2812.10.90.10,2812.10.90.10 (1988-01/1996-12),198801,199612,KGM,KGM (1988-01/1996-12),198801,199612,Sulphur dichloride dioxide (sulphuryl chloride),Dioxydichlorure de soufre (chlorure de sulfonyle)
+2812109010,2812.10.90.10,2812.10.90.10 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Sulphur monochloride,Monochlorure de soufre
+2812109020,2812.10.90.20,2812.10.90.20 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Sulphur dichloride oxide (thionyl chloride),Oxydichlorure de soufre (chlorure de thionyle)
+2812109020,2812.10.90.20,2812.10.90.20 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Sulphur dichloride,Dichlorure de soufre
+2812109030,2812.10.90.30,2812.10.90.30 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,Sulphur dichloride dioxide (sulphuryl chloride),Dioxydichlorure de soufre (chlorure de sulfonyle)
+2812109030,2812.10.90.30,2812.10.90.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sulphur dichloride dioxide (sulphuryl chloride), nes","Dioxydichlorure de soufre (chlorure de sulfonyle), nda"
+2812109040,2812.10.90.40,2812.10.90.40 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,Thionyl chloride,Chlorure de thionyle
+2812109040,2812.10.90.40,2812.10.90.40 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Thionyl chloride, nes","Chlorure de thionyle, nda"
+2812109050,2812.10.90.50,2812.10.90.50 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,Carbonyl dichloride (phosgene),Dichlorure de carbonyle (phosgène)
+2812109050,2812.10.90.50,2812.10.90.50 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Carbonyl dichloride (phosgene), nes","Dichlorure de carbonyle (phosgène), nda"
+2812109060,2812.10.90.60,2812.10.90.60 (1997-01/2011-12),199701,201112,KGM,KGM (1997-01/2011-12),199701,201112,Arsenic trichloride,Trichlorure d'arsenic
+2812109090,2812.10.90.90,2812.10.90.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Chlorides & chloride oxides of non-metals, nes","Chlorures et oxychlorures des éléments non métalliques, nda"
+2812109090,2812.10.90.90,2812.10.90.90 (1991-07/1996-12),199107,199612,KGM,KGM (1991-07/1996-12),199107,199612,"Chlorides & chloride oxides of non-metals, nes","Chlorures et oxychlorures des éléments non métalliques, nda"
+2812109090,2812.10.90.90,2812.10.90.90 (1997-01/1997-12),199701,199712,KGM,KGM (1997-01/1997-12),199701,199712,"Chlorides & chloride oxides of non-metals, nes","Chlorures et oxychlorures des éléments non métalliques, nda"
+2812109090,2812.10.90.90,2812.10.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Chlorides & chloride oxides of non-metals, nes","Chlorures et oxychlorures des éléments non métalliques, nda"
+2812110000,2812.11.00.00,2812.11.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Carbonyl dichloride (phosgene),Dichlorure de carbonyle (phosgène)
+2812120000,2812.12.00.00,2812.12.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Phosphorus oxychloride,Oxychlorure de phosphore
+2812130000,2812.13.00.00,2812.13.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Phosphorus trichloride,Trichlorure de phosphore
+2812140000,2812.14.00.00,2812.14.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Phosphorus pentachloride,Pentachlorure de phosphore
+2812150000,2812.15.00.00,2812.15.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Sulphur monochloride,Monochlorure de soufre
+2812160000,2812.16.00.00,2812.16.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Sulphur dichloride,Dichlorure de soufre
+2812170000,2812.17.00.00,2812.17.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Thionyl chloride,Chlorure de thionyle
+2812190000,2812.19.00.00,2812.19.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Halides and halide oxides of non-metals, nes","Halogénures et oxyhalogénures des éléments non métalliques, nda"
+2812900000,2812.90.00.00,2812.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Halides and halide oxides of non-metals, nes","Halogénures et oxyhalogénures des éléments non métalliques, nda"
+2812900010,2812.90.00.10,2812.90.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sulphur hexafluoride,Hexafluorure de soufre
+2812900020,2812.90.00.20,2812.90.00.20 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Bromides of non-metals,Bromures des éléments nonmétalliques
+2812900090,2812.90.00.90,2812.90.00.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Halides & halide oxides of non-metals, nes","Halogénures et oxyhalogénures des éléments non métalliques, nda"
+2812900090,2812.90.00.90,2812.90.00.90 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,"Halides & halide oxides of non-metals, nes","Halogénures et oxyhalogénures des éléments non métalliques, nda"
+2812901000,2812.90.10.00,2812.90.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sulphur hexafluoride,Hexafluorure de soufre
+2812909000,2812.90.90.00,2812.90.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Halides and halide oxides of non-metals, nes","Halogénures et oxyhalogénures des éléments non métalliques, nda"
+2813100000,2813.10.00.00,2813.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Carbon disulphide,Disulfure de carbone
+2813900000,2813.90.00.00,2813.90.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Sulphides of non-metals, nes; commercial phosphorus trisulphide","Sulfures des éléments non métalliques, nda; trisulfure de phosphore du commerce"
+2814100000,2814.10.00.00,2814.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Anhydrous ammonia,Ammoniac anhydre
+2814200000,2814.20.00.00,2814.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/1989-12),198801,198912,Ammonia in aqueous solution,Ammoniac en solution aqueuse (ammoniaque)
+2814200000,2814.20.00.00,2814.20.00.00 (1988-01/9999-12),198801,999912,KNS,KNS (1993-01/9999-12),199301,999912,Ammonia in aqueous solution,Ammoniac en solution aqueuse (ammoniaque)
+2814200000,2814.20.00.00,2814.20.00.00 (1988-01/9999-12),198801,999912,KSD,KSD (1990-01/1992-12),199001,199212,Ammonia in aqueous solution,Ammoniac en solution aqueuse (ammoniaque)
+2815110000,2815.11.00.00,2815.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Sodium hydroxide (caustic soda), solid","Hydroxyde de sodium (soude caustique), solide"
+2815120000,2815.12.00.00,2815.12.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/1989-12),198801,198912,"Sodium hydroxide (caustic soda), in aqueous solution","Hydroxyde de sodium (soude caustique), en solution aqueuse"
+2815120000,2815.12.00.00,2815.12.00.00 (1988-01/9999-12),198801,999912,KNS,KNS (1993-01/9999-12),199301,999912,"Sodium hydroxide (caustic soda), in aqueous solution","Hydroxyde de sodium (soude caustique), en solution aqueuse"
+2815120000,2815.12.00.00,2815.12.00.00 (1988-01/9999-12),198801,999912,KSD,KSD (1990-01/1992-12),199001,199212,"Sodium hydroxide (caustic soda), in aqueous solution","Hydroxyde de sodium (soude caustique), en solution aqueuse"
+2815200010,2815.20.00.10,2815.20.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Potassium hydroxide (caustic potash), solid","Hydroxyde de potassium (potasse caustique), solide"
+2815200020,2815.20.00.20,2815.20.00.20 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/1989-12),198801,198912,"Potassium hydroxide (caustic potash), in aqueous solution","Hydroxyde de potassium (potasse caustique), en solution aqueuse"
+2815200020,2815.20.00.20,2815.20.00.20 (1988-01/9999-12),198801,999912,KNS,KNS (1993-01/9999-12),199301,999912,"Potassium hydroxide (caustic potash), in aqueous solution","Hydroxyde de potassium (potasse caustique), en solution aqueuse"
+2815200020,2815.20.00.20,2815.20.00.20 (1988-01/9999-12),198801,999912,KSD,KSD (1990-01/1992-12),199001,199212,"Potassium hydroxide (caustic potash), in aqueous solution","Hydroxyde de potassium (potasse caustique), en solution aqueuse"
+2815300000,2815.30.00.00,2815.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Peroxides of sodium or potassium,Peroxydes de sodium ou de potassium
+2816100000,2816.10.00.00,2816.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Hydroxide and peroxide of magnesium,Hydroxyde et peroxyde de magnésium
+2816100010,2816.10.00.10,2816.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Magnesium hydroxide,Hydroxyde de magnésium
+2816100020,2816.10.00.20,2816.10.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Magnesium peroxide,Peroxyde de magnésium
+2816200000,2816.20.00.00,2816.20.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,"Oxide, hydroxide and peroxide of strontium","Oxyde, hydroxyde et peroxyde de strontium"
+2816300010,2816.30.00.10,2816.30.00.10 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Barium oxide and barium peroxide,Oxyde de baryum et peroxyde de baryum
+2816300020,2816.30.00.20,2816.30.00.20 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Barium hydroxide,Hydroxyde de baryum
+2816400000,2816.40.00.00,2816.40.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Oxides, hydroxides and peroxides, of strontium or barium","Oxydes, hydroxydes et peroxydes, de strontium ou de baryum"
+2816400010,2816.40.00.10,2816.40.00.10 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Barium oxide and barium peroxide,Oxyde de baryum et peroxyde de baryum
+2816400020,2816.40.00.20,2816.40.00.20 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Barium hydroxide,Hydroxyde de baryum
+2816400030,2816.40.00.30,2816.40.00.30 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Oxide, hydroxide and peroxide of strontium","Oxyde, hydroxyde et peroxyde de strontium"
+2817000010,2817.00.00.10,2817.00.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Zinc oxide,Oxyde de zinc
+2817000010,2817.00.00.10,2817.00.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Zinc oxide, zinc content<=75%, used in the manufacture of animal/poultry feeds","Oxyde de zinc, teneur en zinc<=75%, servant fab denrées aliment pr ani/volailles"
+2817000020,2817.00.00.20,2817.00.00.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Zinc peroxide,Peroxyde de zinc
+2817000020,2817.00.00.20,2817.00.00.20 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other zinc oxide, nes","Autres oxyde de zinc, nda"
+2817000030,2817.00.00.30,2817.00.00.30 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Zinc peroxide,Peroxyde de zinc
+2817000090,2817.00.00.90,2817.00.00.90 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Zinc oxide, nes; zinc peroxide","Oxyde de zinc, nda; peroxyde de zinc"
+2817001000,2817.00.10.00,2817.00.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Zinc oxide, zinc content<=75%, used in the manufacture of animal/poultry feeds","Oxyde de zinc, teneur en zinc<=75%, servant fab denrées aliment pr ani/volailles"
+2817009010,2817.00.90.10,2817.00.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Zinc oxide, nes","Oxyde de zinc, nda"
+2817009020,2817.00.90.20,2817.00.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Zinc peroxide,Peroxyde de zinc
+2818100000,2818.10.00.00,2818.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Artificial corundum,Corindon artificiel
+2818200010,2818.20.00.10,2818.20.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Alumina, prepared for processing into aluminum","Alumine, traitée pour transformation en aluminium"
+2818200020,2818.20.00.20,2818.20.00.20 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Activated alumina,Alumine activée
+2818200090,2818.20.00.90,2818.20.00.90 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Aluminum oxide, nes","Oxyde d'aluminium, nda"
+2818300000,2818.30.00.00,2818.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Aluminum hydroxide,Hydroxyde d'aluminium
+2819100000,2819.10.00.00,2819.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Chromium trioxide,Trioxyde de chrome
+2819900000,2819.90.00.00,2819.90.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Chromium oxides and hydroxides, except chromium trioxide","Oxydes et hydroxydes de chrome, a/q trioxyde de chrome"
+2819900000,2819.90.00.00,2819.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Chromium oxides and hydroxides, nes","Oxydes et hydroxydes de chrome, nda"
+2819901000,2819.90.10.00,2819.90.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Dichromium trioxide,Trioxyde de dichrome
+2819909000,2819.90.90.00,2819.90.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Chromium oxides and hydroxides, nes","Oxydes et hydroxydes de chrome, nda"
+2820100000,2820.10.00.00,2820.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Manganese dioxide,Dioxyde de manganèse
+2820900000,2820.90.00.00,2820.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Manganese oxides, nes","Oxydes de manganèse, nda"
+2820900010,2820.90.00.10,2820.90.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Manganese oxide,Oxyde de manganèse
+2820900090,2820.90.00.90,2820.90.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Manganese oxides, nes","Oxydes de manganèse, nda"
+2821100000,2821.10.00.00,2821.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Iron oxides and hydroxides,Oxydes et hydroxydes de fer
+2821100010,2821.10.00.10,2821.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Iron oxides,Oxydes de fer
+2821100020,2821.10.00.20,2821.10.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Iron hydroxides,Hydroxydes de fer
+2821200000,2821.20.00.00,2821.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Earth colors, cont 70% or more by weight of combined iron evaluated as Fe2O3","Terres colorantes, contenant en poids >=70 % de fer combiné évalué en Fe2O3"
+2822000000,2822.00.00.00,2822.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Cobalt oxides and hydroxides; commercial cobalt oxides,Oxydes et hydroxydes de cobalt; oxydes de cobalt du commerce
+2822000010,2822.00.00.10,2822.00.00.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Cobalt hydroxide,Hydroxyde de cobalt
+2822000020,2822.00.00.20,2822.00.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Cobalt oxides,Oxydes de cobalt
+2822000030,2822.00.00.30,2822.00.00.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Commercial cobalt oxides, consisting of two or more cobalt oxides","Oxydes de cobalt du commerce, composés d'au moins deux oxydes de cobalt"
+2822001000,2822.00.10.00,2822.00.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Cobalt hydroxide,Hydroxyde de cobalt
+2822009010,2822.00.90.10,2822.00.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Cobalt oxides,Oxydes de cobalt
+2822009020,2822.00.90.20,2822.00.90.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Commercial cobalt oxides (consisting of two or more cobalt oxides),"Oxydes de cobalt du commerce, composés d'au moins deux oxydes de cobalt"
+2823000010,2823.00.00.10,2823.00.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Titanium dioxide,Oxyde titanique (dioxyde)
+2823000010,2823.00.00.10,2823.00.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Titanium dioxide,Dioxyde titanique
+2823000090,2823.00.00.90,2823.00.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Titanium oxides, except titanium dioxide","Oxydes de titane, a/q oxyde titanique (dioxyde)"
+2823000090,2823.00.00.90,2823.00.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Titanium oxides, o/t titanium dioxide, nes","Oxydes de titane, a/q dioxyde titanique, nda"
+2823001000,2823.00.10.00,2823.00.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Titanium dioxide,Oxyde titanique (dioxyde)
+2823009000,2823.00.90.00,2823.00.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Titanium oxides, except titanium dioxide","Oxydes de titane, a/q oxyde titanique (dioxyde)"
+2824100000,2824.10.00.00,2824.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Lead monoxide (litharge, massicot)","Monoxyde de plomb (litharge, massicot)"
+2824200000,2824.20.00.00,2824.20.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Red lead and orange lead,Minium et mine orange
+2824900000,2824.90.00.00,2824.90.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Lead oxides, nes","Oxydes de plomb, nda"
+2824900000,2824.90.00.00,2824.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Lead oxides, nes","Oxydes de plomb, nda"
+2824901000,2824.90.10.00,2824.90.10.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Red lead and orange lead,Minium et mine orange
+2824909000,2824.90.90.00,2824.90.90.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Lead oxides, nes","Oxydes de plomb, nda"
+2825100000,2825.10.00.00,2825.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Hydrazine and hydroxylamine and their inorganic salts,Hydrazine et hydroxylamine et leurs sels inorganiques
+2825100011,2825.10.00.11,2825.10.00.11 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Hydrazine,Hydrazine
+2825100011,2825.10.00.11,2825.10.00.11 (1991-07/2011-12),199107,201112,KGM,KGM (1991-07/2011-12),199107,201112,Hydrazine hydrate,Hydrate d'hydrazine
+2825100012,2825.10.00.12,2825.10.00.12 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Hydrazine hydrate,Hydrate d'hydrazine
+2825100019,2825.10.00.19,2825.10.00.19 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Hydrazine inorganic salts nes, exc hydrazine and hydrazine hydrate","Sels inorganiques d'hydrazine, a/q hydrazine et hydrate d'hydrazine"
+2825100019,2825.10.00.19,2825.10.00.19 (1991-07/2011-12),199107,201112,KGM,KGM (1991-07/2011-12),199107,201112,"Hydrazine inorganic salts, nes, exc hydrazine and hydrazine hydrate","Sels inorganiques d'hydrazine, a/q hydrazine et hydrate d'hydrazine"
+2825100020,2825.10.00.20,2825.10.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Hydroxylamine and its inorganic salts,Hydroxylamine et ses sels inorganiques
+2825200000,2825.20.00.00,2825.20.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Lithium oxide and hydroxide,Oxyde et hydroxyde de lithium
+2825200010,2825.20.00.10,2825.20.00.10 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Lithium oxide,Oxyde de lithium
+2825200020,2825.20.00.20,2825.20.00.20 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Lithium hydroxide,Hydroxyde de lithium
+2825300000,2825.30.00.00,2825.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Vanadium oxide and hydroxides,Oxyde et hydroxydes de vanadium
+2825400000,2825.40.00.00,2825.40.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Nickel oxides and hydroxides,Oxydes et hydroxydes de nickel
+2825500000,2825.50.00.00,2825.50.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Copper oxides and hydroxides,Oxydes et hydroxydes de cuivre
+2825500010,2825.50.00.10,2825.50.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Copper oxides,Oxydes de cuivre
+2825500020,2825.50.00.20,2825.50.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Copper hydroxides,Hydroxydes de cuivre
+2825600000,2825.60.00.00,2825.60.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Germanium oxides and zirconium dioxide,Oxydes de germanium et dioxyde de zirconium
+2825600010,2825.60.00.10,2825.60.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Germanium oxides,Oxydes de germanium
+2825600020,2825.60.00.20,2825.60.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Zirconium dioxide,Dioxyde de zirconium
+2825700000,2825.70.00.00,2825.70.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Molybdenum oxides and hydroxides,Oxydes et hydroxydes de molybdène
+2825700010,2825.70.00.10,2825.70.00.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Molybdenum oxides,Oxydes de molybdène
+2825700020,2825.70.00.20,2825.70.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Molybdenum hydroxides,Hydroxydes de molybdène
+2825701000,2825.70.10.00,2825.70.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Molybdenum oxides,Oxydes de molybdène
+2825702000,2825.70.20.00,2825.70.20.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Molybdenum hydroxides,Hydroxydes de molybdène
+2825800000,2825.80.00.00,2825.80.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Antimony oxides,Oxydes d'antimoine
+2825900000,2825.90.00.00,2825.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Inorganic bases, nes; metal oxides, hydroxides and peroxides, nes","Bases inorganiques, nda; oxydes, hydroxydes et peroxydes métalliques, nda"
+2825901000,2825.90.10.00,2825.90.10.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Tin oxide,Oxyde d'étain
+2825901010,2825.90.10.10,2825.90.10.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Tin oxides,Oxydes d'étain
+2825901020,2825.90.10.20,2825.90.10.20 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Mercury oxides,Oxydes de mercure
+2825909010,2825.90.90.10,2825.90.90.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Cadmium oxide,Oxyde de cadmium
+2825909090,2825.90.90.90,2825.90.90.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Inorganic bases nes;metal oxides, hydroxides & peroxides nes","Bases inorganiques nda; oxydes, hydroxydes et peroxydes métalliques nda"
+2825909090,2825.90.90.90,2825.90.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Inorganic bases, nes;metal oxides, hydroxides and peroxides, nes","Bases inorganiques, nda; oxydes, hydroxydes et peroxydes métalliques, nda"
+2826110010,2826.11.00.10,2826.11.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Ammonium bifluoride,Difluorure d'ammonium
+2826110020,2826.11.00.20,2826.11.00.20 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Sodium fluorides,Fluorures de sodium
+2826110090,2826.11.00.90,2826.11.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Fluorides of ammonium or of sodium, nes","Fluorures d'ammonium ou de sodium, nda"
+2826120000,2826.12.00.00,2826.12.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Aluminum fluorides,Fluorures d'aluminium
+2826190000,2826.19.00.00,2826.19.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Fluorides, of metals, nes","Fluorures, métalliques, nda"
+2826190010,2826.19.00.10,2826.19.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Potassium fluoride,Fluorure de potassium
+2826190090,2826.19.00.90,2826.19.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Fluorides of metals, nes","Fluorures de métaux, nda"
+2826190090,2826.19.00.90,2826.19.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Fluorides of metals, nes","Fluorures de métaux, nda"
+2826200000,2826.20.00.00,2826.20.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Fluorosilicates of sodium or of potassium,Fluorosilicates de sodium ou de potassium
+2826300000,2826.30.00.00,2826.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium hexafluoroaluminate (synthetic cryolite),Hexafluoroaluminate de sodium (cryolithe synthétique)
+2826900000,2826.90.00.00,2826.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Fluorosilicates, fluoroaluminates and other complex fluorine salts, nes","Fluorosilicates, fluoroaluminates et autres sels complexes de fluor, nda"
+2826900010,2826.90.00.10,2826.90.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Stannous fluoroborate,Fluoroborate stanneux
+2826900020,2826.90.00.20,2826.90.00.20 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Fluorosilicates,Fluorosilicates
+2826900090,2826.90.00.90,2826.90.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Complex fluorine salts, nes","Sels complexes de fluor, nda"
+2826901000,2826.90.10.00,2826.90.10.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Fluorosilicates of sodium or of potassium,Fluorosilicates de sodium ou de potassium
+2826909010,2826.90.90.10,2826.90.90.10 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Stannous fluoroborate,Fluoroborate stanneux
+2826909020,2826.90.90.20,2826.90.90.20 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Fluorosilicates,Fluorosilicates
+2826909090,2826.90.90.90,2826.90.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Fluoroaluminates and complex fluorine salts, nes","Fluoroaluminates et sels complexes de fluor, nda"
+2827100000,2827.10.00.00,2827.10.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Ammonium chloride,Chlorure d'ammonium
+2827100000,2827.10.00.00,2827.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Ammonium chloride,Chlorure d'ammonium
+2827101000,2827.10.10.00,2827.10.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Ammonium chloride,employed as drilling mud/an additive in drill min,nat gas/wat","Chlorure d'ammonium,utilisé comme boue de forage pr pétrl,gaz nat,minéraux/eau"
+2827109000,2827.10.90.00,2827.10.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Ammonium chloride, nes","Chlorure d'ammonium, nda"
+2827200010,2827.20.00.10,2827.20.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Calcium chloride, dry","Chlorure de calcium, à l'état sec"
+2827200020,2827.20.00.20,2827.20.00.20 (1988-01/9999-12),198801,999912,KNS,KNS (1993-01/9999-12),199301,999912,"Calcium chloride, in aqueous solution","Chlorure de calcium, en solution aqueuse"
+2827200020,2827.20.00.20,2827.20.00.20 (1988-01/9999-12),198801,999912,KSD,KSD (1988-01/1992-12),198801,199212,"Calcium chloride, in aqueous solution","Chlorure de calcium, en solution aqueuse"
+2827310000,2827.31.00.00,2827.31.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Magnesium chloride,Chlorure de magnésium
+2827320000,2827.32.00.00,2827.32.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Aluminum chloride,Chlorure d'aluminium
+2827330010,2827.33.00.10,2827.33.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Ferrous chloride,Chlorure ferreux
+2827330020,2827.33.00.20,2827.33.00.20 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Ferric chloride,Chlorure ferrique
+2827340000,2827.34.00.00,2827.34.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Cobalt chloride,Chlorure de cobalt
+2827350000,2827.35.00.00,2827.35.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Nickel chloride,Chlorure de nickel
+2827360000,2827.36.00.00,2827.36.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Zinc chloride,Chlorure de zinc
+2827371000,2827.37.10.00,2827.37.10.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Stannous chloride,Chlorure stanneux
+2827372000,2827.37.20.00,2827.37.20.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Stannic chloride,Chlorure stannique
+2827380010,2827.38.00.10,2827.38.00.10 (1998-01/2001-12),199801,200112,KGM,KGM (1998-01/2001-12),199801,200112,"Barium chloride, to reduce level of radium in liquid from uranium production","Chlorure de baryum, pour abaisser le niveau de radium dans liq de produc uranium"
+2827380090,2827.38.00.90,2827.38.00.90 (1998-01/2001-12),199801,200112,KGM,KGM (1998-01/2001-12),199801,200112,"Barium chlorides, nes","Chlorures de baryum, nda"
+2827381000,2827.38.10.00,2827.38.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Barium chloride, to reduce level of radium in liquid from uranium production","Chlorure de baryum, pour abaisser le niveau de radium dans liq de produc uranium"
+2827389000,2827.38.90.00,2827.38.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Barium chlorides, nes","Chlorures de baryum, nda"
+2827390000,2827.39.00.00,2827.39.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Chlorides, of metals, nes","Chlorures, métalliques, nda"
+2827390010,2827.39.00.10,2827.39.00.10 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Titanium tetrachloride,Tétrachlorure de titane
+2827390010,2827.39.00.10,2827.39.00.10 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Stannous chloride,Chlorure stanneux
+2827390020,2827.39.00.20,2827.39.00.20 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Manganous chloride,Chlorure de manganèse
+2827390020,2827.39.00.20,2827.39.00.20 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Stannic chloride,Chlorure stannique
+2827390030,2827.39.00.30,2827.39.00.30 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Titanium tetrachloride,Tétrachlorure de titane
+2827390040,2827.39.00.40,2827.39.00.40 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Manganous chloride,Chlorure de manganèse
+2827390050,2827.39.00.50,2827.39.00.50 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Barium chloride, to reduce level of radium in liquid from uranium production","Chlorure de baryum, pour abaisser le niveau de radium dans liq de produc uranium"
+2827390060,2827.39.00.60,2827.39.00.60 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other barium chlorides, nes","Autres chlorures de baryum, nda"
+2827390090,2827.39.00.90,2827.39.00.90 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,"Chlorides of metals, nes","Chlorures de métaux, nda"
+2827390090,2827.39.00.90,2827.39.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other chlorides, of metals, nes","Autres chlorures, de métaux, nda"
+2827391000,2827.39.10.00,2827.39.10.00 (1996-01/1999-04),199601,199904,KGM,KGM (1996-01/1999-04),199601,199904,Stannous chloride,Chlorure stanneux
+2827391010,2827.39.10.10,2827.39.10.10 (1999-05/2011-12),199905,201112,KGM,KGM (1999-05/2011-12),199905,201112,Stannous chloride,Chlorure stanneux
+2827391020,2827.39.10.20,2827.39.10.20 (1999-05/2011-12),199905,201112,KGM,KGM (1999-05/2011-12),199905,201112,"Titanium tetrachloride,for pet ref catalysts, mfr of feeds,glues,cables,etc","Tétrachlorure de titane,pr raffinage pétrl/fab aliment animaux,colles,câble,etc"
+2827391030,2827.39.10.30,2827.39.10.30 (1999-05/2011-12),199905,201112,KGM,KGM (1999-05/2011-12),199905,201112,"Manganous chloride, for pet ref catalysts, mfr of feeds, glues, cables, etc","Chlorure de manganèse,pr raffinage pétrl/fab aliment pr animaux,colles,câble,etc"
+2827391090,2827.39.10.90,2827.39.10.90 (1999-05/2006-12),199905,200612,KGM,KGM (1999-05/2006-12),199905,200612,"Chlorides of metals for pet ref catalysts, mfr of feeds,glues,cables,etc","Chlorures de métaux pr raffinage pét/fab aliment pr animaux,colles,câble,etc"
+2827391090,2827.39.10.90,2827.39.10.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Chlorides,of metals,f pet refng catalysts,anml feeds,glues,opt fib,etc","Chlorures,de métaux,pr raff pétrl,ali ani,colles,fibres optiques,etc"
+2827392000,2827.39.20.00,2827.39.20.00 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Stannic chloride,Chlorure stannique
+2827392010,2827.39.20.10,2827.39.20.10 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Barium chloride, to reduce level of radium in liquid from uranium production","Chlorure de baryum, pour abaisser le niveau de radium dans liq de produc uranium"
+2827392090,2827.39.20.90,2827.39.20.90 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Barium chlorides, nes","Chlorures de baryum, nda"
+2827393000,2827.39.30.00,2827.39.30.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Cobalt chloride,Chlorure de cobalt
+2827394000,2827.39.40.00,2827.39.40.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Zinc chloride,Chlorure de zinc
+2827399010,2827.39.90.10,2827.39.90.10 (1996-01/1999-04),199601,199904,KGM,KGM (1996-01/1999-04),199601,199904,Titanium tetrachloride,Tétrachlorure de titane
+2827399010,2827.39.90.10,2827.39.90.10 (1999-05/2011-12),199905,201112,KGM,KGM (1999-05/2011-12),199905,201112,"Titanium tetrachloride, nes","Tétrachlorure de titane, nda"
+2827399020,2827.39.90.20,2827.39.90.20 (1996-01/1999-04),199601,199904,KGM,KGM (1996-01/1999-04),199601,199904,Manganous chloride,Chlorure de manganèse
+2827399020,2827.39.90.20,2827.39.90.20 (1999-05/2011-12),199905,201112,KGM,KGM (1999-05/2011-12),199905,201112,"Manganous chloride, nes","Chlorure de manganèse, nda"
+2827399030,2827.39.90.30,2827.39.90.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Stannic chloride,Chlorure stannique
+2827399090,2827.39.90.90,2827.39.90.90 (1996-01/1999-04),199601,199904,KGM,KGM (1996-01/1999-04),199601,199904,"Chlorides of metals, nes","Chlorures de métaux, nda"
+2827399090,2827.39.90.90,2827.39.90.90 (1999-05/2006-12),199905,200612,KGM,KGM (1999-05/2006-12),199905,200612,"Chlorides of metals, nes","Chlorures de métaux, nda"
+2827399090,2827.39.90.90,2827.39.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Chlorides, of metals, nes","Chlorures, de métaux, nda"
+2827410000,2827.41.00.00,2827.41.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Chloride oxides and chloride hydroxides, of copper","Oxychlorures et hydroxychlorures, de cuivre"
+2827490000,2827.49.00.00,2827.49.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Chloride oxides and chloride hydroxides, of metals, other than copper, nes","Oxychlorures et hydroxychlorures, métalliques, autres que de cuivre, nda"
+2827490010,2827.49.00.10,2827.49.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Aluminum chloride hydroxide,Hydroxychlorure d'aluminium
+2827490090,2827.49.00.90,2827.49.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Chloride oxides & chloride hydroxides of metals, nes","Oxychlorures et hydroxychlorures de métaux, nda"
+2827490090,2827.49.00.90,2827.49.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Chloride oxides and chloride hydroxides, of metals, o/t copper, nes","Oxychlorures et hydroxychlorures, métalliques, a/q de cuivre, nda"
+2827510000,2827.51.00.00,2827.51.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Bromides of sodium or of potassium,Bromures de sodium ou de potassium
+2827510010,2827.51.00.10,2827.51.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium bromide,Bromure de sodium
+2827510020,2827.51.00.20,2827.51.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Potassium bromide,Bromure de potassium
+2827590000,2827.59.00.00,2827.59.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Bromides and bromide oxides, o/t of sodium or potassium, of metals, nes","Bromures, a/q de sodium ou de potassium, et oxybromures, de métaux, nda"
+2827590010,2827.59.00.10,2827.59.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Bromide oxides,Oxybromures
+2827590020,2827.59.00.20,2827.59.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Ammonium bromide,Bromure d'ammonium
+2827590030,2827.59.00.30,2827.59.00.30 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,Calcium bromide,Bromure de calcium
+2827590090,2827.59.00.90,2827.59.00.90 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,"Bromides & bromide oxides of metals, nes","Bromures et oxybromures de métaux, nda"
+2827590090,2827.59.00.90,2827.59.00.90 (1992-01/2006-12),199201,200612,KGM,KGM (1992-01/2006-12),199201,200612,"Bromides & bromide oxides of metals, nes","Bromures et oxybromures de métaux, nda"
+2827590090,2827.59.00.90,2827.59.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Bromides and bromide oxides, of metals, o/t of sodium or potassium, nes","Bromures et oxybromures, de métaux, a/q de sodium ou de potassium, nda"
+2827600000,2827.60.00.00,2827.60.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Iodides and iodide oxides of metals,Iodures et oxyiodures de métaux
+2827600000,2827.60.00.00,2827.60.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Iodides and iodide oxides, of metals","Iodures et oxyiodures, métalliques"
+2827601000,2827.60.10.00,2827.60.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Manganous iodide; potassium iodide; sodium iodide,Iodure de manganèse; iodure de potassium; iodure de sodium
+2827609100,2827.60.91.00,2827.60.91.00 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Iodides and iodide oxides of metals, for use as pet refining catalysts etc","Iodures et oxyiodures de métaux, servant de catalyseur pr raffinage pétrl etc"
+2827609100,2827.60.91.00,2827.60.91.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Iodides & iodide oxides,of metals,mfg pet refng catalysts,anml feed,glue,opt fib","Iodures & oxyiodures,de méta,pr catalyseur raff pétrl,ali ani,colles,fib optique"
+2827609900,2827.60.99.00,2827.60.99.00 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Other iodides and iodide oxides of metals, nes","Autres iodures et oxyiodures de métaux, nda"
+2827609900,2827.60.99.00,2827.60.99.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Iodides and iodide oxides, of metals, nes","Iodures et oxyiodures, de métaux, nda"
+2828100000,2828.10.00.00,2828.10.00.00 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,Commercial calcium hypochlorite and other calcium hypochlorites,Hypochlorite de calcium du commerce et autres hypochlorites de calcium
+2828100010,2828.10.00.10,2828.10.00.10 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,Commercial calcium hypochlorite,Hypochlorite de calcium du commerce
+2828100020,2828.10.00.20,2828.10.00.20 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,Calcium hypoclorites o/t commercial,Hypoclorites de calcium a/q du commerce
+2828900000,2828.90.00.00,2828.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Hypochlorites, of metals, nes; chlorites and hypobromites, of metals","Hypochlorites, métalliques, nda; chlorites et hypobromites, métalliques"
+2828900010,2828.90.00.10,2828.90.00.10 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,Sodium hypochlorite,Hypochlorite de sodium
+2828900020,2828.90.00.20,2828.90.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sodium chlorite,Chlorite de sodium
+2828900030,2828.90.00.30,2828.90.00.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Lithium hypochlorite,Hypochlorite de lithium
+2828900090,2828.90.00.90,2828.90.00.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,Hypochlorites and chlorites of metals nes; hypobromites of metals,Hypochlorites et chlorites de métaux nda; hypobromites de métaux
+2828900090,2828.90.00.90,2828.90.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Hypochlorites, of metals, nes; chlorites and hypobromites, of metals","Hypochlorites, de métaux, nda; chlorite et hypobromites, de métaux"
+2828900090,2828.90.00.90,2828.90.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Hypochlorites, chlorites and hypobromites, of metals, nes","Hypochlorites, chlorites et hypobromites, de métaux, nda"
+2828901000,2828.90.10.00,2828.90.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium hypochlorite,Hypochlorite de sodium
+2828909010,2828.90.90.10,2828.90.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium chlorite,Chlorite de sodium
+2828909020,2828.90.90.20,2828.90.90.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Lithium hypochlorite,Hypochlorite de lithium
+2828909090,2828.90.90.90,2828.90.90.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Hypochlorites and chlorites of metals nes; hypobromites of metals,Hypochlorites et chlorites de métaux nda; hypobromites de métaux
+2829110000,2829.11.00.00,2829.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium chlorate,Chlorate de sodium
+2829190000,2829.19.00.00,2829.19.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Chlorates, of metals, o/t sodium, nes","Chlorates, métalliques, a/q de sodium, nda"
+2829190010,2829.19.00.10,2829.19.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Potassium chlorate,Chlorate de potassium
+2829190090,2829.19.00.90,2829.19.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Chlorates of metals, nes","Chlorates de métaux, nda"
+2829191000,2829.19.10.00,2829.19.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Potassium chlorate, for use in the manufacture of matches","Chlorate de potassium, devant servir à la fabrication d'allumettes"
+2829199010,2829.19.90.10,2829.19.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Potassium chlorate, nes","Chlorate de potassium, nda"
+2829199090,2829.19.90.90,2829.19.90.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Chlorates of metals, nes","Chlorates de métaux, nda"
+2829199090,2829.19.90.90,2829.19.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Chlorates of metals, nes","Chlorates de métaux, nda"
+2829900000,2829.90.00.00,2829.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Perchlorates, bromates, perbromates, iodates and periodates, of metals","Perchlorates, bromates, perbromates, iodates et periodates, métalliques"
+2829901000,2829.90.10.00,2829.90.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Perchlorates; calcium iodate; sodium iodate; potassium iodate,Perchlorates; iodate de calcium; iodate de sodium; iodate neutre de potassium
+2829901000,2829.90.10.00,2829.90.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Perchlorates, for use as petroleum refining catalysts, etc","Perchlorates, devant servir de catalyseur lors du raffinage du pétrole, etc"
+2829902000,2829.90.20.00,2829.90.20.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Other perchlorates; calcium iodate; sodium iodate; potassium iodate,Au perchlorates; iodate de calcium; iodate de sodium; iodate neutre de potassium
+2829909000,2829.90.90.00,2829.90.90.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Bromates, perbromates, and periodates of metals; iodates of metals nes","Bromates, perbromates et periodates de métaux; iodates de métaux nda"
+2829909000,2829.90.90.00,2829.90.90.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Bromates, perbromates, iodates and periodates, of metals, nes","Bromates, perbromates, iodates et periodates, de métaux, nda"
+2830100000,2830.10.00.00,2830.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Sodium sulphides,Sulfures de sodium
+2830100010,2830.10.00.10,2830.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium hydrogen sulphide,Hydrogénosulfure de sodium
+2830100090,2830.10.00.90,2830.10.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Sodium sulphides, except sodium hydrogen sulphide","Sulfures de sodium, a/q hydrogénosulfure de sodium"
+2830200000,2830.20.00.00,2830.20.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Zinc sulphide,Sulfure de zinc
+2830300000,2830.30.00.00,2830.30.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Cadmium sulphide,Sulfure de cadmium
+2830900000,2830.90.00.00,2830.90.00.00 (1991-07/2006-12),199107,200612,KGM,KGM (1991-07/2006-12),199107,200612,"Sulphides of metals, nes; polysulphides of metals",Sulfures de métaux nda; polysulfures de métaux
+2830900000,2830.90.00.00,2830.90.00.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Sulphides, of metals, nes; polysulphides, of metals, w/n chem defined","Sulfures, de métaux, nda; polysulfures, de métaux, chim définis ou non"
+2830900000,2830.90.00.00,2830.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Sulphides, of metals, nes; polysulphides, of metals, w/n chemically defined, nes","Sulfures, de métaux, nda; polysulfures, de métaux, chimique définis ou non"
+2830900010,2830.90.00.10,2830.90.00.10 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Ammonium hydrogen sulphide,Hydrogénosulfure d'ammonium
+2830900020,2830.90.00.20,2830.90.00.20 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Molybdenum disulphide,Disulfure de molybdène
+2830900090,2830.90.00.90,2830.90.00.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Sulphides of metals nes; polysulphides of metals,Sulfure de métaux nda; polysulfures de métaux
+2831100000,2831.10.00.00,2831.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Dithionites and sulphoxylates of sodium,Dithionites et sulfoxylates de sodium
+2831100010,2831.10.00.10,2831.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium dithionite,Dithionite de sodium
+2831100020,2831.10.00.20,2831.10.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium sulphoxylates,Sulfoxylates de sodium
+2831900000,2831.90.00.00,2831.90.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Dithionites & sulphoxylates of metals, nes","Dithionites et sulfoxylates de métaux, nda"
+2832100000,2832.10.00.00,2832.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Sodium sulphites,Sulfites de sodium
+2832100010,2832.10.00.10,2832.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium hydrogen sulphite,Hydrogénosulfite de sodium
+2832100020,2832.10.00.20,2832.10.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Disodium disulphite (sodium metabisulphite),Disulfite de sodium (métabisulfite neutre de sodium)
+2832100030,2832.10.00.30,2832.10.00.30 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium sulphite,Sulfite de sodium
+2832100090,2832.10.00.90,2832.10.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Sodium sulphites, nes","Sulfites de sodium, nda"
+2832200000,2832.20.00.00,2832.20.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Sulphites of metals, nes","Sulfites métalliques, nda"
+2832200010,2832.20.00.10,2832.20.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Dipotassium disulphite (potassium metabisulphite),Disulfite ou métabisulfite de potassium
+2832200090,2832.20.00.90,2832.20.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Sulphites of metals, nes","Sulfites de métaux, nda"
+2832200090,2832.20.00.90,2832.20.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Sulphites of metals, nes","Sulfites de métaux, nda"
+2832300000,2832.30.00.00,2832.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Thiosulphates of metals,Thiosulfates métalliques
+2832300010,2832.30.00.10,2832.30.00.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sodium thiosulphate,Thiosulfate de sodium
+2832300020,2832.30.00.20,2832.30.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Ammonium thiosulphate,Thiosulfate d'ammonium
+2832300090,2832.30.00.90,2832.30.00.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Thiosulphates of metals, nes","Thiosulfates de métaux, nda"
+2832301000,2832.30.10.00,2832.30.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium thiosulphate,Thiosulfate de sodium
+2832309010,2832.30.90.10,2832.30.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Ammonium thiosulphate,Thiosulfate d'ammonium
+2832309090,2832.30.90.90,2832.30.90.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Thiosulphates of metals, nes","Thiosulfates de métaux, nda"
+2833110000,2833.11.00.00,2833.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Disodium sulphate,Sulfate de disodium
+2833190000,2833.19.00.00,2833.19.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Sodium sulphates, nes","Sulfates de sodium, nda"
+2833190010,2833.19.00.10,2833.19.00.10 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,Sodium sulphate acid (sodium hydrogen sulphate),Hydrogénosulfate de sodium (sulfate acide)
+2833190090,2833.19.00.90,2833.19.00.90 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,"Sodium sulphates, nes","Sulfates de sodium, nda"
+2833191000,2833.19.10.00,2833.19.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium sulphate acid (sodium hydrogen sulphate),Hydrogénosulfate de sodium (sulfate acide)
+2833199000,2833.19.90.00,2833.19.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium sulphates nes,Sulfates de sodium nda
+2833210000,2833.21.00.00,2833.21.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Magnesium sulphate,Sulfate de magnésium
+2833210000,2833.21.00.00,2833.21.00.00 (2014-10/9999-12),201410,999912,KGM,KGM (2014-10/9999-12),201410,999912,Magnesium sulphate,Sulfate de magnésium
+2833211000,2833.21.10.00,2833.21.10.00 (1998-01/2014-09),199801,201409,KGM,KGM (1998-01/2014-09),199801,201409,"Magnesium sulphate, technical grade","Sulfate de magnésium, de qualité technique"
+2833219000,2833.21.90.00,2833.21.90.00 (1998-01/2014-09),199801,201409,KGM,KGM (1998-01/2014-09),199801,201409,"Magnesium sulphate, o/t technical grade","Sulfate de magnésium, a/q de qualité technique"
+2833220000,2833.22.00.00,2833.22.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Aluminium sulphate,Sulfate d'aluminium
+2833220011,2833.22.00.11,2833.22.00.11 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Aluminum sulphate, basic or normal, dry","Sulfate d'aluminium, basique ou normal, sec"
+2833220012,2833.22.00.12,2833.22.00.12 (1998-01/2011-12),199801,201112,KNS,KNS (1998-01/2011-12),199801,201112,"Aluminum sulphate, basic or normal, in solution","Sulfate d'aluminium, basique ou normal, dans une solution"
+2833220090,2833.22.00.90,2833.22.00.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Aluminum sulphates, except basic or normal","Sulfates d'aluminium, a/q sulfate d'aluminium basique ou normal"
+2833221000,2833.22.10.00,2833.22.10.00 (1988-01/1994-12),198801,199412,KGM,KGM (1988-01/1994-12),198801,199412,"Aluminum sulphate, basic or normal","Sulfate d'aluminium, basique ou normal"
+2833221010,2833.22.10.10,2833.22.10.10 (1995-01/1997-12),199501,199712,KGM,KGM (1995-01/1997-12),199501,199712,"Aluminum sulphate, basic or normal, dry","Sulfate d'aluminium, basique ou normal, sec"
+2833221020,2833.22.10.20,2833.22.10.20 (1995-01/1997-12),199501,199712,KNS,KNS (1995-01/1997-12),199501,199712,"Aluminum sulphate, basic or normal, in solution","Sulfate d'aluminium, basique ou normal, dans une solution"
+2833229000,2833.22.90.00,2833.22.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Aluminum sulphates, except basic or normal","Sulfates d'aluminium, a/q sulfate d'aluminium basique ou normal"
+2833230010,2833.23.00.10,2833.23.00.10 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Chromium sulphate, basic","Sulfate de chrome, basique"
+2833230090,2833.23.00.90,2833.23.00.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Chromium sulphates, except basic","Sulfates de chrome, a/q sulfate de chrome basique"
+2833231000,2833.23.10.00,2833.23.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Chromium sulphate, basic","Sulfate de chrome, basique"
+2833239000,2833.23.90.00,2833.23.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Chromium sulphates, except basic","Sulfates de chrome, a/q sulfate de chrome basique"
+2833240000,2833.24.00.00,2833.24.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Nickel sulphates,Sulfates de nickel
+2833250010,2833.25.00.10,2833.25.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Cupric sulphate,Sulfate cuivrique
+2833250020,2833.25.00.20,2833.25.00.20 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Copper sulphates, for use as petroleum refining catalysts/mfr animal feeds/etc","Sulfate de cuivre,pr catalyseur ds raffinage du pétrole/fab denré ali pr ani/etc"
+2833250090,2833.25.00.90,2833.25.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other copper sulphates, nes","Autres sulfates de cuivre, nda"
+2833250090,2833.25.00.90,2833.25.00.90 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Copper sulphates, nes","Sulfates de cuivre, nda"
+2833251000,2833.25.10.00,2833.25.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Cupric sulphate,Sulfate cuivrique
+2833251010,2833.25.10.10,2833.25.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Cupric sulphate,Sulfate cuivrique
+2833251020,2833.25.10.20,2833.25.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Copper sulphates, for use as petroleum refining catalysts, etc","Sulfates de cuivre, devant servir de catalyseur lors du raffinage du pétrole,etc"
+2833259000,2833.25.90.00,2833.25.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Copper sulphates, except cupric sulphate","Sulfates de cuivre, a/q sulfate cuivrique"
+2833259000,2833.25.90.00,2833.25.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Copper sulphates, nes","Sulfates de cuivre, nda"
+2833260000,2833.26.00.00,2833.26.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Zinc sulphate,Sulfate de zinc
+2833270000,2833.27.00.00,2833.27.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Barium sulphate,Sulfate de baryum
+2833290000,2833.29.00.00,2833.29.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Sulphates, of metal, nes","Sulfates, métalliques, nda"
+2833290010,2833.29.00.10,2833.29.00.10 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Ferric sulphate,Sulfate ferrique
+2833290020,2833.29.00.20,2833.29.00.20 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Stannous sulphate,Sulfate stanneux
+2833290030,2833.29.00.30,2833.29.00.30 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Lead sulphate,Sulfate de plomb
+2833290040,2833.29.00.40,2833.29.00.40 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Cobalt sulphate,Sulfate de cobalt
+2833290050,2833.29.00.50,2833.29.00.50 (1988-01/2016-12),198801,201612,KGM,KGM (1988-01/2016-12),198801,201612,Manganous sulphate,Sulfate de manganèse
+2833290090,2833.29.00.90,2833.29.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Sulphates of metal nes,"Sulfates de métaux, nda"
+2833290090,2833.29.00.90,2833.29.00.90 (2007-01/2016-12),200701,201612,KGM,KGM (2007-01/2016-12),200701,201612,"Sulphates, of metal, nes","Sulfates, de métaux, nda"
+2833300000,2833.30.00.00,2833.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Alums,Aluns
+2833300010,2833.30.00.10,2833.30.00.10 (1988-01/1990-08),198801,199008,KGM,KGM (1988-01/1990-08),198801,199008,Aluminum ammonium sulphate,Sulfate double d'aluminium et d'ammonium
+2833300010,2833.30.00.10,2833.30.00.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Chromium potassium sulphate,Sulfate double de chrome et de potassium (alun de chrome proprement dit)
+2833300020,2833.30.00.20,2833.30.00.20 (1988-01/1990-08),198801,199008,KGM,KGM (1988-01/1990-08),198801,199008,Aluminum sodium sulphate,Sulfate double d'aluminium et de sodium
+2833300020,2833.30.00.20,2833.30.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Aluminum ammonium sulphate,Sulfate double d'aluminium et d'ammonium (alun ammoniacal)
+2833300030,2833.30.00.30,2833.30.00.30 (1988-01/1990-08),198801,199008,KGM,KGM (1988-01/1990-08),198801,199008,Chromium potassium sulphate,Sulfate double de chrome et de potassium
+2833300030,2833.30.00.30,2833.30.00.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Aluminum sodium sulphate,Sulfate double d'aluminium et de sodium (alun de soude)
+2833300090,2833.30.00.90,2833.30.00.90 (1988-01/1990-08),198801,199008,KGM,KGM (1988-01/1990-08),198801,199008,"Alums, nes","Aluns, nda"
+2833300090,2833.30.00.90,2833.30.00.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Alums, nes","Aluns, nda"
+2833301000,2833.30.10.00,2833.30.10.00 (1990-09/1997-12),199009,199712,KGM,KGM (1990-09/1997-12),199009,199712,Chromium potassium sulphate,Sulfate double de chrome et de potassium (alun de chrome proprement dit)
+2833309010,2833.30.90.10,2833.30.90.10 (1990-09/1997-12),199009,199712,KGM,KGM (1990-09/1997-12),199009,199712,Aluminum ammonium sulphate,Sulfate double d'aluminium et d'ammonium (alun ammoniacal)
+2833309020,2833.30.90.20,2833.30.90.20 (1990-09/1997-12),199009,199712,KGM,KGM (1990-09/1997-12),199009,199712,Aluminum sodium sulphate,Sulfate double d'aluminium et de sodium (alun de soude)
+2833309090,2833.30.90.90,2833.30.90.90 (1990-09/1997-12),199009,199712,KGM,KGM (1990-09/1997-12),199009,199712,"Alums, nes","Aluns, nda"
+2833400010,2833.40.00.10,2833.40.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Diammonium peroxodisulphate (ammonium persulphate),Peroxodisulfate d'ammonium (persulfate d'ammonium)
+2833400010,2833.40.00.10,2833.40.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Diammonium peroxodisulphate (ammonium persulphate),Peroxodisulfate de diammonium (persulfate d'ammonium)
+2833400020,2833.40.00.20,2833.40.00.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Disodium peroxodisulphate (sodium persulphate),Peroxodisulfate de sodium (persulfate de sodium)
+2833400020,2833.40.00.20,2833.40.00.20 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Dipotassium peroxodisulphate (potassium persulphate),Peroxodisulfate de dipotassium (persulfate de potassium)
+2833400030,2833.40.00.30,2833.40.00.30 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Dipotassium peroxodisulphate (potassium persulphate),Peroxodisulfate de potassium (persulfate de potassium)
+2833400030,2833.40.00.30,2833.40.00.30 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Disodium peroxodisulphate (sodium persulphate),Peroxodisulfate de disodium (persulfate de sodium)
+2833400090,2833.40.00.90,2833.40.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Peroxosulphates (persulphates) nes,Peroxosulfates (persulfates) nda
+2833400090,2833.40.00.90,2833.40.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Other peroxosulphates (persulphates) of metals, nes","Autres peroxosulfates (persulfates) métalliques, nda"
+2833401010,2833.40.10.10,2833.40.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Diammonium peroxodisulphate (ammonium persulphate),used in the mfr of syn rubber","Peroxodisulfate d'ammonium (persulfate d'ammonium), devant servir fab caout syn"
+2833401020,2833.40.10.20,2833.40.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Dipotassium peroxodisulphate (potassium persulphate), used mfr of syn rubber","Peroxodisulfate de potassium (persulfate de potassium),servant à fab caout syn"
+2833401090,2833.40.10.90,2833.40.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Peroxosulphates (persulphates), for use in the manufacture of syn rubber, nes","Peroxosulfates (persulfates), devant servir à la fabrication caoutchouc syn, nda"
+2833409010,2833.40.90.10,2833.40.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Diammonium peroxodisulphate (ammonium persulphate),o/t for use mfr of syn rbr","Peroxodisulfate d'ammonium (persulfate d'ammonium),a/q servant fab caout syn"
+2833409020,2833.40.90.20,2833.40.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Disodium peroxodisulphate (sodium persulphate),o/t for use in the mfr of syn rbr","Peroxodisulfate de sodium (persulfate de sodium),a/q servant fab caout syn"
+2833409030,2833.40.90.30,2833.40.90.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Dipotassium peroxodisulphate (potassium persulphate),o/t for use mfr of syn rbr","Peroxodisulfate de potassium (persulfate de potassium),a/q servant fab caout syn"
+2833409090,2833.40.90.90,2833.40.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Peroxosulphates (persulphates),o/t for use in the manufacture of syn rubber, nes","Peroxosulfates (persulfates),a/q devant servir à la fabrication caout syn, nda"
+2834100000,2834.10.00.00,2834.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Nitrites of metals,Nitrites métalliques
+2834100010,2834.10.00.10,2834.10.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium nitrite,Nitrite de sodium
+2834100090,2834.10.00.90,2834.10.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Nitrites of metals except sodium nitrite,"Nitrites de métaux, a/q nitrite de sodium"
+2834100090,2834.10.00.90,2834.10.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Nitrites, of metals, o/t sodium nitrite","Nitrites, de métaux, a/q nitrite de sodium"
+2834210000,2834.21.00.00,2834.21.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Potassium nitrate,Nitrate de potassium
+2834220000,2834.22.00.00,2834.22.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Bismuth nitrates,Nitrates de bismuth
+2834290000,2834.29.00.00,2834.29.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Nitrates of metals, nes","Nitrates métalliques, nda"
+2834290010,2834.29.00.10,2834.29.00.10 (1998-01/2001-12),199801,200112,KGM,KGM (1998-01/2001-12),199801,200112,Strontium nitrate,Nitrate de strontium
+2834290020,2834.29.00.20,2834.29.00.20 (1998-01/2001-12),199801,200112,KGM,KGM (1998-01/2001-12),199801,200112,"Calcium nitrate containing, in dry state, not more than 16% by wt nitrogen","Nitrate de calcium, contenant à l'état sec <=16 % d'azote en poids"
+2834290090,2834.29.00.90,2834.29.00.90 (1998-01/2001-12),199801,200112,KGM,KGM (1998-01/2001-12),199801,200112,Nitrates of metal nes,Nitrates de métaux nda
+2834291000,2834.29.10.00,2834.29.10.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Bismuth nitrates,Nitrates de bismuth
+2834291010,2834.29.10.10,2834.29.10.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Strontium nitrate,Nitrate de strontium
+2834291020,2834.29.10.20,2834.29.10.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Calcium nitrate containing, in dry state, not more than 16% by wt nitrogen","Nitrate de calcium, contenant à l'état sec <=16 % d'azote en poids"
+2834299000,2834.29.90.00,2834.29.90.00 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,Nitrates of metal nes,Nitrates de métaux nda
+2834299010,2834.29.90.10,2834.29.90.10 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Calcium nitrate containing in the dry state,more than 16% by weight of nitrogen",Nitrate de calcium contenant en poids plus de 16% d'azote à l'état sec
+2834299010,2834.29.90.10,2834.29.90.10 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Strontium nitrate,Nitrate de strontium
+2834299020,2834.29.90.20,2834.29.90.20 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Calcium nitrate containing, in dry state, not more than 16% by wt nitrogen","Nitrate de calcium, contenant à l'état sec <=16 % d'azote en poids"
+2834299090,2834.29.90.90,2834.29.90.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Nitrates of metals nes,Nitrates de métaux nda
+2834299090,2834.29.90.90,2834.29.90.90 (2002-01/2006-12),200201,200612,KGM,KGM (2002-01/2006-12),200201,200612,"Nitrates of metals, nes","Nitrates de métaux, nda"
+2834299090,2834.29.90.90,2834.29.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Nitrates of metals, nes","Nitrates de métaux, nda"
+2835100000,2835.10.00.00,2835.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Phosphinates (hypophosphites) & phosphonates (phosphites) of metals,Phosphinates (hypophosphites) et phosphonates (phosphites) de métaux
+2835210000,2835.21.00.00,2835.21.00.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Triammonium phosphate,Phosphate de triammonium
+2835220000,2835.22.00.00,2835.22.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Mono- or disodium phosphates,Phosphates de mono- ou de disodium
+2835220010,2835.22.00.10,2835.22.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium dihydrogenorthophosphate,Dihydrogénoorthophosphate de sodium (phosphate monosodique)
+2835220020,2835.22.00.20,2835.22.00.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Disodium hydrogenorthophosphate,Hydrogénoorthophosphate de disodium (phosphate disodique)
+2835221010,2835.22.10.10,2835.22.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium dihydrogenorthophosphate,for use mfr of additives for heat,lub/fuel oils","Dihydrogénoorthophosphate de sodium,pr fab d'additif pr mazout & huile chauf"
+2835221020,2835.22.10.20,2835.22.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Disodium hydrogenorthophosphate,used mfr of additive for heat,lub/fuel oils","Hydrogénoorthophosphate de disodium,pr fab d'additifs pr mazout & huiles chauf"
+2835229010,2835.22.90.10,2835.22.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium dihydrogenorthophosphate, nes","Dihydrogénoorthophosphate de sodium (phosphate monosodique), nda"
+2835229020,2835.22.90.20,2835.22.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Disodium hydrogenorthophosphate, nes","Hydrogénoorthophosphate de disodium (phosphate disodique), nda"
+2835230000,2835.23.00.00,2835.23.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Trisodium phosphate,Phosphate de trisodium
+2835231000,2835.23.10.00,2835.23.10.00 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Trisodium phosphate, commercial grade","Phosphate de trisodium, qualité de commerce"
+2835239000,2835.23.90.00,2835.23.90.00 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Trisodium phosphate, o/t commercial grade","Phosphate de trisodium, a/q de qualité de commerce"
+2835240000,2835.24.00.00,2835.24.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Potassium phosphates,Phosphates de potassium
+2835240010,2835.24.00.10,2835.24.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Potassium orthophosphate (monopotassium phosphate),Orthophosphate de potassium (phosphate monopotassique)
+2835240020,2835.24.00.20,2835.24.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Dipotassium orthophosphate (dipotassium phosphate),Orthophosphate de dipotassium (phosphate dibasique de potassium)
+2835240030,2835.24.00.30,2835.24.00.30 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Tripotassium orthophosphate (tripotassium phosphate),Orthophosphate de tripotassium (phosphate tribasique de potassium)
+2835250000,2835.25.00.00,2835.25.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Calcium hydrogenorthophosphate (dicalcium phosphate),Hydrogénoorthophosphate de calcium (phosphate dicalcique)
+2835260000,2835.26.00.00,2835.26.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Calcium phosphates, nes","Phosphates de calcium, nda"
+2835260010,2835.26.00.10,2835.26.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Calcium tetrahydrogenbis(orthophosphate),Tétrahydrogénobis (orthophosphate) de calcium
+2835260020,2835.26.00.20,2835.26.00.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Tricalcium bis(orthophosphate),Bis (orthophosphate) de tricalcium
+2835260090,2835.26.00.90,2835.26.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Phosphates of calcium, nes","Phosphates de calcium, nda"
+2835261010,2835.26.10.10,2835.26.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Calcium tetrahydrogenbis (orthophosphate),for use as pet refining catalysts, etc","Tétrahydrogénobis (orthophosphate) de calcium,servant catalys pr raff pétrl,etc"
+2835261020,2835.26.10.20,2835.26.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Tricalcium bis(orthophosphate), for use as petroleum refining catalysts, etc","Bis(orthophosphate) de tricalcium,servant de catalyseur lors du raff pétrl, etc"
+2835261090,2835.26.10.90,2835.26.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Phosphates of calcium, for use as pet refining catalysts, etc, nes","Phosphates de calcium,devant servir de catalyseur lors du raffinage du pétrl,nda"
+2835269010,2835.26.90.10,2835.26.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Calcium tetrahydrogenbis(orthophosphate), nes","Tétrahydrogénobis (orthophosphate) de calcium, nda"
+2835269020,2835.26.90.20,2835.26.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Tricalcium bis(orthophosphate), nes","Bis (orthophosphate) de tricalcium, nda"
+2835269090,2835.26.90.90,2835.26.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Phosphates of calcium, nes","Phosphates de calcium, nda"
+2835290000,2835.29.00.00,2835.29.00.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,"Phosphates of metals, nes","Phosphates de métaux, nda"
+2835290000,2835.29.00.00,2835.29.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Phosphates of metals, nes","Phosphates métalliques, nda"
+2835291000,2835.29.10.00,2835.29.10.00 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Triammonium phosphate,Phosphate de triammonium
+2835291010,2835.29.10.10,2835.29.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Triammonium phosphate,Phosphate de triammonium
+2835291090,2835.29.10.90,2835.29.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Phosphates of metals, nes","Phosphates de métaux, nda"
+2835292100,2835.29.21.00,2835.29.21.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Trisodium phosphate, commercial grade","Phosphate de trisodium, qualité du commerce"
+2835292900,2835.29.29.00,2835.29.29.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Trisodium phosphate, o/t commercial grade","Phosphate de trisodium, a/q du qualité du commerce"
+2835299000,2835.29.90.00,2835.29.90.00 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,"Phosphates of metals, nes","Phosphates de métaux, nda"
+2835299000,2835.29.90.00,2835.29.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Other phosphates, nes","Autres phosphates, nda"
+2835310000,2835.31.00.00,2835.31.00.00 (1988-01/2004-12),198801,200412,KGM,KGM (1988-01/2004-12),198801,200412,Sodium triphosphate (sodium tripolyphosphate),Triphosphate de sodium (tripolyphosphate de sodium)
+2835310010,2835.31.00.10,2835.31.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Sodium triphosphate (sodium tripolyphosphate), for manufacture of food products","Triphosphate de sodium (tripolyphosphate de sod), pour fab prod alimentaires"
+2835310090,2835.31.00.90,2835.31.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Sodium triphosphate (sod tripolyphosphate), o/t for the mfr of food products,nes","Triphosphate de sod (tripolyphosphate de sod), a/q pr fab prod alimentaires, nda"
+2835311000,2835.31.10.00,2835.31.10.00 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Sodium triphosphate (sodium tripolyphosphate), for manufacture of food products","Triphosphate de sod (tripolyphosphate de sod), pour la fab de prod alimentaires"
+2835319000,2835.31.90.00,2835.31.90.00 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Sodium triphosphate (sodium tripolyphosphate),o/t for the mfr of food products","Triphosphate de sod (tripolyphosphate de sod), a/q pour la fab prod alimentaires"
+2835390010,2835.39.00.10,2835.39.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Sodium acid pyrophosphate, used in the manufacture of food products","Pyrophosphate disodique, devant servir à fabrication de produits alimentaires"
+2835390011,2835.39.00.11,2835.39.00.11 (1988-01/2004-12),198801,200412,KGM,KGM (1988-01/2004-12),198801,200412,Sodium acid pyrophosphate,Pyrophosphate acide de sodium
+2835390012,2835.39.00.12,2835.39.00.12 (1988-01/2004-12),198801,200412,KGM,KGM (1988-01/2004-12),198801,200412,Tetrasodium pyrophosphate,Pyrophosphate de tétrasodium
+2835390019,2835.39.00.19,2835.39.00.19 (1988-01/2004-12),198801,200412,KGM,KGM (1988-01/2004-12),198801,200412,"Sodium polyphosphates, nes","Polyphosphates de sodium, nda"
+2835390090,2835.39.00.90,2835.39.00.90 (1988-01/2004-12),198801,200412,KGM,KGM (1988-01/2004-12),198801,200412,"Polyphosphates of metal, nes","Polyphosphates de métaux, nda"
+2835390090,2835.39.00.90,2835.39.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Other polyphosphates of metals, nes","Autres polyphosphates métalliques, nda"
+2835391000,2835.39.10.00,2835.39.10.00 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Sodium acid pyrophosphate, used in the manufacture of food products","Pyrophosphate disodique, devant servir à la fabrication de produits alimentaires"
+2835399011,2835.39.90.11,2835.39.90.11 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Sodium acid pyrophosphate, other than for the manufacture of food products","Pyrophosphate acide de sodium, a/q pour la fab de produits alimentaires"
+2835399012,2835.39.90.12,2835.39.90.12 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,Tetrasodium pyrophosphate,Pyrophosphate de tétrasodium
+2835399019,2835.39.90.19,2835.39.90.19 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Sodium polyphosphates, nes","Polyphosphates de sodium, nda"
+2835399090,2835.39.90.90,2835.39.90.90 (2005-01/2011-12),200501,201112,KGM,KGM (2005-01/2011-12),200501,201112,"Polyphosphates of metal, nes","Polyphosphates de métaux, nda"
+2836100010,2836.10.00.10,2836.10.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Ammonium bicarbonate,Bicarbonate d'ammonium
+2836100090,2836.10.00.90,2836.10.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Commercial ammonium carbonate & ammonium carbonate, except ammonium bicarbonate","Carbonate d'ammonium du comm et autres carbonates d'ammo, a/q bicarbonate d'ammo"
+2836200000,2836.20.00.00,2836.20.00.00 (1988-01/2002-10),198801,200210,KGM,KGM (1988-01/2002-10),198801,200210,Disodium carbonate,Carbonate de disodium
+2836200010,2836.20.00.10,2836.20.00.10 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Disodium carbonate, for use in refining minerals",Carbonate de disodium devant servir à l'affinage des minerais
+2836200090,2836.20.00.90,2836.20.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Disodium carbonate, other than for use in refining minerals, nes","Carbonate de disodium, autres que pour l'affinage de minerais, nda"
+2836201000,2836.20.10.00,2836.20.10.00 (2002-11/2011-12),200211,201112,KGM,KGM (2002-11/2011-12),200211,201112,"Disodium carbonate, for use in refining minerals","Carbonate de disodium, devant servir de l'affinage des minerais"
+2836209000,2836.20.90.00,2836.20.90.00 (2002-11/2011-12),200211,201112,KGM,KGM (2002-11/2011-12),200211,201112,"Disodium carbonate, o/t for use in refining minerals","Carbonate de disodium, a/q pour l'affinage de minerais"
+2836300000,2836.30.00.00,2836.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium hydrogencarbonate (sodium bicarbonate),Hydrogénocarbonate (bicarbonate) de sodium
+2836400000,2836.40.00.00,2836.40.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Potassium carbonates,Carbonates de potassium
+2836400010,2836.40.00.10,2836.40.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Dipotassium carbonate,Carbonate de potassium (carbonate neutre)
+2836400020,2836.40.00.20,2836.40.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Potassium bicarbonate,Bicarbonate de potasse (carbonate acide)
+2836400090,2836.40.00.90,2836.40.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Potassium carbonates, nes","Carbonates de potassium, nda"
+2836500000,2836.50.00.00,2836.50.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Calcium carbonate,Carbonate de calcium
+2836600000,2836.60.00.00,2836.60.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Barium carbonate,Carbonate de baryum
+2836700000,2836.70.00.00,2836.70.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Lead carbonates,Carbonates de plomb
+2836910000,2836.91.00.00,2836.91.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Lithium carbonates,Carbonates de lithium
+2836910000,2836.91.00.00,2836.91.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Lithium carbonates,Carbonates de lithium
+2836910010,2836.91.00.10,2836.91.00.10 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Lithium carbonates,incl pellets cont 95% or > wt of lithium carb,used mfr alum","Carbonates de lithium,y co boulette 95% ou > de carbo lithium,pr fab d'alumnium"
+2836910090,2836.91.00.90,2836.91.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other lithium carbonates, nes","Autres carbonates de lithium, nda"
+2836911000,2836.91.10.00,2836.91.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Lithium carbonates,incl pellets cont 95% or > wt of lithium carb,used in alum","Carbonates de lithium,y co boulette 95% ou > de carbo lithium,pr fab d'alumnium"
+2836919000,2836.91.90.00,2836.91.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Lithium carbonates, nes","Carbonates de lithium, nda"
+2836920000,2836.92.00.00,2836.92.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Strontium carbonate,Carbonate de strontium
+2836930000,2836.93.00.00,2836.93.00.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Bismuth carbonate,Carbonate de bismuth
+2836990000,2836.99.00.00,2836.99.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Carbonates of metals, nes; peroxocarbonates (percarbonates) of metals","Carbonates métalliques,nda; peroxocarbonates (percabonates) métalliques"
+2836990010,2836.99.00.10,2836.99.00.10 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Copper carbonates,Carbonates de cuivre
+2836990020,2836.99.00.20,2836.99.00.20 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Cobalt carbonates,Carbonates de cobalt
+2836990030,2836.99.00.30,2836.99.00.30 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Magnesium carbonates,Carbonates de magnésium
+2836990040,2836.99.00.40,2836.99.00.40 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Sodium sesquicarbonate,Sesquicarbonate de sodium
+2836990050,2836.99.00.50,2836.99.00.50 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Peroxocarbonates (percarbonates) of metals,Peroxocarbonates (percarbonates) de métaux
+2836990090,2836.99.00.90,2836.99.00.90 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Carbonates of metals nes,Carbonates de métaux nda
+2836991000,2836.99.10.00,2836.99.10.00 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Bismuth carbonate,Carbonate de bismuth
+2836991010,2836.99.10.10,2836.99.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Bismuth carbonate,Carbonate de bismuth
+2836991020,2836.99.10.20,2836.99.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Copper carbonates,for use mfr of animal feeeds, glues,opt fib/cables,etc","Carbonates de cuivre,dev ser catalys raff pétrl,ali pr ani,colles,adhésifs,etc"
+2836991030,2836.99.10.30,2836.99.10.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Cobalt carbonates, for use mfr of animal feeds, glues, opt fibres/cables,etc","Carbonates de cobalt,dev ser catalys raff pétrl, ali pr ani, colles,adhésifs,etc"
+2836991040,2836.99.10.40,2836.99.10.40 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Magnesium carbonates,f use mfr of anml feeds, glues, opt fib/cables, etc","Carbonates de magnésium, dev ser catalys raff pétrl, ali pr ani,colle,adhésif,etc"
+2836991050,2836.99.10.50,2836.99.10.50 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium sesquicarbonate,f use mfr of anml feeds, glues, opt fib/cables,etc","Sesquicarbonate de sodium, dev ser catalys raff pétrl,ali pr ani,colle,adhésif,etc"
+2836991060,2836.99.10.60,2836.99.10.60 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Peroxocarbonate (percarbonate)of metal,empl as drill mud/additive in drill min,etc","Peroxocarbonate (percarbonate) de métaux,util com boue/additif pr forag,etc"
+2836991090,2836.99.10.90,2836.99.10.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,Carbonates of metals nes,Carbonates de métaux nda
+2836991090,2836.99.10.90,2836.99.10.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Carbonates,of metals,nes,f mfr anml feeds,glues,adhesives,opt fibres,etc","Carbonates,de métaux,nda,pr fab ali ani,colles,adhésifs,fib opt,etc"
+2836999010,2836.99.90.10,2836.99.90.10 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Copper carbonates,Carbonates de cuivre
+2836999010,2836.99.90.10,2836.99.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Copper carbonates, nes","Carbonates de cuivre, nda"
+2836999020,2836.99.90.20,2836.99.90.20 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Cobalt carbonates,Carbonates de cobalt
+2836999020,2836.99.90.20,2836.99.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Cobalt carbonates, nes","Carbonates de cobalt, nda"
+2836999030,2836.99.90.30,2836.99.90.30 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Magnesium carbonates,Carbonates de magnésium
+2836999030,2836.99.90.30,2836.99.90.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Magnesium carbonates, nes","Carbonates de magnésium, nda"
+2836999040,2836.99.90.40,2836.99.90.40 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Sodium sesquicarbonate,Sesquicarbonate de sodium
+2836999040,2836.99.90.40,2836.99.90.40 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium sesquicarbonate, nes","Sesquicarbonate de sodium, nda"
+2836999050,2836.99.90.50,2836.99.90.50 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Peroxocarbonates (percarbonates) of metals,Peroxocarbonates (percarbonates) de métaux
+2836999050,2836.99.90.50,2836.99.90.50 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Peroxocarbonates (percarbonates) of metals, nes","Peroxocarbonates (percarbonates) de métaux, nda"
+2836999090,2836.99.90.90,2836.99.90.90 (1996-01/1997-12),199601,199712,KGM,KGM (1996-01/1997-12),199601,199712,Carbonates of metals nes,Carbonates de métaux nda
+2836999090,2836.99.90.90,2836.99.90.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,Carbonates of metals nes,Carbonates de métaux nda
+2836999090,2836.99.90.90,2836.99.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Carbonates, of metals, nes","Carbonates, de métaux, nda"
+2837110000,2837.11.00.00,2837.11.00.00 (2000-01/9999-12),200001,999912,KGM,KGM (2000-01/9999-12),200001,999912,Cyanides and cyanide oxides of sodium,Cyanures et oxycyanures de sodium
+2837110010,2837.11.00.10,2837.11.00.10 (1988-01/1999-12),198801,199912,KGM,KGM (1988-01/1999-12),198801,199912,Sodium cyanide,Cyanure de sodium
+2837110020,2837.11.00.20,2837.11.00.20 (1988-01/1999-12),198801,199912,KGM,KGM (1988-01/1999-12),198801,199912,Sodium cyanide oxide,Oxycyanure de sodium
+2837190000,2837.19.00.00,2837.19.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Cyanides and cyanide oxides, nes","Cyanures et oxycyanures, nda"
+2837190010,2837.19.00.10,2837.19.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Copper cyanide,Cyanure de cuivre
+2837190020,2837.19.00.20,2837.19.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Potassium cyanide,Cyanure de potassium
+2837190030,2837.19.00.30,2837.19.00.30 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Zinc cyanide,Cyanure de zinc
+2837190090,2837.19.00.90,2837.19.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Cyanides & cyanide oxides of metals, nes","Cyanures et oxycyanures de métaux, nda"
+2837190090,2837.19.00.90,2837.19.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Cyanides and cyanide oxides, of metals, o/t of sodium, nes","Cyanures et oxycyanures, de métaux, a/q de sodium, nda"
+2837200000,2837.20.00.00,2837.20.00.00 (1991-07/9999-12),199107,999912,KGM,KGM (1991-07/9999-12),199107,999912,Complex cyanides of metals,Cyanures complexes de métaux
+2837200010,2837.20.00.10,2837.20.00.10 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Tripotassium hexacyanoferrate,Hexacyanoferrate de tripotassium
+2837200090,2837.20.00.90,2837.20.00.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Complex cyanides of metals nes,Cyanures complexes de métaux nda
+2838000000,2838.00.00.00,2838.00.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Fulminates, cyanates and thiocyanates of metals","Fulminates, cyanates et thiocyanates de métaux"
+2839110000,2839.11.00.00,2839.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium metasilicates,Métasilicates de sodium
+2839190000,2839.19.00.00,2839.19.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Silicates of sodium, o/t sodium metasilicates","Silicates de sodium, a/q métasilicates de sodium"
+2839200000,2839.20.00.00,2839.20.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Potassium silicates,Silicates de potassium
+2839900000,2839.90.00.00,2839.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Silicates, of inorganic acids and metals, nes; commercial alkali metal silicates","Silicates,métalliques acides inorganiques,nda;silicates métaux alcalins commerce"
+2839900010,2839.90.00.10,2839.90.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Precipitated calcium silicates,Silicates de calcium précipités
+2839900010,2839.90.00.10,2839.90.00.10 (2014-10/2016-12),201410,201612,KGM,KGM (2014-10/2016-12),201410,201612,Potassium silicates,Silicates de potassium
+2839900020,2839.90.00.20,2839.90.00.20 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Magnesium silicates,Silicates de magnésium
+2839900030,2839.90.00.30,2839.90.00.30 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Zirconium silicate,Silicate de zirconium
+2839900090,2839.90.00.90,2839.90.00.90 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Silicates of metals nes; commercial alkali metal silicates nes,Silicates de métaux nda; silicates des métaux alcalins du commerce nda
+2839900090,2839.90.00.90,2839.90.00.90 (2014-10/2016-12),201410,201612,KGM,KGM (2014-10/2016-12),201410,201612,"Silicates of metals, o/t of sodium/potassium; commercial alkali metal silicates","Silicates métalliques,a/q de sodium/potassium;silicates métaux alcalins commerce"
+2839901000,2839.90.10.00,2839.90.10.00 (2007-01/2014-09),200701,201409,KGM,KGM (2007-01/2014-09),200701,201409,Potassium silicates,Silicates de potassium
+2839909000,2839.90.90.00,2839.90.90.00 (2012-01/2014-09),201201,201409,KGM,KGM (2012-01/2014-09),201201,201409,"Other silicates, of metals, and commercial alkali metal silicates, nes","Autres silicates, de métaux, et silicates des métaux alcalins du commerce, nda"
+2839909010,2839.90.90.10,2839.90.90.10 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Precipitated calcium silicates,Silicates de calcium précipités
+2839909020,2839.90.90.20,2839.90.90.20 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Magnesium silicates,Silicates de magnésium
+2839909030,2839.90.90.30,2839.90.90.30 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Zirconium silicate,Silicate de zirconium
+2839909090,2839.90.90.90,2839.90.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Silicates, of metals, nes; commercial alkali metal silicates, nes","Silicates, de métaux, nda; silicates des métaux alcalins du commerce, nda"
+2840110000,2840.11.00.00,2840.11.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Disodium tetraborate (refined borax), anhydrous","Tétraborate de disodium (borax raffiné), anhydre"
+2840190000,2840.19.00.00,2840.19.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Disodium tetraborate (refined borax), o/t anhydrous","Tétraborate de disodium (borax raffiné), a/q anhydre"
+2840200000,2840.20.00.00,2840.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Borates of metals, o/t disodium tetraborate","Borates de métaux, a/q tétraborate de disodium (borax raffiné)"
+2840300000,2840.30.00.00,2840.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Peroxoborates (perborates) of metals,Peroxoborates (perborates) métalliques
+2840300010,2840.30.00.10,2840.30.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Sodium peroxoborate,Peroxoborate de sodium
+2840300090,2840.30.00.90,2840.30.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Peroxoborates (perborates) of metals, except sodium peroxoborate","Peroxoborates (perborates) de métaux, a/q peroxoborate de sodium"
+2841100010,2841.10.00.10,2841.10.00.10 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,Sodium aluminate,Aluminate de sodium
+2841100020,2841.10.00.20,2841.10.00.20 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,Magnesium aluminate,Aluminate de magnésium
+2841100090,2841.10.00.90,2841.10.00.90 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Metallic aluminates, nes","Aluminates métalliques, nda"
+2841101000,2841.10.10.00,2841.10.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium aluminate,Aluminate de sodium
+2841109010,2841.10.90.10,2841.10.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Magnesium aluminate,Aluminate de magnésium
+2841109090,2841.10.90.90,2841.10.90.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Metallic aluminates, nes","Aluminates métalliques, nda"
+2841200000,2841.20.00.00,2841.20.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Chromates of zinc or of lead,Chromates de zinc ou de plomb
+2841300000,2841.30.00.00,2841.30.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Sodium dichromate,Dichromate de sodium
+2841400000,2841.40.00.00,2841.40.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Potassium dichromate,Dichromate de potassium
+2841500000,2841.50.00.00,2841.50.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,"Chromates and dichromates of metals, nes; peroxochromates of metals",Chromates et dichromates de métaux nda; peroxochromates de métaux
+2841500000,2841.50.00.00,2841.50.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Chromates and dichromates, of metals, nes; peroxochromates of metals","Chromates et dichromates, métalliques, nda; peroxochromates métalliques"
+2841501000,2841.50.10.00,2841.50.10.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,Potassium dichromate,Dichromate de potassium
+2841502000,2841.50.20.00,2841.50.20.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Chromates of zinc or of lead,Chromates de zinc ou de plomb
+2841509000,2841.50.90.00,2841.50.90.00 (2002-01/2006-12),200201,200612,KGM,KGM (2002-01/2006-12),200201,200612,"Chromates & dichromates of metals, nes; peroxochromates of metals","Chromates et dichromates de métaux, nda; peroxochromates de métaux"
+2841509000,2841.50.90.00,2841.50.90.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Chromates and dichromates, of metals, nes; peroxochromates, of metals","Chromates et dichromates, de métaux, nda; peroxochromates, de métaux"
+2841600010,2841.60.00.10,2841.60.00.10 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Potassium permanganate,Permanganate de potassium
+2841600090,2841.60.00.90,2841.60.00.90 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,"Manganites, manganates & permanganates of metals, except potassium permanganate","Manganites, manganates et permanganates de métaux, a/q permanganate de potassium"
+2841610000,2841.61.00.00,2841.61.00.00 (1996-01/9999-12),199601,999912,KGM,KGM (1996-01/9999-12),199601,999912,Potassium permanganate,Permanganate de potassium
+2841690000,2841.69.00.00,2841.69.00.00 (1996-01/9999-12),199601,999912,KGM,KGM (1996-01/9999-12),199601,999912,"Manganites, manganates & permanganates of metals, o/t potassium permanganate","Manganites, manganates et permanganates de métaux,a/q permanganate de potassium"
+2841700000,2841.70.00.00,2841.70.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Metallic molybdates,Molybdates métalliques
+2841700000,2841.70.00.00,2841.70.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Metallic molybdates,Molybdates métalliques
+2841701000,2841.70.10.00,2841.70.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Molybdates, for use as petroleum refining catalysts, etc","Molybdates, devant servir de catalyseur lors du raffinage du pétrole, etc"
+2841709000,2841.70.90.00,2841.70.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Metallic molybdates, nes","Molybdates métalliques, nda"
+2841800000,2841.80.00.00,2841.80.00.00 (1992-01/9999-12),199201,999912,KGM,KGM (1992-01/9999-12),199201,999912,Tungstates of oxometallic or peroxometallic acids,Tungstates des acides oxométalliques ou peroxométalliques
+2841800010,2841.80.00.10,2841.80.00.10 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,Ammonium tungstate (ammonium wolframate),Tungstate d'ammonium (wolframate d'ammonium)
+2841800090,2841.80.00.90,2841.80.00.90 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,"Metallic tungstates (wolframate), except ammonium tungstate","Tungstates métalliques (wolframate), a/q tungstate d'ammonium"
+2841900000,2841.90.00.00,2841.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Salts of oxometallic or peroxometallic acids, nes","Sels des acides oxométalliques ou peroxométalliques, nda"
+2841900010,2841.90.00.10,2841.90.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Potassium titanate,Titanate de potassium
+2841900020,2841.90.00.20,2841.90.00.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium titanate,Titanate de sodium
+2841900090,2841.90.00.90,2841.90.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Salts of oxometallic or peroxometallic acids nes,Sels des acides oxométalliques ou peroxométalliques nda
+2841901000,2841.90.10.00,2841.90.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Lithium cobaltite,Cobaltite de lithium
+2841902010,2841.90.20.10,2841.90.20.10 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Sodium aluminate,Aluminate de sodium
+2841902090,2841.90.20.90,2841.90.20.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Metallic aluminates, nes","Aluminates métalliques, nda"
+2841909010,2841.90.90.10,2841.90.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Potassium titanate,Titanate de potassium
+2841909020,2841.90.90.20,2841.90.90.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sodium titanate,Titanate de sodium
+2841909090,2841.90.90.90,2841.90.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Salts of oxometallic or peroxometallic acids, nes","Sels des acides oxométalliques ou peroxométalliques, nda"
+2842100000,2842.10.00.00,2842.10.00.00 (1988-01/2001-12),198801,200112,KGM,KGM (1988-01/2001-12),198801,200112,Double or complex silicates of metals,Silicates doubles ou complexes de métaux
+2842100000,2842.10.00.00,2842.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Double or complex silicates of metals, incl aluminosilicates, w/n chem defined","Silicates métalliques doubles/complexes, comp aluminosilicates, chim déf/non"
+2842101000,2842.10.10.00,2842.10.10.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Aluminosilicates, not chemically defined","Aluminosilicates, de constitution chimique non définie"
+2842109000,2842.10.90.00,2842.10.90.00 (2002-01/2011-12),200201,201112,KGM,KGM (2002-01/2011-12),200201,201112,"Double or complex silicates or metals, nes","Silicates doubles ou complexes de métaux, nda"
+2842900000,2842.90.00.00,2842.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Salts of inorganic acids or peroxoacids, o/t azides, nes","Sels des acides ou peroxoacides inorganiques, a/q les azotures, nda"
+2842900010,2842.90.00.10,2842.90.00.10 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Ammonium nickel sulphate,Sulphate double d'ammonium et de nickel
+2842900020,2842.90.00.20,2842.90.00.20 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Sodium selenite,Sélénite de sodium
+2842900030,2842.90.00.30,2842.90.00.30 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Ammonium zinc chloride,Chlorure d'ammonium et de zinc
+2842900040,2842.90.00.40,2842.90.00.40 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Nickel sulphamate,Sulphamate de nickel
+2842900050,2842.90.00.50,2842.90.00.50 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Sodium aluminum phosphate,Phosphate double de sodium et d'aluminium
+2842900090,2842.90.00.90,2842.90.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Other salts of inorganic acids or peroxoacids, excluding azides, nes","Autres sels des acides ou peroxoacides inorganiques, autres qu'azotures, nda"
+2842901010,2842.90.10.10,2842.90.10.10 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Ammonium zinc chloride (zinc ammonium chloride),Chlorure d'ammonium et de zinc (chlorure de zinc ammoniacal)
+2842901010,2842.90.10.10,2842.90.10.10 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,Ammonium zinc chloride (zinc ammonium chloride),Chlorure d'ammonium et de zinc (chlorure de zinc et d'ammonium)
+2842901010,2842.90.10.10,2842.90.10.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Ammonium nickel sulphate, for use in the mfr of animal/poultry feeds,glues,etc","Sulphate doub d'ammo & nickel,pour fab denrée aliment pr ani/volaille,colle,etc"
+2842901020,2842.90.10.20,2842.90.10.20 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Ammonium nickel sulphate,Sulfate double d'ammonium et de nickel
+2842901020,2842.90.10.20,2842.90.10.20 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,Ammonium nickel sulphate,Sulphate double d'ammonium et de nickel
+2842901020,2842.90.10.20,2842.90.10.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium selenite, for use in the mfr of animal/poultry feeds, glues, etc","Sélénite de sodium, pour la fab denrées aliment pr animaux/volailles, colles,etc"
+2842901030,2842.90.10.30,2842.90.10.30 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Sodium selenite,Sélénite de sodium
+2842901030,2842.90.10.30,2842.90.10.30 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,Sodium selenite,Sélénite de sodium
+2842901040,2842.90.10.40,2842.90.10.40 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Sodium selenate,Sélénate de sodium
+2842901050,2842.90.10.50,2842.90.10.50 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Ammonium nickel sulphate,Sulphate double d'ammonium et de nickel
+2842901060,2842.90.10.60,2842.90.10.60 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Sodium selenite,Sélénite de sodium
+2842901090,2842.90.10.90,2842.90.10.90 (1991-07/1997-12),199107,199712,KGM,KGM (1991-07/1997-12),199107,199712,Sodium arsenates; sodium selenate; sodium arsenite,Arsénates de sodium; sélénate de sodium; arsénite de sodium
+2842901090,2842.90.10.90,2842.90.10.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium selenate, for use in the mfr of animal/poultry feeds, glues, etc","Sélénate de sodium, pour la fab de denrées aliment pr ani/volaille, colles, etc"
+2842902000,2842.90.20.00,2842.90.20.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Fulminates, cyanates and thiocyanates, of metals","Fulminates, cyanates et thiocyanates, de métaux"
+2842909010,2842.90.90.10,2842.90.90.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Nickel sulphamate,Sulphamate de nickel
+2842909020,2842.90.90.20,2842.90.90.20 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium aluminum phosphate,Phosphate double de sodium et d'aluminium
+2842909090,2842.90.90.90,2842.90.90.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Salts of inorganic acids or peroxoacids, nes, excluding azides","Sels des acides ou peroxoacides inorganiques, nda, a/q azotures"
+2842909110,2842.90.91.10,2842.90.91.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Ammonium nickel sulphate, nes","Sulphate double d'ammonium et de nickel, nda"
+2842909120,2842.90.91.20,2842.90.91.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium selenite, nes","Sélénite de sodium, nda"
+2842909190,2842.90.91.90,2842.90.91.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium arsenates;sodium arsenite; sodium selenate, nes","Arsénates de sodium; arsénite de sodium; sélénate de sodium, nda"
+2842909910,2842.90.99.10,2842.90.99.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Ammonium zinc chloride (zinc ammonium chloride),Chlorure d'ammonium et de zinc (chlorure de zinc et d'ammonium)
+2842909920,2842.90.99.20,2842.90.99.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Nickel sulphamate,Sulphamate de nickel
+2842909930,2842.90.99.30,2842.90.99.30 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Sodium aluminum phosphate,Phosphate double de sodium et d'aluminium
+2842909990,2842.90.99.90,2842.90.99.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Salts of inorganic acids or peroxoacids, nes, excluding azides","Sels des acides ou peroxoacides inorganiques, nda, a/q azotures"
+2843100000,2843.10.00.00,2843.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Colloidal precious metals,Métaux précieux à l'état colloïdal
+2843210000,2843.21.00.00,2843.21.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Silver nitrate,Nitrate d'argent
+2843290000,2843.29.00.00,2843.29.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Silver compounds, o/t silver nitrate","Composés d'argent, a/q nitrate d'argent"
+2843300000,2843.30.00.00,2843.30.00.00 (1992-01/1997-12),199201,199712,KGM,KGM (1992-01/1997-12),199201,199712,Gold compounds,Composés d'or
+2843300000,2843.30.00.00,2843.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Gold compounds,Composés d'or
+2843300010,2843.30.00.10,2843.30.00.10 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,Sodium aurothiomalate,Aurothiomalate de sodium
+2843300090,2843.30.00.90,2843.30.00.90 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,"Gold compounds, except sodium aurothiomalate","Composés d'or, a/q aurothiomalate de sodium"
+2843301000,2843.30.10.00,2843.30.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Gold compounds, empl in the mfr of photographic emulsions/semiconductor devices","Composés d'or, pr fab d'émulsions photographiques/dispositifs à semi-conducteurs"
+2843309100,2843.30.91.00,2843.30.91.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,Gold sodium cyanide; gold trichloride,Cyanure double d'or et de sodium; chlorure d'or
+2843309900,2843.30.99.00,2843.30.99.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Gold compounds, nes","Composés d'or, nda"
+2843900000,2843.90.00.00,2843.90.00.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Inorganic or organic compounds of precious metals, nes;amalgams of prec metals","Composés organiques ou inorg de métaux précieux, nda; amalgames de métaux préc"
+2843900000,2843.90.00.00,2843.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Precious metal compounds, nes; amalgams","Composés de métaux précieux, nda; amalgames"
+2843901000,2843.90.10.00,2843.90.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Inorganic/organic compd or amalgams of precious metals,use mfr photo emulsions","Composé organique/inorg/amalgame de métaux précieux,pr fab d'émulsions photo"
+2843909000,2843.90.90.00,2843.90.90.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Inorganic or organic compd of precious metals, nes;amalgams of prec metals, nes","Composés organiques/inorg de métaux précieux, nda; amalgames de métaux préc, nda"
+2844100000,2844.10.00.00,2844.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Natural uranium,its compounds;alloys,dispersions,ceramic products & mixtures,etc","Uranium nat & ses comp; mélanges renfermant de l'uranium nat/de ses comp,etc"
+2844100010,2844.10.00.10,2844.10.00.10 (1988-01/1993-12),198801,199312,KGM,KGM (1988-01/1993-12),198801,199312,Uranium dioxide,Dioxyde d'uranium
+2844100011,2844.10.00.11,2844.10.00.11 (1994-01/2011-12),199401,201112,KGM,KGM (1994-01/2011-12),199401,201112,Uranium dioxide,Dioxide d'uranium
+2844100019,2844.10.00.19,2844.10.00.19 (1994-01/2011-12),199401,201112,KGM,KGM (1994-01/2011-12),199401,201112,"Uranium oxides, o/t uranium dioxide","Oxides d'uranium, a/q dioxide d'uranium"
+2844100090,2844.10.00.90,2844.10.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Natural uranium & its compds, nes; mx ctng natural uranium or its compds, nes","Uranium nat et ses composés, nda; mél cont de l'uranium nat ou ses composés, nda"
+2844200000,2844.20.00.00,2844.20.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Uranium U235+ & its compds, plutonium & its compds, their mx & compds thereof","Uranium U235+ et ses comp, plutonium & ses comp, mélanges renferm ces produits"
+2844200010,2844.20.00.10,2844.20.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Uranium enriched in U235 and its compounds,Uranium enrichi en U235 et ses composés
+2844200090,2844.20.00.90,2844.20.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Plutonium & its compds; mx ctng U235+, plutonium or compds of these products","Plutonium et ses composés; mél cont U235+, plutonium ou composés de ces produits"
+2844300000,2844.30.00.00,2844.30.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Uranium U235- & its compds, thorium & its compds, their mx & compds thereof","Uranium U235- et ses comp, thorium et ses comp, mélanges renferm ces produits"
+2844300010,2844.30.00.10,2844.30.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Uranium depleted in U235 and its compounds,Uranium appauvri en U235 et ses composés
+2844300020,2844.30.00.20,2844.30.00.20 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Thorium nitrate,Nitrate de thorium
+2844300090,2844.30.00.90,2844.30.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Thorium & its compnds, nes; mx ctng U235-, thorium or compds of theseproducts","Thorium et ses composés,nda; mél cont U235-, thorium ou composés de ces produits"
+2844400010,2844.40.00.10,2844.40.00.10 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1988-12),198801,198812,Radioactive elements and isotopes and compounds,Éléments et isotopes et composés radioactifs
+2844400010,2844.40.00.10,2844.40.00.10 (1988-01/1989-12),198801,198912,,N/A (1989-01/1989-12),198901,198912,Radioactive elements and isotopes and compounds,Éléments et isotopes et composés radioactifs
+2844400010,2844.40.00.10,2844.40.00.10 (2012-01/2021-12),201201,202112,MBQ,MBQ (2012-01/2021-12),201201,202112,"Radioactive elements & isotopes & compounds, etc, nes","Éléments et isotopes et composés radioactifs, etc, nda"
+2844400011,2844.40.00.11,2844.40.00.11 (1990-01/2011-12),199001,201112,CCI,CCI (1990-01/1996-12),199001,199612,Cobalt-60 and compounds with cobalt-60 radioactivity only,Cobalt 60 et composés émettant une radioactivité identique à celle du cobalt 60
+2844400011,2844.40.00.11,2844.40.00.11 (1990-01/2011-12),199001,201112,GBQ,GBQ (1997-01/2011-12),199701,201112,Cobalt-60 and compounds with cobalt-60 radioactivity only,Cobalt 60 et composés émettant une radioactivité identique à celle du cobalt 60
+2844400019,2844.40.00.19,2844.40.00.19 (1990-01/2011-12),199001,201112,MBQ,MBQ (1997-01/2011-12),199701,201112,"Radioactive elements & isotopes & compounds, nes","Éléments et isotopes et composés radioactifs, nda"
+2844400019,2844.40.00.19,2844.40.00.19 (1990-01/2011-12),199001,201112,MCI,MCI (1990-01/1996-12),199001,199612,"Radioactive elements & isotopes & compounds, nes","Éléments et isotopes et composés radioactifs, nda"
+2844400090,2844.40.00.90,2844.40.00.90 (1988-01/2021-12),198801,202112,KGM,KGM (1988-01/1988-12),198801,198812,"Alloys, dis, ceramic prod, & mx cont radioact elements,etc,nes;radioact residues","Alliages,disp,prod céram, mél cont des élém radioact,etc, nda;résid radioact"
+2844400090,2844.40.00.90,2844.40.00.90 (1988-01/2021-12),198801,202112,,N/A (1989-01/2021-12),198901,202112,"Alloys, dis, ceramic prod, & mx cont radioact elements,etc,nes;radioact residues","Alliages,disp,prod céram, mél cont des élém radioact,etc, nda;résid radioact"
+2844410000,2844.41.00.00,2844.41.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,"Elements, compounds cont tritium; alloys,dispersions,ceramic products & mixtures","Éléments,composés cont tritium;alliages,disp,produits céramiques et mélanges"
+2844420000,2844.42.00.00,2844.42.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,"Elements,compounds cont actinium-225,etc; alloys,dispersions,ceramic prod & mixt","Éléments,composés cont actinium-225,etc;alliages,disp,prod céramiques & mélanges"
+2844430000,2844.43.00.00,2844.43.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,"Radioactive elements,isotopes & compounds,nes; o alloys,dspr,ceramic prod & mixt","Éléments, isotopes et composés radioactifs,nda; alliages,disp, prod céram et mél"
+2844440000,2844.44.00.00,2844.44.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Radioactive residues,Résidus radioactifs
+2844500000,2844.50.00.00,2844.50.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/1988-12),198801,198812,"Spent, irradiated, fuel elements, cartridges, of nuclear reactors","Éléments combustibles, cartouches, usés, irradiés, de réacteur nucléaires"
+2844500000,2844.50.00.00,2844.50.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1994-01/9999-12),199401,999912,"Spent, irradiated, fuel elements, cartridges, of nuclear reactors","Éléments combustibles, cartouches, usés, irradiés, de réacteur nucléaires"
+2844500000,2844.50.00.00,2844.50.00.00 (1988-01/9999-12),198801,999912,,N/A (1989-01/1993-12),198901,199312,"Spent, irradiated, fuel elements, cartridges, of nuclear reactors","Éléments combustibles, cartouches, usés, irradiés, de réacteur nucléaires"
+2845100000,2845.10.00.00,2845.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Heavy water (deuterium oxide),Eau lourde (oxyde de deutérium)
+2845200000,2845.20.00.00,2845.20.00.00 (2022-01/9999-12),202201,999912,KGM,KGM (2022-01/9999-12),202201,999912,"Isotopes, boron enriched in boron-10 & compd, inorgn/orgn,w/n chemically defined","Isotopes, bore enrichi en bore-10 et composés,inorgn/orgn, même chimique définie"
+2845300000,2845.30.00.00,2845.30.00.00 (2022-01/9999-12),202201,999912,KGM,KGM (2022-01/9999-12),202201,999912,"Isotopes,lithium enriched in lithium-6 & compd,inorgn/orgn,w/n chemically define","Isotopes,lithium enrichi en lithium-6 composés,inorgn/orgn,même chimique définie"
+2845400000,2845.40.00.00,2845.40.00.00 (2022-01/9999-12),202201,999912,KGM,KGM (2022-01/9999-12),202201,999912,"Isotopes, helium-3, inorganic/organic, w/n chemically defined","Isotopes, hélium-3, inorganiques/organiques, même chimique définie"
+2845900000,2845.90.00.00,2845.90.00.00 (2012-01/2021-12),201201,202112,KGM,KGM (2012-01/2021-12),201201,202112,"Isotopes, nes, and their compounds","Isotopes, nda, et leurs composés"
+2845900000,2845.90.00.00,2845.90.00.00 (2022-01/9999-12),202201,999912,KGM,KGM (2022-01/9999-12),202201,999912,"Isotopes and their compounds, inorganic/organic, w/n chemically defined, nes","Isotopes et leur composés, inorganiques/organiques, même chimique définie, nda"
+2845900010,2845.90.00.10,2845.90.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Carbon 13,Carbone 13
+2845900090,2845.90.00.90,2845.90.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Isotopes, nes & their compounds","Isotopes, nda et leurs composés"
+2846100000,2846.10.00.00,2846.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Cerium compounds,Composés de cérium
+2846100010,2846.10.00.10,2846.10.00.10 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Cerium oxide,Oxyde cérique
+2846100090,2846.10.00.90,2846.10.00.90 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Cerium compounds except cerium oxide,"Composés de cérium, a/q oxyde cérique"
+2846101000,2846.10.10.00,2846.10.10.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Cerium oxide, to be employed in polishing spectacle or eyeglass lenses","Oxyde cérique, pour le polissage de lentilles de lunettes, monocles ou lorgnons"
+2846109010,2846.10.90.10,2846.10.90.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Cerium oxide, o/t for polishing spectacles or eyeglass lenses","Oxyde cérique, a/q pour polissage de lentilles, monocles ou lorgnons"
+2846109090,2846.10.90.90,2846.10.90.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Cerium compounds except cerium oxide, nes","Composés de cérium, a/q oxyde cérique, nda"
+2846900000,2846.90.00.00,2846.90.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Compounds of rare-earth metals, of yttrium or scandium or mx of these metals,nes","Composés des méta des terres rares, de l'yttrium ou du scandium & mélanges,nda"
+2846900010,2846.90.00.10,2846.90.00.10 (1992-01/2011-12),199201,201112,KGM,KGM (1992-01/2011-12),199201,201112,Compounds of rare-earth metals,Composés de métaux de terres-rares
+2846900011,2846.90.00.11,2846.90.00.11 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,Rare-earth silicide,Ciliciure de terres rares
+2846900019,2846.90.00.19,2846.90.00.19 (1988-01/1991-12),198801,199112,KGM,KGM (1988-01/1991-12),198801,199112,"Compounds of rare-earth metals, except rare-earth silicide","Composés de métaux de terres rares, a/q ciliciure de terres rares"
+2846900090,2846.90.00.90,2846.90.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Compounds of yttrium or of scandium or of mix of these metals incl rare-earth,"Composés de l'yttrium ou du scandium, ou mél de ces métaux, incl de terres rares"
+2847000010,2847.00.00.10,2847.00.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/1990-12),198801,199012,"Hydrogen peroxide, not solidified with urea","Peroxyde d'hydrogène (eau oxygénée), non solidifié avec de l'urée"
+2847000010,2847.00.00.10,2847.00.00.10 (1988-01/9999-12),198801,999912,KNS,KNS (1991-01/9999-12),199101,999912,"Hydrogen peroxide, not solidified with urea","Peroxyde d'hydrogène (eau oxygénée), non solidifié avec de l'urée"
+2847000020,2847.00.00.20,2847.00.00.20 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,"Hydrogen peroxide, solidified with urea (urea hydrogen peroxide)","Peroxyde d'hydrogène, solidifié avec l'urée (peroxyde d'urée hydrogénée)"
+2848000000,2848.00.00.00,2848.00.00.00 (1996-01/2011-12),199601,201112,KGM,KGM (1996-01/2011-12),199601,201112,"Phosphides, whether or not chemically defined, excluding ferrophosphorus","Phosphures, de constitution chimique définie ou non, à l'exc ferrophosphores"
+2848000000,2848.00.00.00,2848.00.00.00 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Phosphides, whether or not chemically defined, excluding ferrophosphorus","Phosphures, de constitution chimique définie ou non, excluant ferrophosphores"
+2848100000,2848.10.00.00,2848.10.00.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Phosphides of copper containing > 15% by weight of phosphorus,"Phosphures de cuivre, contenant > 15 % en poids de phosphore"
+2848900000,2848.90.00.00,2848.90.00.00 (1988-01/1995-12),198801,199512,KGM,KGM (1988-01/1995-12),198801,199512,Phosphides of metals nes or of non-metals,Phosphures de métaux nda ou d'éléments non métalliques
+2849100000,2849.10.00.00,2849.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Calcium carbide,Carbure de calcium
+2849200000,2849.20.00.00,2849.20.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Silicon carbide,Carbure de silicium
+2849900010,2849.90.00.10,2849.90.00.10 (1988-01/9999-12),198801,999912,KGM,KGM (1988-01/9999-12),198801,999912,Tungsten carbide,Carbure de tungstène
+2849900090,2849.90.00.90,2849.90.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Carbides, nes","Carbures, nda"
+2849900090,2849.90.00.90,2849.90.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Carbides, whether or not chemically defined, nes","Carbures, de constitution chimique définie ou non, nda"
+2850000000,2850.00.00.00,2850.00.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Hydrides,nitrides,azides,silicides,borides,w/n chemically defined,o/t compounds","Hydrures,nitrures,azotures,siliciures,borures,constit chim définie/non,a/q comp"
+2850000010,2850.00.00.10,2850.00.00.10 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,Nitrides,Nitrures
+2850000090,2850.00.00.90,2850.00.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Hybrides, azides, silicides and borides etc, nes","Hydrures, azotures, siliciures et borures etc, nda"
+2850001000,2850.00.10.00,2850.00.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,Sodium azide,Azoture de sodium
+2850001100,2850.00.11.00,2850.00.11.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium azide, for use in the manufacture of sera, antisera, toxoids,viruses, etc","Azoture de sodium, devant servir à la fab de serum,antisérum,toxoïdes,virus,etc"
+2850001900,2850.00.19.00,2850.00.19.00 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Sodium azide, nes","Azoture de sodium, nda"
+2850009010,2850.00.90.10,2850.00.90.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Hydrides,Hydrures
+2850009021,2850.00.90.21,2850.00.90.21 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,Boron nitride,Nitrure de bore
+2850009021,2850.00.90.21,2850.00.90.21 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Boron nitride,Nitrure de bore
+2850009029,2850.00.90.29,2850.00.90.29 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Nitrides, except boron nitride","Nitrures, a/q nitrure de bore"
+2850009029,2850.00.90.29,2850.00.90.29 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Nitrides, o/t boron nitride","Nitrures, a/q nitrure de bore"
+2850009030,2850.00.90.30,2850.00.90.30 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Azides,Azotures
+2850009030,2850.00.90.30,2850.00.90.30 (1991-07/2011-12),199107,201112,KGM,KGM (1991-07/2011-12),199107,201112,Silicides,Siliciures
+2850009040,2850.00.90.40,2850.00.90.40 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Silicides,Siliciures
+2850009050,2850.00.90.50,2850.00.90.50 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,Borides,Borures
+2850009090,2850.00.90.90,2850.00.90.90 (1991-07/2006-12),199107,200612,KGM,KGM (1991-07/2006-12),199107,200612,Azides and borides,Azotures et borures
+2850009090,2850.00.90.90,2850.00.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Azides, nes, o/t sodium azide, borides","Azotures, nda, a/q azoture de sodium, borures"
+2851000000,2851.00.00.00,2851.00.00.00 (1988-01/1996-12),198801,199612,KGM,KGM (1988-01/1996-12),198801,199612,"Inorgn compds, nes;liquid air;compressed air;amalgams o/t of precious metals",Composés inorg nda; air liquide; air comprimé; amalgames a/q de métaux précieux
+2851000010,2851.00.00.10,2851.00.00.10 (1997-01/2006-12),199701,200612,KGM,KGM (1997-01/2006-12),199701,200612,Cyanogen chloride,Chlorure de cyanogène
+2851000090,2851.00.00.90,2851.00.00.90 (1997-01/2006-12),199701,200612,KGM,KGM (1997-01/2006-12),199701,200612,Inorganic compnds nes; liq air; compressed air;amalgams o/t of precious metals,Composés inorg nda; air liquide; air comprimé; amalgames a/q de métaux précieux
+2852001000,2852.00.10.00,2852.00.10.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Ammonium mercury chloride; var compounds of mercury, etc","Chlorure de mercure ammoniacal; composés variés du mercure, etc"
+2852002000,2852.00.20.00,2852.00.20.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Mercuric & mercurous fluorosilicates,thiocyantes,chromate;mercurous chlorate,etc","Fluorosilicates,thiocyanates,chromates,de mercure; chlorate de mercure, etc"
+2852003000,2852.00.30.00,2852.00.30.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Mercuric and mercurous fluorides, chlorides, oxyiodides or carbonates","Fluorures, chlorures, oxyiodure ou carbonates de mercure"
+2852004000,2852.00.40.00,2852.00.40.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Mercury oxides,Oxydes de mercure
+2852005000,2852.00.50.00,2852.00.50.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Mercury pentanedione or oleate,Pentanedione ou oléate de mercure
+2852006000,2852.00.60.00,2852.00.60.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Aminomercuric chloride; Mercuric & mercurous oxychlorides; sodium salt, etc","Chlorure aminomercurique; Oxychlorures de mercure; sel de sodium, etc"
+2852007000,2852.00.70.00,2852.00.70.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"2,7-Dibromo-4-hydroxymercurifluoresceine, disodium salt","2,7-dibromo-4-hydroxymercurifluorescéine, sel disodique"
+2852008000,2852.00.80.00,2852.00.80.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Mercuric succinimide,Succinimide de mercure
+2852009000,2852.00.90.00,2852.00.90.00 (2007-01/2007-06),200701,200706,KGM,KGM (2007-01/2007-06),200701,200706,"Compounds, inorganic or organic, of mercury, excluding amalgams, nes","Composés, inorganiques ou organiques,du mercure,à l'exclusion des amalgames,nda"
+2852009000,2852.00.90.00,2852.00.90.00 (2007-07/2011-12),200707,201112,KGM,KGM (2007-07/2011-12),200707,201112,"Compounds, inorganic or organic, of mercury, excluding amalgams, nes","Composés, inorganiques ou organiques,du mercure,à l'exclusion des amalgames,nda"
+2852100000,2852.10.00.00,2852.10.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Inorganic/organic compounds of mercury, chemically defined, o/t amalgams","Composés inorg/org du mercure,de constitution chimique définie,a/q amalgames"
+2852901000,2852.90.10.00,2852.90.10.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Mercury albuminate; nucleoproteids of mecury,Albuminate de mercure; nucléoprotéides de mercure
+2852909000,2852.90.90.00,2852.90.90.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Inorganic/organic compounds of mercury,not chemically defined,o/t amalgams,nes","Composés inorg/org du mercure,constitution chimique n définie,a/q amalgames,nda"
+2853000000,2853.00.00.00,2853.00.00.00 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Inorganic compds,nes;liquid air;compressed air;amalgams o/t of precious metals","Composés inorganiques,nda;air liquide/comprimé;amalgames a/q métaux précieux"
+2853000010,2853.00.00.10,2853.00.00.10 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,Cyanogen chloride,Chlorure de cyanogène
+2853000090,2853.00.00.90,2853.00.00.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Inorganic compnd,nes;liquid air;compressed air;amalgams, o/t of precious metals","Composés inorg, nda; air liquide; air comprimé; amalgames,a/q de métaux précieux"
+2853100000,2853.10.00.00,2853.10.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,Cyanogen chloride (chlorcyan),Chlorure de cyanogène (chlorcyan)
+2853900000,2853.90.00.00,2853.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Phosphides,o/t ferrophos;inorgn compd,nes;liq/compr air;amalgams o/t of prec met","Phosphures,a/q ferrophosphores;comp inorg,nda;air liq/cprm;amal a/q de méta préc"

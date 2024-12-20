@@ -1,0 +1,591 @@
+COMS TARIFF - SCHEDULE
+76 - i
+Chapter 76
+ALUMINUM AND ARTICLES THEREOF
+
+Subheading Notes.
+1. In this Chapter the following expressions have the meanings hereby assigned to them:
+(a) Aluminum, not alloyed
+Metal containing by weight at least 99% of aluminum, provided that the content by weight of any other element does not
+exceed the limit specified in the following table:
+TABLE -- Other elements
+
+Element
+
+Limiting content % by weight
+
+Fe + Si (Iron plus silicon)
+Other elements(1), each
+
+1
+0.1(2)
+
+(1)
+
+Other elements are, for example Cr, Cu, Mg, Mn, Ni, Zn.
+
+(2)
+
+Copper is permitted in a proportion greater than 0.1% but not more than 0.2%, provided that
+neither the chromium nor manganese content exceeds 0.05%.
+
+(b) Aluminum alloys
+Metallic substances in which aluminum predominates by weight over each of the other elements, provided that:
+(i) the content by weight of at least one of the other elements or of iron plus silicon taken together is greater than the limit
+specified in the foregoing table; or
+(ii) the total content by weight of such other elements exceeds 1%.
+2. Notwithstanding the provisions of Note 9 (c) to Section XV, for the purposes of subheading 7616.91 the term "wire" applies
+only to products, whether or not in coils, of any cross-sectional shape, of which no cross-sectional dimension exceeds 6 mm.
+Supplementary Notes.
+1. In this Chapter the expression "unworked" means:
+(a) when referring to bars, rods and profiles, products which have not been subsequently worked after production (for
+example, not machined, drilled, punched, twisted or crimped);
+(b) when referring to plates, sheets, strip and foil, products which have not been processed beyond the last rolling mill pass
+except by heat treating, levelling, edge trimming, slitting, cutting-to-size, surface cleaning or lubricating.
+2. In this Chapter the expression "unwrought" means forms which may be simply cut-to-length for shipping or to make the metal
+suitable for further processing. It also includes scalping or de-scaling surfaces to prepare them for rolling, extrusion or forging.
+
+Issued January 1, 2025
+
+76 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, : 
+
+7603.10.00 00 -Powders of non-lamellar structure, H, C, : 
+
+7603.20.00 00 -Powders of lamellar structure; flakes, H, C, : 
+
+
+
+AUT, NZT, H
+C, : 
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+
+76.01
+
+Unwrought aluminum.
+
+7601.10.00
+
+-Aluminum, not alloyed
+
+20 - - - - -Ingots .....................................................................................................
+90 - - - - -Other ......................................................................................................
+7601.20.00
+
+-Aluminum alloys
+
+10 - - - - -Aluminum vanadium alloys ....................................................................
+- - - - -Ingots, of other aluminum alloys:
+21 - - - - - -Remelt scrap ingot ...............................................................................
+29 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+7602.00.00 00 Aluminum waste and scrap.
+
+76.03
+
+
+
+
+
+
+
+
+
+Aluminum powders and flakes.
+
+76.04
+
+Aluminum bars, rods and profiles.
+
+7604.10.00
+
+-Of aluminum, not alloyed
+
+30 - - - - -Profiles ...................................................................................................
+40 - - - - -Bars and rods .........................................................................................
+
+
+
+
+-Of aluminum alloys:
+
+Issued January 1, 2025
+
+76 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+7604.21.00
+
+SS
+
+Description of Goods
+- -Hollow profiles
+
+10 - - - - -Unworked ...............................................................................................
+90 - - - - -Other ......................................................................................................
+7604.29.00
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+AUT, NZT, H
+C, : 
+
+
+
+
+- -Other
+
+- - - - -Bars and rods, of a maximum cross-sectional dimension exceeding
+12.7 mm:
+11 - - - - - -Having a round cross-section...............................................................
+19 - - - - - -Other ....................................................................................................
+- - - - -Bars and rods, of a maximum cross-sectional dimension not exceeding
+12.7 mm:
+21 - - - - - -Having a round cross-section...............................................................
+29 - - - - - -Other ....................................................................................................
+30 - - - - -Profiles ...................................................................................................
+76.05
+
+Unit of
+Meas.
+
+
+
+
+
+
+
+
+Aluminum wire.
+-Of aluminum, not alloyed:
+
+7605.11.00 00 - -Of which the maximum cross-sectional dimension exceeds 7 mm, H, C, : 
+
+7605.19.00 00 - -Other, H, C, : 
+
+7605.21.00 00 - -Of which the maximum cross-sectional dimension exceeds 7 mm, H, C, : 
+
+7605.29.00 00 - -Other, H, C, : 
+
+-Of aluminum alloys:
+
+76.06
+
+Aluminum plates, sheets and strip, of a thickness exceeding 0.2 mm.
+
+Issued January 1, 2025
+
+76 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+-Rectangular (including square):
+7606.11.00
+
+- -Of aluminum, not alloyed
+
+10 - - - - -Clad........................................................................................................
+90 - - - - -Other ......................................................................................................
+7606.12.00
+
+
+
+
+- -Of aluminum alloys
+
+- - - - -Not clad:
+11 - - - - - -Of a thickness exceeding 0.2 mm but less than 7 mm ........................
+12 - - - - - -Of a thickness of 7 mm or more...........................................................
+20 - - - - -Clad........................................................................................................
+
+
+
+
+
+-Other:
+7606.91.00
+
+- -Of aluminum, not alloyed
+
+10 - - - - -Unworked circles or discs ......................................................................
+90 - - - - -Other ......................................................................................................
+7606.92.00 00 - -Of aluminum alloys
+
+76.07
+
+
+
+
+
+Aluminum foil (whether or not printed or backed with paper, paperboard
+plastics or similar backing materials) of a thickness (excluding any
+backing) not exceeding 0.2 mm.
+-Not backed:
+
+7607.11.00
+
+- -Rolled but not further worked
+
+10 - - - - -Of a thickness of less than 0.005 mm ....................................................
+20 - - - - -Of a thickness of 0.005 mm or more but less than 0.127 mm................
+30 - - - - -Of a thickness of 0.127 mm or more ......................................................
+7607.19.00 00 - -Other
+
+
+
+
+
+
+Issued January 1, 2025
+
+76 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+7607.20.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+-Backed
+
+10 - - - - -Printed ....................................................................................................
+90 - - - - -Other ......................................................................................................
+76.08
+
+Aluminum tubes and pipes.
+
+7608.10.00
+
+-Of aluminum, not alloyed
+
+10 - - - - -Seamless................................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+
+
+AUT, NZT, H
+C, : 
+
+
+
+
+
+
+
+7608.20.00 00 -Of aluminum alloys, H, C, : 
+
+7609.00.00 00 Aluminum tube or pipe fittings (for example, couplings, elbows
+sleeves)., H, C, : 
+
+6.5%, H, C, : 
+: 5%, H, C, : 
+
+76.10
+
+Aluminum structures (excluding prefabricated buildings of
+heading 94.06) and parts of structures (for example, bridges and bridgesections, towers, lattice masts, roofs, roofing frameworks, doors and
+windows and their frames and thresholds for doors, balustrades, pillars
+and columns); aluminum plates, rods, profiles, tubes and the like
+prepared for use in structures.
+
+7610.10.00
+
+-Doors, windows and their frames and thresholds for doors
+
+10 - - - - -Doors and their frames ...........................................................................
+20 - - - - -Windows and their frames ......................................................................
+30 - - - - -Thresholds for doors...............................................................................
+7610.90
+
+NMB
+NMB
+NMB
+
+-Other
+
+7610.90.10 00 - - -For use in Canadian manufactures
+
+Issued January 1, 2025
+
+
+
+76 - 5
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+7610.90.90
+
+SS
+
+Description of Goods
+
+7611.00.00 00 Aluminum reservoirs, tanks, vats and similar containers, for any
+material (other than compressed or liquefied gas), of a capacity
+exceeding 300 litres, whether or not lined or heat-insulated, but not
+fitted with mechanical or thermal equipment.
+
+Applicable
+Preferential Tariffs
+
+6.5%, H, C, : 
+: 5%
+
+NMB, H, C, : 
+
+NMB
+
+6.5%, H, C, : 
+: 5%
+
+NMB
+
+6.5%, H, C, : 
+: 2.5%
+
+NMB, H, C, : 
+
+6.5%, H, C, : 
+: 5%
+
+
+
+
+
+
+Aluminum casks, drums, cans, boxes and similar containers (including
+rigid or collapsible tubular containers), for any material (other than
+compressed or liquefied gas), of a capacity not exceeding 300 litres
+whether or not lined or heat-insulated, but not fitted with mechanical or
+thermal equipment.
+
+7612.10.00 00 -Collapsible tubular containers
+
+7612.90
+
+
+Tariff
+
+- - -Other
+
+10 - - - - -Roofing...................................................................................................
+20 - - - - -Siding, including soffits and fascia .........................................................
+30 - - - - -Architectural and ornamental work.........................................................
+90 - - - - -Other ......................................................................................................
+
+76.12
+
+Unit of
+Meas.
+
+-Other
+
+7612.90.10 00 - - -Aerosol containers, excluding three-piece cans without inserts having a
+base diameter of 50 mm or more but not exceeding 80 mm
+
+- - -Other:
+7612.90.91 00 - - - -Embossed aluminum cans for use in the packaging of beverages
+
+7612.90.99
+
+- - - -Other
+
+10 - - - - -Cans.......................................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+76 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB, H, C, : 
+
+7614.10.00 00 -With steel core, H, C, : 
+
+7614.90.00 00 -Other, H, C, : 
+
+6.5%, H, C, : 
+: 5%
+
+6.5%, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+7613.00.00 00 Aluminum containers for compressed or liquefied gas.
+
+76.14
+
+Stranded wire, cables, plaited bands and the like, of aluminum, not
+electrically insulated.
+
+76.15
+
+Table, kitchen or other household articles and parts thereof, of
+aluminum; pot scourers and scouring or polishing pads, gloves and the
+like, of aluminum; sanitary ware and parts thereof, of aluminum.
+
+7615.10.00
+
+-Table, kitchen or other household articles and parts thereof; pot
+scourers and scouring or polishing pads, gloves and the like
+
+10 - - - - -Cooking utensils .....................................................................................
+20 - - - - -Pie plates, plates for prepared meals and similar semi-rigid containers
+90 - - - - -Other ......................................................................................................
+7615.20.00 00 -Sanitary ware and parts thereof
+
+76.16
+
+Other articles of aluminum.
+
+7616.10.00
+
+-Nails, tacks, staples (other than those of heading 83.05), screws, bolts
+nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar
+articles
+
+20 - - - - -Rivets .....................................................................................................
+90 - - - - -Other ......................................................................................................
+-Other:
+
+Issued January 1, 2025
+
+NMB
+-
+
+
+
+
+76 - 7
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+7616.91.00 00 - -Cloth, grill, netting and fencing, of aluminium wire
+
+7616.99
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+
+
+6.5%, H, C, : 
+: 5%, H, C, : 
+
+6.5%, H, C, : 
+: 5%
+
+- -Other
+
+7616.99.10 00 - - -Cups for use in the manufacture of candles;
+Ferrules for use in the manufacture of pencils;
+Fish egg incubators and parts thereof;For climbing or mountaineering;
+Identification bands for migratory birds;
+Pigeon countermark leg bands;To be employed in the manufacture of sera
+antisera, toxoids, viruses, toxins or antitoxins, virus or bacterial vaccines
+bacteriophage or bacterial lysates, allergenics, liver extracts, pituitary
+extracts, epinephrine or its solutions, insulin (with or without zinc, globin or
+protamine), and blood plasma or serum of human origin, or fractions
+thereof, or extenders or substitutes therefor
+7616.99.90
+
+Unit of
+Meas.
+
+- - -Other
+
+- - - - -Castings:
+21 - - - - - -Die........................................................................................................
+29 - - - - - -Other ....................................................................................................
+30 - - - - -Forgings .................................................................................................
+40 - - - - -Ladders ..................................................................................................
+50 - - - - -Venetian blinds and parts thereof ..........................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+NMB
+
+
+Issued January 1, 2025
+
+

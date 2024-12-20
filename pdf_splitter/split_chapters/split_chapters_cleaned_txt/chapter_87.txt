@@ -1,0 +1,2495 @@
+COMS TARIFF - SCHEDULE
+87 - i
+Chapter 87
+VEHICLES OTHER THAN RAILWAY
+OR TRAMWAY ROLLING-STOCK
+AND PARTS AND ACCESSORIES THEREOF
+Notes.
+1. This Chapter does not cover railway or tramway rolling-stock designed solely for running on rails.
+2. For the purpose of this Chapter, "tractors" means vehicles constructed essentially for hauling or pushing another vehicle
+appliance or load, whether or not they contain subsidiary provision for the transport, in connection with the main use of the
+tractor, of tools, seeds, fertilizers or other goods.
+Machines and working tools designed for fitting to tractors of heading 87.01 as interchangeable equipment remain classified
+in their respective headings even if presented with the tractor, and whether or not mounted on it.
+3. Motor chassis fitted with cabs fall in headings 87.02 to 87.04, and not in heading 87.06.
+4. Heading 87.12 includes all children's bicycles. Other children's cycles fall in heading 95.03.
+Subheading Note.
+1. Subheading 8708.22 covers:
+(a) front windscreens (windshields), rear windows and other windows, framed; and
+(b) front windscreens (windshields), rear windows and other windows, whether or not framed, incorporating heating devices
+or other electrical or electronic devices, when suitable for use solely or principally with the motor vehicles of headings 87.01
+to 87.05.
+Statistical Notes.
+(NB These notes do not form part of the Customs Tariff legislation.)
+1. Road tractors, trailers and semi-trailers remain separately classified in headings 87.01 and 87.16, respectively, even when
+presented together.
+2. The classification of trailers with permanently built-on machinery is determined according to the essential character of the
+machinery and not to trailers of heading 87.16.
+
+Issued January 1, 2025
+
+87 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8701.10.10 00 - - -Powered by an internal combustion engine
+
+NMB, H, C, : 
+
+8701.10.90 00 - - -Other
+
+NMB
+
+6%, H, C, : 
+: 3%
+
+6.1%, H, C, : 
+: 6%
+
+SS
+
+Description of Goods
+
+
+
+87.01
+
+Tractors (other than tractors of heading 87.09).
+
+8701.10
+
+-Single axle tractors
+
+-Road tractors for semi-trailers:
+8701.21.00
+
+- -With only compression-ignition internal combustion piston engine
+(diesel or semi-diesel)
+
+- - - - -New:
+11 - - - - - -g.v.w. not exceeding 36 tonnes ...........................................................
+12 - - - - - -g.v.w. exceeding 36 tonnes .................................................................
+20 - - - - -Used.......................................................................................................
+
+NMB
+NMB
+NMB
+
+8701.22.00 00 - -With both compression-ignition internal combustion piston engine
+(diesel or semi-diesel) and electric motor as motors for propulsion
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+8701.23.00 00 - -With both spark-ignition internal combustion piston engine and
+electric motor as motors for propulsion
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+8701.24.00 00 - -With only electric motor for propulsion
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+Issued January 1, 2025
+
+87 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8701.29.00 00 - -Other
+
+8701.30.00
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6.1%, H, C, : 
+: 6%, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+-Track-laying tractors
+
+- - - - -New:
+21 - - - - - -With a net engine power of less than 119.4 kW ...................................
+22 - - - - - -With a net engine power of 119.4 kW or more but less than 194 kW ..
+23 - - - - - -With a net engine power of 194 kW or more but less than 257.4 kW ..
+24 - - - - - -With a net engine power of 257.4 kW or more .....................................
+30 - - - - -Used .......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other, of an engine power:
+8701.91.00
+
+- -Not exceeding 18 kW
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used .......................................................................................................
+8701.92.00
+
+- -Exceeding 18 kW but not exceeding 37 kW
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used .......................................................................................................
+8701.93.00
+
+NMB
+NMB
+
+- -Exceeding 75 kW but not exceeding 130 kW
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used .......................................................................................................
+8701.95
+
+NMB
+NMB
+
+- -Exceeding 37 kW but not exceeding 75 kW
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used .......................................................................................................
+8701.94.00
+
+NMB
+NMB
+
+- -Exceeding 130 kW
+
+Issued January 1, 2025
+
+NMB
+NMB
+
+87 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8701.95.10 00 - - -Yard shunting tractors
+
+8701.95.90
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6%, H, C, : 
+: 6%, H, C, : 
+
+- - -Other
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used.......................................................................................................
+87.02
+
+Motor vehicles for the transport of ten or more persons, including the
+driver.
+
+8702.10
+
+-With only compression-ignition internal combustion piston engine
+(diesel or semi-diesel)
+
+NMB
+NMB
+
+8702.10.10 00 - - -For the transport of 16 or more persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.10.20 00 - - -For the transport of ten to 15 persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.20.10 00 - - -For the transport of 16 or more persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.20.20 00 - - -For the transport of ten to 15 persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.20
+
+-With both compression-ignition internal combustion piston engine
+(diesel or semi-diesel) and electric motor as motors for propulsion
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8702.30.10 00 - - -For the transport of 16 or more persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.30.20 00 - - -For the transport of ten to 15 persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.40.10 00 - - -For the transport of 16 or more persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.40.20 00 - - -For the transport of ten to 15 persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.90.10 00 - - -For the transport of 16 or more persons, including the driver
+
+NMB
+
+6.1%, H
+: 
+: 6%
+C: 1.6%
+
+8702.90.20 00 - - -For the transport of ten to 15 persons, including the driver
+
+NMB
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+8702.30
+
+8702.40
+
+8702.90
+
+SS
+
+Description of Goods
+-With both spark-ignition internal combustion piston engine and electric
+motor as motors for propulsion
+
+-With only electric motor for propulsion
+
+-Other
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 5
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+87.03
+
+Motor cars and other motor vehicles principally designed for the
+transport of persons (other than those of heading 87.02), including
+station wagons and racing cars.
+
+8703.10
+
+-Vehicles specially designed for travelling on snow; golf cars and
+similar vehicles
+
+8703.10.10 00 - - -Recreational or sporting vehicles specially designed for travelling on snow
+
+8703.10.90
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB, H, C, : 
+
+6.1%, H, C, : 
+: 6%
+
+6.1%, H, C
+: 
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+- - -Other
+
+- - - - -Golf carts:
+11 - - - - - -Powered by an electric motor ..............................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+
+-Other vehicles, with only spark-ignition internal combustion piston
+engine:
+8703.21
+
+- -Of a cylinder capacity not exceeding 1,000 cc
+
+8703.21.10 00 - - -Non-amphibious all-terrain vehicles of a weight of less than 227.3 kg
+having fewer than six wheels and designed to carry only one passenger
+
+8703.21.90
+
+- - -Other
+
+10 - - - - -Passenger cars, including racing cars and station wagons ...................
+90 - - - - -Other ......................................................................................................
+8703.22.00
+
+NMB
+
+NMB
+NMB
+
+- -Of a cylinder capacity exceeding 1,000 cc but not exceeding 1,500 cc
+
+- - - - -Passenger cars, including racing cars and station wagons:
+11 - - - - - -Used.....................................................................................................
+12 - - - - - -New......................................................................................................
+- - - - -Other (including crossovers, sport utility vehicles and passenger vans):
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+87 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+97 - - - - - -Used .....................................................................................................
+98 - - - - - -New ......................................................................................................
+8703.23.00
+
+Applicable
+Preferential Tariffs
+
+6.1%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+6.1%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+- -Of a cylinder capacity exceeding 3,000 cc
+
+10 - - - - -Ambulances, hearses or prison vans .....................................................
+- - - - -Motorhomes:
+21 - - - - - -New ......................................................................................................
+22 - - - - - -Used .....................................................................................................
+- - - - -Passenger cars, including racing cars and station wagons:
+31 - - - - - -Used .....................................................................................................
+32 - - - - - -New ......................................................................................................
+- - - - -Other (including crossovers, sport utility vehicles and passenger vans):
+91 - - - - - -Used .....................................................................................................
+92 - - - - - -New ......................................................................................................
+
+
+Tariff
+
+NMB
+NMB
+
+- -Of a cylinder capacity exceeding 1,500 cc but not exceeding 3,000 cc
+
+10 - - - - -Motorhomes............................................................................................
+- - - - -Passenger cars, including racing cars and station wagons:
+21 - - - - - -Used .....................................................................................................
+22 - - - - - -New ......................................................................................................
+- - - - -Other (including crossovers, sport utility vehicles and passenger vans):
+91 - - - - - -Used .....................................................................................................
+92 - - - - - -New ......................................................................................................
+8703.24.00
+
+Unit of
+Meas.
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other vehicles, with only compression-ignition internal combustion
+piston engine (diesel or semi-diesel):
+8703.31.00 00 - -Of a cylinder capacity not exceeding 1,500 cc
+
+8703.32.00
+
+NMB
+
+- -Of a cylinder capacity exceeding 1,500 cc but not exceeding 2,500 cc
+
+- - - - -Passenger cars, including racing cars and station wagons:
+21 - - - - - -Used .....................................................................................................
+
+Issued January 1, 2025
+
+NMB
+
+87 - 7
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+22 - - - - - -New......................................................................................................
+- - - - -Other (including crossovers, sport utility vehicles and passenger vans):
+97 - - - - - -Used.....................................................................................................
+98 - - - - - -New......................................................................................................
+8703.33.00
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+NMB
+NMB
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+NMB
+
+- - -Other
+
+10 - - - - -Passenger cars, including racing cars and station wagons ...................
+90 - - - - -Other (including crossovers, sport utility vehicles and passenger vans)
+
+NMB
+NMB
+
+8703.50.00 00 -Other vehicles, with both compression-ignition internal combustion
+piston engine (diesel or semi-diesel) and electric motor as motors for
+propulsion, other than those capable of being charged by plugging to
+external source of electric power
+
+NMB
+
+8703.60
+
+Applicable
+Preferential Tariffs
+
+-Other vehicles, with both spark-ignition internal combustion piston
+engine and electric motor as motors for propulsion, other than those
+capable of being charged by plugging to external source of electric
+power
+
+8703.40.10 00 - - -Of a cylinder capacity not exceeding 1,000 cc
+
+8703.40.90
+
+
+Tariff
+
+NMB
+
+- -Of a cylinder capacity exceeding 2,500 cc
+
+10 - - - - -Ambulances, hearses or prison vans .....................................................
+- - - - -Motorhomes:
+21 - - - - - -New......................................................................................................
+22 - - - - - -Used.....................................................................................................
+- - - - -Passenger cars, including racing cars and station wagons:
+31 - - - - - -Used.....................................................................................................
+32 - - - - - -New......................................................................................................
+- - - - -Other (including crossovers, sport utility vehicles and passenger vans):
+97 - - - - - -Used.....................................................................................................
+98 - - - - - -New......................................................................................................
+8703.40
+
+Unit of
+Meas.
+
+-Other vehicles, with both spark-ignition internal combustion piston
+engine and electric motor as motors for propulsion, capable of being
+charged by plugging to external source of electric power
+
+Issued January 1, 2025
+
+87 - 8
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8703.60.10 00 - - -Of a cylinder capacity not exceeding 1,000 cc
+
+8703.60.90
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%, H, C
+: 
+: 6%
+
+6.1%, H, C
+: 
+: 6%, H, C, : 
+
+- - -Other
+
+10 - - - - -Passenger cars, including racing cars and station wagons....................
+90 - - - - -Other (including crossovers, sport utility vehicles and passenger vans)
+
+NMB
+NMB
+
+8703.70.00 00 -Other vehicles, with both compression-ignition internal combustion
+piston engine (diesel or semi-diesel) and electric motor as motors for
+propulsion, capable of being charged by plugging to external source of
+electric power
+
+NMB
+
+8703.80.00
+
+-Other vehicles, with only electric motor for propulsion
+
+10 - - - - -Passenger cars, including racing cars and station wagons....................
+90 - - - - -Other (including crossovers, sport utility vehicles and passenger vans)
+8703.90.00 00 -Other
+
+87.04
+
+Motor vehicles for the transport of goods.
+
+8704.10.00
+
+-Dumpers designed for off-highway use
+
+10 - - - - -Cab chassis ............................................................................................
+- - - - -Other rear dump:
+21 - - - - - -With a capacity not exceeding 40.8 metric tonnes ...............................
+22 - - - - - -With a capacity exceeding 40.8 metric tonnes but not exceeding
+63.5 metric tonnes ................................................................................
+
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+87 - 9
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+23 - - - - - -With a capacity exceeding 63.5 metric tonnes but not exceeding
+90.7 metric tonnes................................................................................
+24 - - - - - -With a capacity exceeding 90.7 metric tonnes.....................................
+90 - - - - -Other ......................................................................................................
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, : 
+C: 1.6%
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+NMB
+NMB
+NMB
+
+-Other, with only compression-ignition internal combustion piston
+engine (diesel or semi-diesel):
+8704.21
+
+- -g.v.w. not exceeding 5 tonnes
+
+8704.21.10 00 - - -For conversion to ambulances
+
+8704.21.90
+
+- - -Other
+
+10 - - - - -g.v.w. not exceeding 2 tonnes................................................................
+20 - - - - -g.v.w. exceeding 2 tonnes but not exceeding 3 tonnes .........................
+30 - - - - -g.v.w. exceeding 3 tonnes but not exceeding 5 tonnes .........................
+8704.22.00
+
+NMB
+
+NMB
+NMB
+NMB
+
+- -g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes
+
+10 - - - - -g.v.w. exceeding 5 tonnes but not exceeding 10 tonnes .......................
+20 - - - - -g.v.w. exceeding 10 tonnes but not exceeding 12 tonnes .....................
+30 - - - - -g.v.w. exceeding 12 tonnes but not exceeding 15 tonnes .....................
+40 - - - - -g.v.w. exceeding 15 tonnes but not exceeding 20 tonnes .....................
+8704.23.00 00 - -g.v.w. exceeding 20 tonnes
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other, with only spark-ignition internal combustion piston engine:
+8704.31.00
+
+- -g.v.w. not exceeding 5 tonnes
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 10
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -g.v.w. not exceeding 2.5 tonnes .............................................................
+20 - - - - -g.v.w. exceeding 2.5 tonnes but not exceeding 5 tonnes.......................
+8704.32.00
+
+Unit of
+Meas.
+
+Applicable
+Preferential Tariffs
+
+6.1%, H, C, : 
+: 6%, H, C, : 
+
+6.1%, H, C, : 
+: 6%
+
+6.1%, H, C, : 
+: 6%
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+NMB
+NMB
+
+- -g.v.w. exceeding 5 tonnes
+
+10 - - - - -g.v.w. exceeding 5 tonnes but not exceeding 10 tonnes........................
+20 - - - - -g.v.w. exceeding 10 tonnes but not exceeding 12 tonnes......................
+30 - - - - -g.v.w. exceeding 12 tonnes but not exceeding 15 tonnes......................
+40 - - - - -g.v.w. exceeding 15 tonnes but not exceeding 20 tonnes......................
+50 - - - - -g.v.w. exceeding 20 tonnes ....................................................................
+
+
+Tariff
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other, with both compression-ignition internal combustion piston
+engine (diesel or semi-diesel) and electric motor as motors for
+propulsion:
+8704.41
+
+- -g.v.w. not exceeding 5 tonnes
+
+8704.41.10 00 - - -For conversion to ambulances
+
+8704.41.90
+
+- - -Other
+
+10 - - - - -g.v.w. not exceeding 2 tonnes ................................................................
+20 - - - - -g.v.w. exceeding 2 tonnes but not exceeding 3 tonnes..........................
+30 - - - - -g.v.w. exceeding 3 tonnes but not exceeding 5 tonnes..........................
+8704.42.00
+
+NMB
+
+NMB
+NMB
+NMB
+
+- -g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes
+
+10 - - - - -g.v.w. exceeding 5 tonnes but not exceeding 10 tonnes........................
+20 - - - - -g.v.w. exceeding 10 tonnes but not exceeding 12 tonnes......................
+30 - - - - -g.v.w. exceeding 12 tonnes but not exceeding 15 tonnes......................
+40 - - - - -g.v.w. exceeding 15 tonnes but not exceeding 20 tonnes......................
+8704.43.00 00 - -g.v.w. exceeding 20 tonnes
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+87 - 11
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+6.1%, H, : 
+: 6%
+C: 1.6%
+
+6.1%, H, C, : 
+: 6%
+
+-Other, with both spark-ignition internal combustion piston engine and
+electric motor as motors for propulsion:
+8704.51.00
+
+- -g.v.w. not exceeding 5 tonnes
+
+10 - - - - -g.v.w. not exceeding 2.5 tonnes.............................................................
+20 - - - - -g.v.w. exceeding 2.5 tonnes but not exceeding 5 tonnes ......................
+8704.52.00
+
+NMB
+NMB
+
+- -g.v.w. exceeding 5 tonnes
+
+10 - - - - -g.v.w. exceeding 5 tonnes but not exceeding 10 tonnes .......................
+20 - - - - -g.v.w. exceeding 10 tonnes but not exceeding 12 tonnes .....................
+30 - - - - -g.v.w. exceeding 12 tonnes but not exceeding 15 tonnes .....................
+40 - - - - -g.v.w. exceeding 15 tonnes but not exceeding 20 tonnes .....................
+50 - - - - -g.v.w. exceeding 20 tonnes....................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+8704.60.00 00 -Other with only electric motor for propulsion
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+8704.90.00 00 -Other
+
+NMB
+
+6.1%, H
+C, : 
+: 6%
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+87.05
+
+Special purpose motor vehicles, other than those principally designed
+for the transport of persons or goods (for example, breakdown lorries
+(wreckers), crane lorries (mobile cranes), fire fighting vehicles, concrete
+mixer lorries (concrete-mixers), road sweeper lorries (road sweepers)
+spraying lorries (spraying vehicles), mobile workshops, mobile
+radiological units).
+
+8705.10
+
+-Crane lorries (mobile cranes)
+
+8705.10.10 00 - - -Railway maintenance cranes equipped to travel both by road and rail, with
+a lifting capacity exceeding 36.3 tonnes but not exceeding 68 tonnes
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 12
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8705.10.90
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- - -Other
+
+10 - - - - -Cable-operated.......................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+NMB
+NMB
+
+8705.20.00 00 -Mobile drilling derricks
+
+NMB
+
+6.1%, H, C, : 
+
+8705.30.00 00 -Fire fighting vehicles
+
+NMB
+
+6.7%, H, : 
+C: 1.8%
+
+8705.40.10 00 - - -Transit type, with delivery conveyors
+
+NMB
+
+6.1%, H, : 
+C: 1.6%
+
+8705.40.90 00 - - -Other
+
+NMB, H, C, : 
+
+8705.40
+
+8705.90
+
+-Concrete-mixer lorries (concrete-mixers)
+
+-Other
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 13
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8705.90.10 00 - - -Automotive towing trucks for a basic wrecker rating not exceeding 67,000
+kg;
+Cement trucks with mixing or pumping capabilities for the oil and gas
+industry, excluding concrete pumps with booms designed primarily for the
+construction industry;
+Lorries equipped with:aggregate spreaders;
+carpet cleaning machinery;
+coiled tubing systems for servicing oil wells;
+combination vacuum and broom type sweepers;
+furnace and duct cleaning machinery;
+highway paint spraying machinery;
+manlift baskets with a working height not exceeding 26.5 m;oil or gas well
+logging units;
+recovery vacuum tanks;
+road surface patching machines;
+sand and salt spreaders;
+scissor lifts;
+sewer and catch basin cleaners;
+snow blowers;
+solid waste removal tanks
+without compactors;
+street cleaning flushers;
+sweepers for airports;
+orvacuum type sweeper-leaf loaders
+
+NMB
+
+6.1%, H, : 
+C: 1.6%
+
+8705.90.90 00 - - -Other
+
+NMB, H, C, : 
+
+8706.00.10 00 - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+NMB, H, C, : 
+
+8706.00.20 00 - - -For the vehicles of heading 87.03 or of subheading 8704.21 or 8704.31
+
+NMB
+
+6.1%, H, C, : 
+: 6%
+
+6.1%, H, C,: 
+: 6%
+
+Tariff
+Item
+
+8706.00
+
+8706.00.90
+
+SS
+
+Description of Goods
+
+Chassis fitted with engines, for the motor vehicles of headings 87.01 to
+87.05.
+
+- - -Other
+
+20 - - - - -For the vehicles of heading 87.02 ...................................................
+30 - - - - -For the vehicles of heading 87.04, other than subheadings 8704.21 and
+8704.31 ..................................................................................................
+
+NMB
+NMB
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+87 - 14
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+40 - - - - -For the vehicles of heading 87.05 ....................................................
+90 - - - - -Other ......................................................................................................
+87.07
+
+Bodies (including cabs), for the motor vehicles of headings 87.01 to
+87.05.
+
+8707.10.00
+
+-For the vehicles of heading 87.03
+
+20 - - - - -For passenger cars, including racing cars and station wagons..............
+90 - - - - -Other ......................................................................................................
+8707.90
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+6%, H, C, :, H, C, : 
+
+6%, H, C, : 
+: 6%
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%, H, C, : 
+
+NMB
+NMB
+
+NMB
+NMB
+
+-Other
+
+8707.90.10 00 - - -Cabs for the tractors of tariff item No. 8701.10.10, 8701.30.00
+8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+8707.90.90
+
+Unit of
+Meas.
+
+NMB
+
+- - -Other
+
+10 - - - - -For the tractors of subheading 8701.21 to 8701.29................................
+- - - - -For the vehicles of heading 87.04:
+31 - - - - - -Slide-in campers, new ..........................................................................
+39 - - - - - -Other ....................................................................................................
+40 - - - - -For the vehicles of heading 87.05 ....................................................
+90 - - - - -Other ......................................................................................................
+87.08
+
+Parts and accessories of the motor vehicles of headings 87.01 to 87.05.
+
+8708.10
+
+-Bumpers and parts therof
+
+8708.10.10
+
+- - -Bumpers
+
+10 - - - - -Stampings ..............................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-
+
+- - -Parts:
+8708.10.21 00 - - - -Face bars, of bare metal, not finished in any degree after final forming
+
+Issued January 1, 2025
+
+-
+
+87 - 15
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8708.10.29
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- - - -Other
+
+10 - - - - -Stampings ..............................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+-
+
+-Other parts and accessories of bodies (including cabs):
+8708.21.00 00 - -Safety seat belts
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.22.00 00 - -Front windscreens (windshields), rear windows and other windows
+specified in Subheading Note 1 to this Chapter
+
+-, H, C, : 
+
+8708.29.11 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.29.19 00 - - - -Other
+
+-
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+8708.29.20 00 - - -Door assemblies
+
+-, H, C, : 
+
+8708.29.60 00 - - -Seat covers or floor mats of plastics
+
+-
+
+8.5%, H, C, : 
+: 8.5%
+
+8708.29
+
+- -Other
+- - -Stampings:
+
+Issued January 1, 2025
+
+87 - 16
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8708.29.91 00 - - - -Veterinary units and parts and accessories thereof, designed for the
+transportation and storage of veterinary equipment and preparations, for
+installation on motor vehicles;
+Parts and accessories for use in the manufacture of fire fighting vehicles;
+Parts for the tractors of tariff item No. 8701.10.10, 8701.30.00
+8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.29.92 00 - - - -Rear-trunk spoilers or wings of polyurethane, for use as aftermarket
+automotive accessories
+
+-
+
+6%
+
+AUT, NZT, H
+C, : 
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+SS
+
+Description of Goods
+- - -Other:
+
+8708.29.99
+
+- - - -Other
+
+10 - - - - -Truck caps ..............................................................................................
+90 - - - - -Other ......................................................................................................
+8708.30
+
+-
+
+-Brakes and servo-brakes; parts thereof
+- - -Mounted brake linings:
+
+8708.30.11 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.30.19 00 - - - -Other
+
+-
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+-, H, C, : 
+
+- - -Other:
+8708.30.91 00 - - - -Parts, excluding slack adjusters, service chambers, double diaphragm
+spring brake actuators and oiled air connectors, for use in the
+manufacture of air or vacuum brake control systems;
+Parts for the tractors of tariff item No. 8701.10.10, 8701.30.00
+8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+Issued January 1, 2025
+
+87 - 17
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8708.30.99
+
+SS
+
+Description of Goods
+- - - -Other
+
+10 - - - - -Brake cylinders.......................................................................................
+20 - - - - -Disc brake caliper assemblies................................................................
+30 - - - - -Brake drums ...........................................................................................
+90 - - - - -Other ......................................................................................................
+8708.40
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+-
+
+-Gear boxes and parts thereof
+- - -Gear boxes:
+
+8708.40.21 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+Transfer cases for use in the manufacture of tandem suspension
+conversion systems or all-wheel drive conversion systems to be installed
+in vehicles of heading 87.04 or 87.05 after the date of manufacture of
+those vehicles but prior to the date of receipt and licensing by the original
+purchaser
+
+-, H, C, : 
+
+8708.40.29 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.40.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+For installation in motor vehicles designed for the transportation and
+storage of veterinary equipment and preparations;
+Parts and accessories for use in the manufacture of fire fighting vehicles
+
+-, H, C, : 
+
+8708.40.99 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+- - -Other:
+
+8708.50
+
+-Drive-axles with differential, whether or not provided with other
+transmission components, and non-driving axles; parts thereof
+- - -Drive-axles with differential, whether or not provided with other
+transmission components:
+
+Issued January 1, 2025
+
+87 - 18
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8708.50.31 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+For use in the manufacture of self-propelled road sweepers;
+Front steerable drive axles for use in the manufacture of tandem
+suspension conversion systems or all-wheel drive conversion systems to
+be installed in vehicles of heading 87.04 or 87.05 after the date of
+manufacture of those vehicles but prior to the date of receipt and
+licensing by the original purchaser;
+Transaxle assemblies for use in the manufacture of off-highway utility
+vehicles of a weight not exceeding 680 kg
+
+-, H, C, : 
+
+8708.50.39 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.50.81 00 - - - -For installation in motor vehicles designed for the transportation and
+storage of veterinary equipment and preparations;
+Half shafts for the tractors of tariff item No. 8701.10.10, 8701.30.00
+8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+Parts and accessories for use in the manufacture of fire fighting vehicles
+
+-, H, C, : 
+
+8708.50.89 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+6%, H, C, : 
+: 6%
+
+SS
+
+Description of Goods
+
+- - -Parts of drive-axles with differential:
+
+- - -Other:
+8708.50.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+8708.50.99
+
+- - - -Other
+
+10 - - - - -Double flanged wheel hub units .............................................................
+90 - - - - -Other ......................................................................................................
+8708.70
+
+-Road wheels and parts and accessories thereof
+- - -Road wheels:
+
+Issued January 1, 2025
+
+-
+
+87 - 19
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8708.70.11 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.70.19 00 - - - -Other
+
+-
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%
+
+-, H, C, : 
+
+6%
+
+AUT, NZT, H
+C, : 
+: 6%, H, C, : 
+
+6%, H, C, : 
+: 6%, H, C, : 
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+- - -Parts and accessories:
+8708.70.21 00 - - - -Locking ring and rim sections, of hot-rolled iron or steel, for use in the
+manufacture of wheel rim assemblies;
+For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+8708.70.29
+
+- - - -Other
+
+10 - - - - -Hub caps ................................................................................................
+90 - - - - -Other ......................................................................................................
+8708.80
+
+-
+
+-Suspension systems and parts thereof (including shock-absorbers)
+- - -McPherson struts:
+
+8708.80.11 00 - - - -For use in the manufacture of off-highway utility vehicles of a weight not
+exceeding 680 kg
+
+8708.80.19
+
+-
+
+- - - -Other
+
+10 - - - - -For the motor vehicles of heading No. 87.03 ...................................
+90 - - - - -Other ......................................................................................................
+8708.80.20 00 - - -Spring shock assemblies for use in the manufacture of off-highway utility
+vehicles of a weight not exceeding 680 kg;
+Other, for the tractors of tariff item No. 8701.10.10, 8701.30.00
+8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-
+
+Issued January 1, 2025
+
+87 - 20
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.80.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.80.99 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.91.21 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.91.29 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+SS
+
+Description of Goods
+
+8708.80.30 00 - - -Other suspension shock absorbers
+
+- - -Other:
+
+-Other parts and accessories:
+8708.91
+
+- -Radiators and parts thereof
+- - -Radiators:
+
+- - -Other:
+8708.91.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+For installation in motor vehicles designed for the transportation and
+storage of veterinary equipment and preparations;
+Parts and accessories for use in the manufacture of fire fighting vehicles;
+Parts for use in the manufacture of aftermarket radiators for motor
+vehicles
+
+Issued January 1, 2025
+
+87 - 21
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8708.91.99 00 - - - -Other
+
+8708.92
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+6%, H, C, : 
+: 6%
+
+- -Silencers (mufflers) and exhaust pipes; parts thereof
+- - -Silencers (mufflers) and exhaust pipes:
+
+8708.92.21 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+8708.92.29
+
+- - - -Other
+
+10 - - - - -Silencers (mufflers) ................................................................................
+20 - - - - -Exhaust pipes.........................................................................................
+
+-
+
+- - -Other:
+8708.92.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+For installation in motor vehicles designed for the transportation and
+storage of veterinary equipment and preparations;
+Parts and accessories for use in the manufacture of fire fighting vehicles
+
+-, H, C, : 
+
+8708.92.99 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.93.11 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.93.19 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.93
+
+- -Clutches and parts thereof
+- - -Clutches:
+
+Issued January 1, 2025
+
+87 - 22
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8708.93.21 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.93.29 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.94.21 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.94.29 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+8708.94.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+Rack and pinion steering assemblies for use in the manufacture of offhighway utility vehicles of a weight not exceeding 680 kg
+
+-, H, C, : 
+
+8708.94.99 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+SS
+
+Description of Goods
+- - -Parts of clutches:
+
+8708.94
+
+- -Steering wheels, steering columns and steering boxes; parts thereof
+- - -Steering wheels, steering columns and steering boxes:
+
+- - -Other:
+
+8708.95
+
+- -Safety airbags with inflator system; parts thereof
+
+8708.95.10 00 - - -For installation in motor vehicles designed for the transportation and
+storage of veterinary equipment and preparations;
+Parts and accessories for use in the manufacture of fire fighting vehicles
+
+Issued January 1, 2025
+
+87 - 23
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8708.95.90 00 - - -Other
+
+8708.99
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+6%, H, C, : 
+: 6%
+
+6%, H, C, : 
+: 6%
+
+- -Other
+- - -Parts for power trains:
+
+8708.99.14 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+8708.99.15
+
+- - - -For the vehicles of heading 87.03
+
+10 - - - - -Universal joints .......................................................................................
+90 - - - - -Other ......................................................................................................
+8708.99.19
+
+-
+
+- - - -Other
+
+10 - - - - -Universal joints .......................................................................................
+90 - - - - -Other ......................................................................................................
+
+-
+
+- - -Vibration control units containing rubber:
+8708.99.41 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+-, H, C, : 
+
+8708.99.49 00 - - - -Other
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+- - -Double flanged wheel hub units incorporating ball bearings:
+8708.99.51 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90
+
+Issued January 1, 2025
+
+87 - 24
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8708.99.59 00 - - - -Other
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+6%, H, C, : 
+: 6%
+
+-, H, C, : 
+
+6%, H, C, : 
+: 6%
+
+- - -Other:
+8708.99.91 00 - - - -For the tractors of tariff item No. 8701.10.10, 8701.30.00, 8701.91.00
+8701.92.00, 8701.93.00, 8701.94.00 or 8701.95.90;
+Veterinary units, and parts and accessories thereof, designed for the
+transportation and storage of veterinary equipment and preparations, for
+installation in motor vehicles;Parts and accessories for use in the
+manufacture of fire fighting vehicles;
+Parts for use in the manufacture of aftermarket gas tanks for motor
+vehicles
+8708.99.99
+
+- - - -Other
+
+- - - - -For the vehicles of heading 87.03:
+11 - - - - - -For the cooling system .........................................................................
+12 - - - - - -Frames .................................................................................................
+13 - - - - - -Frame components ..............................................................................
+19 - - - - - -Other ....................................................................................................
+- - - - -Other:
+91 - - - - - -For the cooling system .........................................................................
+92 - - - - - -Frames .................................................................................................
+93 - - - - - -Frame components ..............................................................................
+99 - - - - - -Other ....................................................................................................
+87.09
+
+-
+
+Works trucks, self-propelled, not fitted with lifting or handling
+equipment, of the type used in factories, warehouses, dock areas or
+airports for short distance transport of goods; tractors of the type used
+on railway station platforms; parts of the foregoing vehicles.
+-Vehicles:
+
+8709.11
+
+- -Electrical
+
+8709.11.10 00 - - -Industrial tow tractors with motors of an output not exceeding 3.5 kW
+
+NMB
+
+6%, H, C, : 
+: 2.5%
+
+8709.11.90 00 - - -Other
+
+NMB, H, C, : 
+
+Issued January 1, 2025
+
+87 - 25
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8709.19.10 00 - - -Tractors
+
+NMB, H, C, : 
+
+8709.19.90 00 - - -Other
+
+NMB
+
+6%, H, C, : 
+: 6%
+
+8709.90.00 00 -Parts
+
+-, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+Tariff
+Item
+8709.19
+
+8710.00.00
+
+SS
+
+Description of Goods
+- -Other
+
+Tanks and other armoured fighting vehicles, motorized, whether or not
+fitted with weapons, and parts of such vehicles.
+
+- - - - -Vehicles:
+11 - - - - - -Tracked, including half-tracked ............................................................
+19 - - - - - -Other ....................................................................................................
+80 - - - - -Parts.......................................................................................................
+87.11
+
+Motorcycles (including mopeds) and cycles fitted with an auxiliary
+motor, with or without side-cars; side-cars.
+
+8711.10.00 00 -With internal combustion piston engine of a cylinder capacity not
+exceeding 50 cc
+
+8711.20.00
+
+NMB
+
+-With internal combustion piston engine of a cylinder capacity
+exceeding 50 cc but not exceeding 250 cc
+
+10 - - - - -All-terrain cycles .....................................................................................
+90 - - - - -Other ......................................................................................................
+8711.30.00
+
+NMB
+NMB
+-
+
+NMB
+NMB
+
+-With internal combustion piston engine of a cylinder capacity
+exceeding 250 cc but not exceeding 500 cc
+
+10 - - - - -All-terrain cycles .....................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+87 - 26
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8711.40.00 00 -With internal combustion piston engine of a cylinder capacity
+exceeding 500 cc but not exceeding 800 cc
+
+NMB, H, C, : 
+
+8711.50.00 00 -With internal combustion piston engine of a cylinder capacity
+exceeding 800 cc
+
+NMB, H, C, : 
+
+8711.60.00 00 -With electric motor for propulsion
+
+NMB, H, C, : 
+
+8711.90.00 00 -Other
+
+NMB, H, C, : 
+
+13%, H, C, : 
+: 8.5%, H, C, :, H, C, : 
+
+8712.00.00
+
+SS
+
+Description of Goods
+
+Bicycles and other cycles (including delivery tricycles), not motorized.
+
+- - - - -Bicycles, with both wheels having a diameter not exceeding 48 cm:
+11 - - - - - -Not exceeding 38 cm............................................................................
+12 - - - - - -Exceeding 38 cm..................................................................................
+20 - - - - -Bicycles, with both wheels having a diameter exceeding 48 cm but not
+exceeding 58 cm ....................................................................................
+30 - - - - -Bicycles, with both wheels having a diameter exceeding 58 cm but not
+exceeding 63.5 cm .................................................................................
+40 - - - - -Bicycles, with both wheels having a diameter exceeding 63.5 cm but
+not exceeding 68 cm ..............................................................................
+50 - - - - -Bicycles, with both wheels having a diameter exceeding 68 cm ............
+90 - - - - -Other ......................................................................................................
+87.13
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+Carriages for disabled persons, whether or not motorized or otherwise
+mechanically propelled.
+
+8713.10.00 00 -Not mechanically propelled
+
+8713.90.00
+
+NMB
+NMB
+
+NMB
+
+-Other
+
+20 - - - - -Scooters, four-wheeled...........................................................................
+
+Issued January 1, 2025
+
+NMB
+
+87 - 27
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+90 - - - - -Other ......................................................................................................
+87.14
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Parts and accessories of vehicles of headings 87.11 to 87.13.
+
+8714.10.00 00 -Of motorcycles (including mopeds)
+
+-, H, C, : 
+
+8714.20.00 00 -Of carriages for disabled persons
+
+-, H, C, : 
+
+8714.91.10 00 - - -Frame lugs, bottom bracket shells, forks, fork tubing sets, fork bearing
+assemblies, hydraulic shock absorbing cylinders, spring shock absorbers
+rear pivots, cable stops, cable guides and back, chain and seat stays
+
+-, H, C, : 
+
+8714.91.90 00 - - -Other
+
+-
+
+5%, H, C, : 
+
+8714.92.00 00 - -Wheel rims and spokes
+
+-, H, C, : 
+
+8714.93.00 00 - -Hubs, other than coaster braking hubs and hub brakes, and free-wheel
+sprocket-wheels
+
+-, H, C, : 
+
+8714.94.00 00 - -Brakes, including coaster braking hubs, and hub brakes, and parts
+thereof
+
+-, H, C, : 
+
+8714.95.00 00 - -Saddles
+
+-, H, C, : 
+
+-Other:
+8714.91
+
+- -Frames and forks, and parts thereof
+
+Issued January 1, 2025
+
+87 - 28
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+8714.99.10 00 - - -Bicycle wheels
+
+-
+
+6.5%, H, C, : 
+: 3%
+
+8714.99.90 00 - - -Other
+
+-, H, C, : 
+
+8715.00.00 00 Baby carriages and parts thereof.
+
+-
+
+8%, H, C, : 
+: 5%
+
+6.5%, H, C, : 
+: 3%, H, C, : 
+
+SS
+
+Description of Goods
+
+8714.96.00 00 - -Pedals and crank-gear, and parts thereof
+
+8714.99
+
+- -Other
+
+87.16
+
+Trailers and semi-trailers; other vehicles, not mechanically propelled;
+parts thereof.
+
+8716.10.00
+
+-Trailers and semi-trailers of the caravan type, for housing or camping
+
+10 - - - - -Used .......................................................................................................
+20 - - - - -For housing ............................................................................................
+- - - - -Other:
+91 - - - - - -Fifth wheel type ....................................................................................
+92 - - - - - -Tent trailers ..........................................................................................
+99 - - - - - -Other ....................................................................................................
+8716.20
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Self-loading or self-unloading trailers and semi-trailers for agricultural
+purposes
+
+8716.20.10 00 - - -Automatic bale stacking wagons, grain carts and silage wagons
+
+Issued January 1, 2025
+
+NMB
+
+87 - 29
+COMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6.5%, H, C, : 
+
+NMB
+
+9.5%, H, C, : 
+: 9%
+
+8716.39.10 00 - - -Aluminum construction drop-centre livestock trailers having a g.v.w. of
+11.778 tonnes or more and a length exceeding 12 m
+
+NMB, H, C, : 
+
+8716.39.20 00 - - -Farm, logging or freight wagons;
+Trailers for self-propelled logging trucks of heading 87.04
+
+NMB
+
+5%, H, C, : 
+
+9.5%, H, C, : 
+: 9.5%
+
+6.5%, H, C, : 
+: 6.5%
+
+9.5%, H, C, : 
+: 9.5%
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8716.20.90 00 - - -Other
+
+-Other trailers and semi-trailers for the transport of goods:
+8716.31.00 00 - -Tanker trailers and tanker semi-trailers
+
+8716.39
+
+8716.39.30
+
+- -Other
+
+- - -Trailers and semi-trailers for road tractors or for motor vehicles for the
+transport of goods (excluding non-commercial snowmobile, utility, boat or
+horse trailers and trailers for use as permanent mountings for machinery
+or equipment)
+
+10 - - - - -Van-type .................................................................................................
+20 - - - - -Lowbed...................................................................................................
+30 - - - - -Platform ..................................................................................................
+90 - - - - -Other ......................................................................................................
+8716.39.90
+
+- - -Other
+
+10 - - - - -For boats ................................................................................................
+90 - - - - -Other ......................................................................................................
+8716.40.00 00 -Other trailers and semi-trailers
+
+8716.80
+
+NMB
+NMB
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+-Other vehicles
+
+Issued January 1, 2025
+
+

@@ -1,0 +1,22 @@
+Importer_Description,Importer_HS10_Code,Importer_HS10_English_Description,Predicted_HS10_Code,Predicted_HS10_English_Description,Correct_HS10_Code,match
+Organic oranges,7092099.2,,805100010,"Oranges, certified organic, fresh or dried",no,false
+"Mammals - NES, Dogs, Over 8 months",106190090,"Other mammals, live, nes",102901000,"Bovine animals, live, except pure-bred breeding, dairy",yes,false
+Fresh trout,302140011,"Salmon, Atlantic,farmed,fresh/chilled,o/t No 03.04,o/t offal Nos 0302.91-0302.99",304190017,"Trout fillets, fresh or chilled",no,false
+Dried organic mango,803900010,"Bananas, other than plantains, certified organic, fresh or dried",804500020,"Guavas, mangoes and mangosteens, dried",no,false
+Mangoes,804400000,"Avocadoes, fresh or dried",804500010,"Guavas, mangoes and mangosteens, fresh",no,false
+Fresh kiwi,810500000,"Kiwi fruit, fresh",810500000,"Kiwi fruit, fresh",yes,true
+Corn chip in pack weight not exceeding 1.36 kg each,1905906200,"Pretzels, containing >= 25% wt of wheat, in pack <= 1.36 kg, o/a",1905906110,"Cheese sticks, in packages not exceeding 11.34kg",no,false
+Stevia sweetener,2106903920,"Coffee whitener, containing<=10% by wt of milk solids, in the dry state",2932140000,Sucralose,no,false
+Carror juice,2202100011,"Carbonated soft drinks, containing high-intensity sweeteners",2009801110,"Passion fruit juice, concentrated",no,false
+Paint brushes,3210000020,"Paints, including enamels and distempters, nes",9603301000,Artists' brushes,no,false
+Uvex Bionic® Clear Anti-Fog Polycarbonate Lens Face Shield/Adapter,3926901000,"Other articles of plastics having specific uses, nes",9001901090,"Fresnel lenses, shields for ski goggles, etc, nes",yes,false
+"Showa 730 Cotton Flock-Lined Nitrile Chemical Resistant Safety Glove, Large",4015199000,"Gloves,o/t f medical,surgical,dental/vet purp,vulcanized rubber,o/t hard rbr,nes",3926209110,"Disposable gloves, surgical or medical, of plastics, nes",yes,false
+Ironclad Command A6 Cut Level Foam Nitrile Work Glove,6116100010,"Gloves and mittens,impregnated,coated,covered/laminated w plastics, knit/crochet",4107111220,"Bovine glove leathr,dehair,whole,prep,full grn unsplit,<=2.6m_,f mfr of glove",yes,false
+CLOTHING - WOMENS,6211499900,"Women's or girls' garments,of other textile materials,not knitted/crocheted, nes",4203100052,"Jackets & blazers of leather, women's or girls'",yes,false
+"7/16-14 x 7/8"" Cup Point Socket Set Screws / Alloy Steel / Black Oxide",7318150010,"Screws, whether/not with their nuts or washers, threaded, of iron/steel",7205101100,"Steel shot, of a diameter<=9.5mm for burnishing",yes,false
+Easycut 2000N Yellow Safety Box Cutter Utility Knife Easy Cut Tool,8211930000,"Pocket and pen knives & o knives with folding blades,of base metal,o/t No 82.08",8203400010,Pipe cutters,yes,false
+Metal hat rack,8302601000,"Auto door closer,base met,such as: Hyd; o,mfr railway/tramway passenger coach",8302500090,"Hat-racks, hat-pegs and similar fixtures, o/t brackets, of base metal, nes",no,false
+2001 Polar Super-B Stainless Tanker Trailer (#815#815B),8716391000,"Trailers, livestock,alum construction,drop-centre, gvw>=11778 t, length > 12m",8716310000,"Tanker trailers and tanker semi-trailers, for the transport of goods",no,false
+Bruces Custom Cessna Canopy Covers,8807900000,"Parts, of balloons, dirigibles, gliders, spacecraft, satellites, etc, nes",8708299200,"Rear-trunk spoilers/wings,of polyurethane,for aftermarket automotive accessories",yes,false
+Seat Parts,9401990019,"Parts, of seats, nes, of a kind used for motor vehicles",9401990019,"Parts, of seats, nes, of a kind used for motor vehicles",yes,true
+

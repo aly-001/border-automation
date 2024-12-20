@@ -1,0 +1,1214 @@
+CUSTOMS TARIFF - SCHEDULE
+74 - i
+
+Chapter 74
+COPPER AND ARTICLES THEREOF
+Note.
+1. In this Chapter the following expressions have the meanings hereby assigned to them:
+(a) Refined copper
+Metal containing at least 99.85% by weight of copper; or
+Metal containing at least 97.5% by weight of copper, provided that the content by weight of any other element does not
+exceed the limit specified in the following table:
+
+TABLE -- Other elements
+
+Element
+
+Limiting content % by weight
+
+Ag
+Silver
+As
+Arsenic
+Cd
+Cadmium
+Cr
+Chromium
+Mg
+Magnesium
+Pb
+Lead
+S
+Sulphur
+Sn
+Tin
+Te
+Tellurium
+Zn
+Zinc
+Zr
+Zirconium
+Other elements*, each
+
+0.25
+0.5
+1.3
+1.4
+0.8
+1.5
+0.7
+0.8
+0.8
+1
+0.3
+0.3
+
+* Other elements are, for example, Al, Be, Co, Fe, Mn, Ni, Si.
+(b) Copper alloys
+Metallic substances other than unrefined copper in which copper predominates by weight over each of the other elements,
+provided that:
+(i) the content by weight of at least one of the other elements is greater than the limit specified in the foregoing table; or
+(ii) the total content by weight of such other elements exceeds 2.5%.
+(c) Master alloys
+Alloys containing with other elements more than 10% by weight of copper, not usefully malleable and commonly used as
+an additive in the manufacture of other alloys or as de-oxidants, de-sulphurising agents or for similar uses in the
+metallurgy of non-ferrous metals. However, copper phosphide (phosphor copper) containing more than 15% by weight of
+phosphorus falls in heading 28.53.
+
+Subheading Note.
+1. In this Chapter the following expressions have the meanings hereby assigned to them:
+(a) Copper-zinc base alloys (brasses)
+Alloys of copper and zinc, with or without other elements. When other elements are present:
+-
+
+zinc predominates by weight over each of such other elements;
+
+-
+
+any nickel content by weight is less than 5% (see copper-nickel-zinc alloys (nickel silvers); and
+
+-
+
+any tin content by weight is less than 3% (see copper-tin alloys (bronzes).
+
+Issued January 1, 2025
+
+CUSTOMS TARIFF - SCHEDULE
+74 - ii
+(b) Copper-tin base alloys (bronzes)
+Alloys of copper and tin, with or without other elements. When other elements are present, tin predominates by weight
+over each of such other elements, except that when the tin content is 3% or more the zinc content by weight may exceed
+that of tin but must be less than 10%.
+(c) Copper-nickel-zinc base alloys (nickel silvers)
+Alloys of copper, nickel and zinc, with or without other elements. The nickel content is 5% or more by weight (see
+copper-zinc alloys (brasses)).
+(d) Copper-nickel base alloys
+Alloys of copper and nickel, with or without other elements but in any case containing by weight not more than 1% of zinc.
+When other elements are present, nickel predominates by weight over each of such other element.
+Supplementary Note.
+1. In this Chapter the expression "unworked", when referring to bars, rods and profiles, means products which have not been
+subsequently worked after production (for example, not machined, drilled, punched, twisted or crimped).
+Statistical Note.
+(NB This note does not form part of the Customs Tariff legislation.)
+1. For the statistical purposes of subheading 7401.00, the unit of measure (kilogram) refers to the copper content of the matte and
+shall be the assay quantity without deductions.
+
+Issued January 1, 2025
+
+74 - 1
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7401.00.00 00 Copper mattes; cement copper (precipitated copper).
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7402.00.00 00 Unrefined copper; copper anodes for electrolytic refining.
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.11.00 00 - -Cathodes and sections of cathodes
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.12.00 00 - -Wire-bars
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.13.00 00 - -Billets
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.19.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.21.00 00 - -Copper-zinc base alloys (brass)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7403.22.00 00 - -Copper-tin base alloys (bronze)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+
+
+74.03
+
+Refined copper and copper alloys, unwrought.
+-Refined copper:
+
+-Copper alloys:
+
+Issued January 1, 2025
+
+74 - 2
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7404.00.10 00 - - -Spent anodes, not alloyed;
+With a copper content of less than 94% by weight, not alloyed
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7404.00.20 00 - - -Copper-zinc base alloys (brass) with a copper content of less than 94% by
+weight
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7406.10.00 00 -Powders of non-lamellar structure
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7406.20.00 00 -Powders of lamellar structure; flakes
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+7403.29.00 00 - -Other copper alloys (other than master alloys of heading 74.05)
+
+7404.00
+
+Copper waste and scrap.
+
+- - -Other:
+7404.00.91 00 - - - -With a copper content of less than 94% by weight
+
+7404.00.99
+
+- - - -Other
+
+10 - - - - -Copper-tin base alloys (bronze) .............................................................
+- - - - -Other:
+91 - - - - - -Not alloyed ...........................................................................................
+99 - - - - - -Other ....................................................................................................
+7405.00.00 00 Master alloys of copper.
+
+74.06
+
+KGM
+KGM
+KGM
+
+Copper powders and flakes.
+
+Issued January 1, 2025
+
+74 - 3
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+74.07
+
+Copper bars, rods and profiles.
+
+7407.10
+
+-Of refined copper
+
+7407.10.10 00 - - -Hollow profiles
+
+7407.10.90
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+- - -Other
+
+10 - - - - -Bars and rods, of which the maximum cross-sectional dimension
+exceeds 12.7 mm, unworked .................................................................
+90 - - - - -Other ......................................................................................................
+
+KGM
+KGM
+
+-Of copper alloys:
+7407.21
+
+- -Of copper-zinc base alloys (brass)
+
+7407.21.20 00 - - -Hollow profiles
+
+7407.21.90
+
+- - -Other
+
+10 - - - - -Bars and rods, of a maximum cross-sectional dimension not exceeding
+12.7 mm, unworked................................................................................
+20 - - - - -Bars and rods of a maximum cross-sectional dimension exceeding
+12.7 mm, unworked................................................................................
+90 - - - - -Other ......................................................................................................
+7407.29.00
+
+KGM
+KGM
+KGM
+
+- -Other
+
+10 - - - - -Bars and rods, of a maximum cross-sectional dimension exceeding
+12.7 mm, unworked................................................................................
+20 - - - - -Bars, rods or solid profiles, worked ........................................................
+30 - - - - -Hollow profiles........................................................................................
+90 - - - - -Other ......................................................................................................
+74.08
+
+KGM
+
+KGM
+KGM
+KGM
+KGM
+
+Copper wire.
+
+Issued January 1, 2025
+
+74 - 4
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7408.11.10 00 - - -Not exceeding 9.5 mm
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7408.11.20 00 - - -Exceeding 9.5 mm but not exceeding 12.7 mm
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7408.11.30 00 - - -Exceeding 12.7 mm
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+-Of refined copper:
+
+7408.11
+
+7408.19.00
+
+- -Of which the maximum cross-sectional dimension exceeds 6 mm
+
+- -Other
+
+10 - - - - -Not coated or covered ............................................................................
+20 - - - - -Coated or covered ..................................................................................
+
+KGM
+KGM
+
+-Of copper alloys:
+7408.21.00 00 - -Of copper-zinc base alloys (brass)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7408.22.00 00 - -Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base
+alloys (nickel silver)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7408.29.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+74.09
+
+Copper plates, sheets and strip, of a thickness exceeding 0.15 mm.
+-Of refined copper:
+
+Issued January 1, 2025
+
+74 - 5
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7409.11.00 00 - -In coils
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7409.19.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7409.31.00 00 - -In coils
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7409.39.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7409.40.00 00 -Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base
+alloys (nickel silver)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7409.90.00 00 -Of other copper alloys
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+-Of copper-zinc base alloys (brass):
+7409.21.00
+
+- -In coils
+
+10 - - - - -Of a width not exceeding 508 mm..........................................................
+20 - - - - -Of a width exceeding 508 mm................................................................
+7409.29.00 00 - -Other
+
+KGM
+KGM
+
+-Of copper-tin base alloys (bronze):
+
+Issued January 1, 2025
+
+74 - 6
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7410.11.00 00 - -Of refined copper
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7410.12.00 00 - -Of copper alloys
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+74.10
+
+SS
+
+Description of Goods
+Copper foil (whether or not printed or backed with paper, paperboard,
+plastics or similar backing materials), of a thickness (excluding any
+backing) not exceeding 0.15 mm.
+-Not backed:
+
+-Backed:
+7410.21.00
+
+- -Of refined copper
+
+30 - - - - -Copper clad laminates, worked ..............................................................
+90 - - - - -Other ......................................................................................................
+7410.22.00 00 - -Of copper alloys
+
+74.11
+
+Copper tubes and pipes.
+
+7411.10.00
+
+-Of refined copper
+
+10 - - - - -For plumbing, unworked .........................................................................
+20 - - - - -For refrigeration or air conditioning (ACR), unworked ............................
+- - - - -Other, unworked:
+31 - - - - - -Industrial or commercial .......................................................................
+39 - - - - - -Other ....................................................................................................
+40 - - - - -Worked ...................................................................................................
+
+KGM
+KGM
+KGM
+
+KGM
+KGM
+KGM
+KGM
+KGM
+
+-Of copper alloys:
+7411.21.00 00 - -Of copper-zinc base alloys (brass)
+
+Issued January 1, 2025
+
+KGM
+
+74 - 7
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7411.22.00 00 - -Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base
+alloys (nickel silver)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7411.29.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+74.12
+
+Copper tube or pipe fittings (for example, couplings, elbows, sleeves).
+
+7412.10.00
+
+-Of refined copper
+
+- - - - -Pressure type:
+11 - - - - - -Wrought ...............................................................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+7412.20.00
+
+-Of copper alloys
+
+- - - - -Pressure type:
+11 - - - - - -Forged..................................................................................................
+12 - - - - - -Cast......................................................................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+7413.00.00
+
+KGM
+KGM
+KGM
+KGM
+
+Stranded wire, cables, plaited bands and the like, of copper, not
+electrically insulated.
+
+10 - - - - -Stranded wire, without fittings ................................................................
+80 - - - - -Other, without fittings .............................................................................
+90 - - - - -Other ......................................................................................................
+74.15
+
+KGM
+KGM
+KGM
+
+KGM
+KGM
+KGM
+
+Nails, tacks, drawing pins, staples (other than those of heading 83.05)
+and similar articles, of copper or of iron or steel with heads of copper;
+screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers
+(including spring washers) and similar articles, of copper.
+
+7415.10.00 00 -Nails and tacks, drawing pins, staples and similar articles
+
+KGM
+
+-Other articles, not threaded:
+
+Issued January 1, 2025
+
+74 - 8
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7415.21.00 00 - -Washers (including spring washers)
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7415.29.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7415.33.00 00 - -Screws; bolts and nuts
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7415.39.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7418.10.00 00 -Table, kitchen or other household articles and parts thereof; pot
+scourers and scouring or polishing pads, gloves and the like
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7418.20.00 00 -Sanitary ware and parts thereof
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+-Other threaded articles:
+
+74.18
+
+Table, kitchen or other household articles and parts thereof, of copper;
+pot scourers and scouring or polishing pads, gloves and the like, of
+copper; sanitary ware and parts thereof, of copper.
+
+74.19
+
+Other articles of copper.
+
+7419.20
+
+-Cast, moulded, stamped or forged, but not further worked
+
+7419.20.10 00 - - -Anodes for electroplating
+
+- - -Other:
+
+Issued January 1, 2025
+
+74 - 9
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7419.20.91 00 - - - -For use in Canadian manufactures
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7419.20.99 00 - - - -Other
+
+KGM
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7419.80.10 00 - - -Anodes for electroplating
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7419.80.20 00 - - -Caskets or coffins
+
+NMB
+
+9.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7419.80
+
+7419.80.90
+
+SS
+
+Description of Goods
+
+-Other
+
+- - -Other
+
+10 - - - - -Brass plumbing goods, not elsewhere specified or included .................
+90 - - - - -Other ......................................................................................................
+
+KGM
+KGM
+
+Issued January 1, 2025
+
+

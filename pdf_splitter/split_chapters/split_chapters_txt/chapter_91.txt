@@ -1,0 +1,1256 @@
+90 - 26
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+9031.90.10 00 - - -Bases and frames for co-ordinate measuring machines
+
+9031.90.90
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+- - -Other
+
+20 - - - - -Of test benches ......................................................................................
+30 - - - - -Of other optical instruments and appliances ..........................................
+90 - - - - -Other ......................................................................................................
+90.32
+
+Automatic regulating or controlling instruments and apparatus.
+
+9032.10
+
+-Thermostats
+
+-
+
+9032.10.10 00 - - -For use with machinery or equipment of Section XVI
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9032.10.90 00 - - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9032.20.00 00 -Manostats
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Other instruments and apparatus:
+9032.81.00 00 - -Hydraulic or pneumatic
+
+9032.89.00
+
+- -Other
+
+10 - - - - -Complete process control systems, excluding sensors, which convert
+analog signals from or to digital signals .................................................
+- - - - -Other process control apparatus, excluding sensors, which converts
+analog signals from or to digital signals:
+21 - - - - - -Temperature control instruments .........................................................
+22 - - - - - -Pressure and draft control instruments ................................................
+23 - - - - - -Flow and liquid level control instruments..............................................
+
+Issued January 1, 2025
+
+NMB
+
+NMB
+NMB
+NMB
+
+90 - 27
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+29 - - - - - -Other ....................................................................................................
+- - - - -Other:
+91 - - - - - -Automatic voltage and voltage-current regulators ...............................
+92 - - - - - -Control instruments for air-conditioning, refrigeration or heating
+systems ................................................................................................
+99 - - - - - -Other ....................................................................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+9032.90.00 00 -Parts and accessories
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9033.00.00 00 Parts and accessories (not specified or included elsewhere in this
+Chapter) for machines, appliances, instruments or apparatus of
+Chapter 90.
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Issued January 1, 2025
+
+CUSTOMS TARIFF - SCHEDULE
+91 - i
+Chapter 91
+CLOCKS AND WATCHES AND PARTS THEREOF
+Notes.
+1. This Chapter does not cover:
+(a) Clock or watch glasses or weights (classified according to their constituent material);
+(b) Watch chains (heading 71.13 or 71.17, as the case may be);
+(c) Parts of general use defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics (Chapter 39)
+or of precious metal or metal clad with precious metal (generally heading 71.15); clock or watch springs are, however, to
+be classified as clock or watch parts (heading 91.14);
+(d) Bearing balls (heading 73.26 or 84.82, as the case may be);
+(e) Articles of heading 84.12 constructed to work without an escapement;
+(f) Ball bearings (heading 84.82); or
+(g) Articles of Chapter 85, not yet assembled together or with other components into watch or clock movements or into
+articles suitable for use solely or principally as parts of such movements (Chapter 85).
+2. Heading 91.01 covers only watches with case wholly of precious metal or of metal clad with precious metal, or of the same
+materials combined with natural or cultured pearls, or precious or semi-precious stones (natural, synthetic or reconstructed)
+of headings 71.01 to 71.04. Watches with case of base metal inlaid with precious metal fall in heading 91.02.
+3. For the purpose of this Chapter, the expression "watch movements" means devices regulated by a balance-wheel and
+hairspring, quartz crystal or any other system capable of determining intervals of time, with a display or a system to which a
+mechanical display can be incorporated. Such watch movements shall not exceed 12 mm in thickness and 50 mm in width,
+length or diameter.
+4. Except as provided in Note 1, movements and other parts suitable for use both in clocks or watches and in other articles (for
+example, precision instruments) are to be classified in this Chapter.
+
+Issued January 1, 2025
+
+91 - 1
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+
+
+91.01
+
+Wrist-watches, pocket-watches and other watches, including stopwatches, with case of precious metal or of metal clad with precious
+metal.
+-Wrist-watches, electrically operated, whether or not incorporating a
+stop-watch facility:
+
+9101.11.00
+
+- -With mechanical display only
+
+10 - - - - -Incorporating diamonds of a weight equal to or greater than 0.5 carat
+each ........................................................................................................
+90 - - - - -Other .....................................................................................................
+9101.19.00
+
+NMB
+NMB
+
+- -Other
+
+10 - - - - -Incorporating diamonds of a weight equal to or greater than 0.5 carat
+each ........................................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+-Other wrist-watches, whether or not incorporating a stop-watch facility:
+9101.21.00 00 - -With automatic winding
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9101.29.00 00 - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Other:
+9101.91
+
+- -Electrically operated
+
+9101.91.10 00 - - -Stop-watches
+
+Issued January 1, 2025
+
+91 - 2
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9101.91.90 00 - - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9101.99.00 00 - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.11.00 00 - -With mechanical display only
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.12.00 00 - -With opto-electronic display only
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.19.00 00 - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.21.00 00 - -With automatic winding
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.29.00 00 - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+91.02
+
+SS
+
+Description of Goods
+
+Wrist-watches, pocket-watches and other watches, including stopwatches, other than those of heading 91.01.
+-Wrist-watches, electrically operated, whether or not incorporating a
+stop-watch facility:
+
+-Other wrist-watches, whether or not incorporating a stop-watch facility:
+
+Issued January 1, 2025
+
+91 - 3
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9102.91.10 00 - - -Stop-watches
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9102.91.90 00 - - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9102.99.00 00 - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9103.10.00 00 -Electrically operated
+
+NMB
+
+11%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+9103.90.00 00 -Other
+
+NMB
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+9104.00.00 00 Instrument panel clocks and clocks of a similar type for vehicles,
+aircraft, spacecraft or vessels.
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+-Other:
+
+9102.91
+
+91.03
+
+91.05
+
+- -Electrically operated
+
+Clocks with watch movements, excluding clocks of heading 91.04.
+
+Other clocks.
+-Alarm clocks:
+
+9105.11.00 00 - -Electrically operated
+
+Issued January 1, 2025
+
+91 - 4
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+9105.21.10 00 - - -Clock systems
+
+-
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9105.21.90 00 - - -Other
+
+-
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+9105.29.00 00 - -Other
+
+NMB
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+9105.91.10 00 - - -Clock systems
+
+-
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+9105.91.20 00 - - -Chronometers for aircraft or vessels
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9105.91.90 00 - - -Other
+
+-
+
+14%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+SS
+
+Description of Goods
+
+9105.19.00 00 - -Other
+
+-Wall clocks:
+9105.21
+
+- -Electrically operated
+
+-Other:
+9105.91
+
+9105.99
+
+- -Electrically operated
+
+- -Other
+
+Issued January 1, 2025
+
+91 - 5
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9105.99.10 00 - - -Chronometers for aircraft or vessels
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9105.99.90 00 - - -Other
+
+-
+
+11%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 8%
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+14%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9107.00.10 00 - - -Electro-mechanical irrigation controllers;
+Time switches for use in the manufacture of machinery or equipment
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9107.00.90 00 - - -Other
+
+NMB
+
+6.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+91.06
+
+SS
+
+Description of Goods
+
+Time of day recording apparatus and apparatus for measuring,
+recording or otherwise indicating intervals of time, with clock or watch
+movement or with synchronous motor (for example, time-registers,
+time-recorders).
+
+9106.10.00 00 -Time-registers; time-recorders
+
+9106.90
+
+-Other
+
+9106.90.10 00 - - -Parking meters
+
+9106.90.90 00 - - -Other
+
+9107.00
+
+91.08
+
+Time switches with clock or watch movement or with synchronous
+motor.
+
+Watch movements, complete and assembled.
+-Electrically operated:
+
+Issued January 1, 2025
+
+91 - 6
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9108.11.00 00 - -With mechanical display only or with a device to which a mechanical
+display can be incorporated
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9108.12.00 00 - -With opto-electronic display only
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9108.19.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9108.20.00 00 -With automatic winding
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9108.90.00 00 -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9109.10.00 00 -Electrically operated
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9109.90.00 00 -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+91.09
+
+91.10
+
+SS
+
+Description of Goods
+
+Clock movements, complete and assembled.
+
+Complete watch or clock movements, unassembled or partly assembled
+(movement sets); incomplete watch or clock movements, assembled;
+rough watch or clock movements.
+-Of watches:
+
+9110.11.00 00 - -Complete movements, unassembled or partly assembled (movement
+sets)
+
+Issued January 1, 2025
+
+91 - 7
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9111.10.00 00 -Cases of precious metal or of metal clad with precious metal
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9111.20.00 00 -Cases of base metal, whether or not gold- or silver-plated
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9111.80.00 00 -Other cases
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+9110.12.00 00 - -Incomplete movements, assembled
+
+9110.19.00 00 - -Rough movements
+
+9110.90.00 00 -Other
+
+91.11
+
+Watch cases and parts thereof.
+
+9111.90.00 00 -Parts
+
+91.12
+
+Clock cases and cases of a similar type for other goods of this Chapter,
+and parts thereof.
+
+9112.20.00 00 -Cases
+
+Issued January 1, 2025
+
+91 - 8
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9113.10.10 00 - - -For use in the manufacture of watches
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9113.10.90 00 - - -Other
+
+-
+
+4.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9113.20.10 00 - - -For use in the manufacture of watches
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9113.20.90 00 - - -Other
+
+-
+
+5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+9112.90.00 00 -Parts
+
+91.13
+
+Watch straps, watch bands and watch bracelets, and parts thereof.
+
+9113.10
+
+-Of precious metal or of metal clad with precious metal
+
+9113.20
+
+9113.90.00
+
+-Of base metal, whether or not gold- or silver-plated
+
+-Other
+
+10 - - - - -Of leather................................................................................................
+90 - - - - -Other ......................................................................................................
+91.14
+
+-
+
+Other clock or watch parts.
+
+9114.30.00 00 -Dials
+
+Issued January 1, 2025
+
+-
+
+91 - 9
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9114.40.00 00 -Plates and bridges
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+9114.90.00 00 -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Issued January 1, 2025
+
+

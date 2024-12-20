@@ -1,0 +1,8178 @@
+CUSTOMS TARIFF - SCHEDULE
+85 - i
+Chapter 85
+ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF;
+SOUND RECORDERS AND REPRODUCERS,
+TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND
+PARTS AND ACCESSORIES OF SUCH ARTICLES
+Notes.
+1. This Chapter does not cover:
+(a) Electrically warmed blankets, bed pads, foot-muffs or the like; electrically warmed clothing, footwear or ear pads or other
+electrically warmed articles worn on or about the person;
+(b) Articles of glass of heading 70.11;
+(c) Machines and apparatus of heading 84.86;
+(d) Vacuum apparatus of a kind used in medical, surgical, dental or veterinary sciences (heading 90.18); or
+(e) Electrically heated furniture of Chapter 94.
+2. Headings 85.01 to 85.04 do not apply to goods described in heading 85.11, 85.12, 85.40, 85.41 or 85.42.
+However, metal tank mercury arc rectifiers remain classified in heading 85.04.
+3. For the purposes of heading 85.07, the expression “electric accumulators” includes those presented with ancillary
+components which contribute to the accumulator’s function of storing and supplying energy or protect it from damage, such as
+electrical connectors, temperature control devices (for example, thermistors) and circuit protection devices. They may also
+include a portion of the protective housing of the goods in which they are to be used.
+4. Heading 85.09 covers only the following electro-mechanical machines of the kind commonly used for domestic purposes:
+(a) Floor polishers, food grinders and mixers, and fruit or vegetable juice extractors, of any weight;
+(b) Other machines provided the weight of such machines does not exceed 20 kg.
+The heading does not, however, apply to fans or ventilating or recycling hoods incorporating a fan, whether or not fitted with
+filters (heading 84.14), centrifugal clothes-dryers, (heading 84.21), dish washing machines (heading 84.22), household
+washing machines (heading 84.50), roller or other ironing machines (heading 84.20 or 84.51), sewing machines (heading
+84.52), electric scissors (heading 84.67) or to electro-thermic appliances (heading 85.16).
+5. For the purposes of heading 85.17, the term “smartphones” means telephones for cellular networks, equipped with a mobile
+operating system designed to perform the functions of an automatic data processing machine such as downloading and
+running multiple applications simultaneously, including third-party applications, and whether or not integrating other features
+such as digital cameras and navigational aid systems.
+6. For the purposes of heading 85.23:
+(a) “Solid-state non-volatile storage devices” (for example, “flash memory cards” or “flash electronic storage cards”) are
+storage devices with a connecting socket, comprising in the same housing one or more flash memories (for example,
+"FLASH E2 PROM") in the form of integrated circuits mounted on a printed circuit board. They may include a controller in
+the form of an integrated circuit and discrete passive components such as capacitors and resistors;
+(b) The term “smart cards” means cards which have embedded in them one or more electronic integrated circuits (a
+microprocessor, random access memory (RAM) or read-only memory (ROM)) in the form of chips. These cards may
+contain contacts, a magnetic stripe or an embedded antenna but do not contain any other active or passive circuit
+elements.
+7. For the purposes of heading 85.24, “flat panel display modules” refer to devices or apparatus for the display of information,
+equipped at a minimum with a display screen, which are designed to be incorporated into articles of other headings prior to
+use. Display screens for flat panel display modules include, but are not limited to, those which are flat, curved, flexible,
+foldable or stretchable in form. Flat panel display modules may incorporate additional elements, including those necessary for
+receiving video signals and the allocation of those signals to pixels on the display. However, heading 85.24 does not include
+display modules which are equipped with components for converting video signals (e.g., a scaler IC, decoder IC or
+application processer) or have otherwise assumed the character of goods of other headings.
+For the classification of flat panel display modules defined in this Note, heading 85.24 shall take precedence over any other
+heading in the Nomenclature.
+
+Issued January 1, 2025
+
+CUSTOMS TARIFF - SCHEDULE
+85 - ii
+8. For the purpose of heading 85.34 “printed circuits” are circuits obtained by forming on an insulating base, by any printing
+process (for example, embossing, plating-up, etching) or by the “film circuit” technique, conductor elements, contacts or other
+printed components (for example, inductances, resistors, capacitors) alone or interconnected according to a pre-established
+pattern, other than elements which can produce, rectify, modulate or amplify an electrical signal (for example, semiconductor
+elements).
+The expression “printed circuits” does not cover circuits combined with elements other than those obtained during the printing
+process, nor does it cover individual, discrete resistors, capacitors or inductances. Printedcircuits may, however, be fitted with
+non-printed connecting elements.
+Thin- or thick-film circuits comprising passive and active elements obtained during the same technological process are to be
+classified in heading 85.42.
+9. For the purpose of heading 85.36, “connectors for optical fibres, optical fibre bundles or cables” means connectors that
+simply mechanically align optical fibres end to end in a digital line system. They perform no other function, such as the
+amplification, regeneration or modification of a signal.
+10. Heading 85.37 does not include cordless infrared devices for the remote control of television receivers or other electrical
+equipment (heading 85.43).
+11. For the purposes of heading 85.39, the expression “light-emitting diode (LED) light sources” covers:
+(a) “Light-emitting diode (LED) modules” which are electrical light sources based on light-emitting diodes (LED) arranged in
+electrical circuits and containing further elements like electrical, mechanical, thermal or optical elements. They also
+contain discrete active elements, discrete passive elements, or articles of heading 85.36 or 85.42 for the purposes of
+providing power supply or power control. Light-emitting diode (LED) modules do not have a cap designed to allow easy
+installation or replacement in a luminaire and ensure mechanical and electrical contact.
+(b) “Light-emitting diode (LED) lamps” which are electrical light sources containing one or more LED modules containing
+further elements like electrical, mechanical, thermal or optical elements. The distinction between light-emitting diode
+(LED) modules and light emitting diode (LED) lamps is that lamps have a cap designed to allow easy installation or
+replacement in a luminaire and ensure mechanical and electrical contact.
+12. For the purpose of headings 85.41 and 85.42:
+(a) (i) “Semiconductor devices” are semiconductor devices the operation of which depends on variations in resistivity on the
+application of an electric field or semiconductor-based transducers.
+Semiconductor devices may also include assembly of plural elements, whether or not equipped with active and passive
+device ancillary functions.
+“Semiconductor-based transducers” are, for the purposes of this definition, semiconductor-based sensors, semiconductorbased actuators, semiconductor-based resonators and semiconductor-based oscillators, which are types of discrete
+semiconductor-based devices, which perform an intrinsic function, which are able to convert any kind of physical or chemical
+phenomena or an action into an electrical signal or an electrical signal into any type of physical phenomenon or an action.
+All the elements in semiconductor-based transducers are indivisibly combined, and may also include necessary materials
+indivisibly attached, that enable their construction or function.
+The following expressions mean:
+(1) “Semiconductor-based” means built or manufactured on a semiconductor substrate or made of semiconductor
+materials, manufactured by semiconductor technology, in which the semiconductor substrate or material plays a
+critical and unreplaceable role of transducer function and performance, and the operation of which is based on
+semiconductor properties including physical, electrical, chemical and optical properties.
+(2) “Physical or chemical phenomena” relate to phenomena, such as pressure, acoustic waves, acceleration, vibration,
+movement, orientation, strain, magnetic field strength, electric field strength, light, radioactivity, humidity, flow,
+chemicals concentration, etc.
+(3) “Semiconductor-based sensor” is a type of semiconductor device, which consists of microelectronic or mechanical
+structures that are created in the mass or on the surface of a semiconductor and that have the function of detecting
+physical or chemical quantities and converting these into electric signals caused by resulting variations in electric
+properties or displacement of a mechanical structure.
+(4) “Semiconductor-based actuator” is a type of semiconductor device, which consists of microelectronic or mechanical
+structures that are created in the mass or on the surface of a semiconductor and that have the function of converting
+electric signals into physical movement.
+
+Issued January 1, 2025
+
+CUSTOMS TARIFF - SCHEDULE
+85 - iii
+(5) “Semiconductor-based resonator” is a type of semiconductor device, which consists of microelectronic or mechanical
+structures that are created in the mass or on the surface of a semiconductor and that have the function of generating a
+mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these
+structures in response to an external input.
+(6) “Semiconductor-based oscillator” is a type of semiconductor device, which consists of microelectronic or mechanical
+structures that are created in the mass or on the surface of a semiconductor and that have the function of generating a
+mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these
+structures.
+(ii) “Light-emitting diodes (LED)” are semiconductor devices based on semiconductor materials which convert electrical
+energy into visible, infra-red or ultra-violet rays, whether or not electrically connected among each other and whether
+or not combined with protective diodes. Light-emitting diodes (LED) of heading 85.41 do not incorporate elements for
+the purposes of providing power supply or power control;
+(b) “Electronic integrated circuits” are:
+(i) Monolithic integrated circuits in which the circuit elements (diodes, transistors, resistors, capacitors, inductances, etc.)
+are created in the mass (essentially) and on the surface of a semiconductor or compound semiconductor material (for
+example, doped silicon, gallium arsenide, silicon germanium, indium phosphide) and are inseparably associated;
+(ii) Hybrid integrated circuits in which passive elements (resistors, capacitors, inductances, etc.), obtained by thin- or
+thick-film technology, and active elements (diodes, transistors, monolithic integrated circuits, etc.), obtained by
+semiconductor technology, are combined to all intents and purposes indivisibly, by interconnections or interconnecting
+cables, on a single insulating substrate (glass, ceramic, etc.). These circuits may also include discrete components;
+(iii) Multichip integrated circuits consisting of two or more interconnected monolithic integrated circuits combined to all
+intents and purposes indivisibly, whether or not on one or more insulating substrates, with or without leadframes, but
+with no other active or passive circuit elements.
+(iv) Multi-component integrated circuits (MCOs): a combination of one or more monolithic, hybrid, or multi-chip integrated
+circuits with at least one of the following components: silicon-based sensors, actuators, oscillators, resonators or
+combinations thereof, or components performing the functions of articles classifiable under heading 85.32, 85.33,
+85.41, or inductors classifiable under heading 85.04, formed to all intents and purposes indivisibly into a single body
+like an integrated circuit, as a component of a kind used for assembly onto a printed circuit board (PCB) or other
+carrier, through the connecting of pins, leads, balls, lands, bumps, or pads.
+For the purpose of this definition:
+1. “Components” may be discrete, manufactured independently then assembled onto the rest of the MCO, or integrated
+into other components.
+2. “Silicon based” means built on a silicon substrate, or made of silicon materials, or manufactured onto integrated circuit
+die.
+3. (a) “Silicon-based sensors” consist of microelectronic or mechanical structures that are created in the mass or on the
+surface of a semiconductor and that have the function of detecting physical or chemical phenomena and
+transducing these into electric signals, caused by resulting variations in electric properties or displacement of a
+mechanical structure. “Physical or chemical phenomena” relates to phenomena, such as pressure, acoustic waves,
+acceleration, vibration, movement, orientation, strain, magnetic field strength, electric field strength, light,
+radioactivity, humidity, flow, chemicals concentration, etc.
+(b) “Silicon based actuators” consist of microelectronic and mechanical structures that are created in the mass or on
+the surface of a semiconductor and that have the function of converting electrical signals into physical movement.
+(c) “Silicon based resonators” are components that consist of microelectronic or mechanical structures that are created
+in the mass or on the surface of a semiconductor and have the function of generating a mechanical or electrical
+oscillation of a predefined frequency that depends on the physical geometry of these structures in response to an
+external input.
+(d) “Silicon based oscillators” are active components that consist of microelectronic or mechanical structures that are
+created in the mass or on the surface of a semiconductor and that have the function of generating a mechanical or
+electrical oscillation of a predefined frequency that depends on the physical geometry of these structures.
+For the classification of the articles defined in this Note, headings 85.41 and 85.42 shall take precedence over any other heading
+in the Nomenclature, except in the case of heading 85.23, which might cover them by reference to, in particular, their function.
+
+Issued January 1, 2025
+
+CUSTOMS TARIFF - SCHEDULE
+85 - iv
+Subheading Notes.
+1. Subheading 8525.81 covers only high-speed television cameras, digital cameras and video camera recorders having one or
+more of the following characteristics:
+- writing speed exceeding 0.5 mm per microsecond;
+- time resolution 50 nanoseconds or less;
+- frame rate exceeding 225,000 frames per second.
+2. In respect of subheading 8525.82, radiation-hardened or radiation-tolerant television cameras, digital cameras and video
+camera recorders are designed or shielded to enable operation in a high-radiation environment. These cameras are designed
+to withstand a total radiation dose of at least 50 × 103 Gy(silicon) (5 × 106 RAD (silicon)), without operational degradation.
+3. Subheading 8525.83 covers night vision television cameras, digital cameras and video camera recorders which use a
+photocathode to convert available light to electrons, which can be amplified and converted to yield a visible image. This
+subheading excludes thermal imaging cameras (generally subheading 8525.89).
+4. Subheading 8527.12 covers only cassette-players with built-in amplifier, without built-in loudspeaker, capable of operating
+without an external source of electric power and the dimensions of which do not exceed 170 mm× 100 mm × 45 mm.
+5. For the purposes of subheadings 8549.11 to 8549.19, “spent primary cells, spent primary batteries and spent electric
+accumulators” are those which are neither usable as such because of breakage, cutting-up, wear or other reasons, nor
+capable of being recharged.
+Supplementary Notes.
+1. For purposes of this Chapter, "printed circuit assembly" means a good consisting of one or more printed circuits of heading
+85.34 with one or more active elements assembled on it, with or without passive elements. For purposes of this Note, "active
+elements" means diodes, transistors and similar semiconductor devices, whether or not photosensitive, of heading 85.41, and
+integrated circuits of heading 85.42.
+2. For purposes of this Chapter:
+(a) references to "high definition" as it applies to television receivers and cathode-ray tubes refers to goods having
+(i) an aspect ratio of the screen equal to or greater than 16:9, and
+(ii) a viewing screen capable of displaying more than 700 scanning lines; and
+(b) the video display diagonal is determined by measuring the maximum straight line dimension across the visible portion of
+the face plate used for displaying video.
+
+3. For the purposes of heading 85.23, "software" means programs that are recorded on diskettes, compact discs, magnetic tape
+or any other suitable storage medium and that are designed to be executed by a computer or similar programmable,
+microprocessor-controlled device or apparatus but does not mean audio or video recordings of a type used with sound
+recording or reproducing apparatus of heading 85.19 or with video recording or reproducing apparatus of heading 85.21.
+Statistical Notes.
+(NB These notes do not form part of the Customs Tariff legislation.)
+1. For the statistical purposes of subheadings 8525.50 and 8525.60, the lowest operating frequency will determine the
+classification
+2. For the statistical purposes of subheading 8539.10, the size of a sealed beam lamp unit is determined by measuring the largest
+diagonal dimension across the face-plate for rectangular lamp units and the diameter for circular lamp units..
+3. For the statistical purposes of subheading 8544.70 having a unit of measure “metre”, the intention is to capture the total number
+of metres obtained by multiplying the number of individual fibres by the length.
+
+Issued January 1, 2025
+
+85 - 1
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+
+
+85.01
+
+Electric motors and generators (excluding generating sets).
+
+8501.10.00
+
+-Motors of an output not exceeding 37.5 W
+
+- - - - -Of an output of less than 18.65 W:
+11 - - - - - -AC ........................................................................................................
+12 - - - - - -DC........................................................................................................
+19 - - - - - -Other ....................................................................................................
+- - - - -Of an output of 18.65 W or more but not exceeding 37.5 W:
+21 - - - - - -AC ........................................................................................................
+22 - - - - - -DC........................................................................................................
+29 - - - - - -Other ....................................................................................................
+8501.20.00 00 -Universal AC/DC motors of an output exceeding 37.5 W
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other DC motors; DC generators, other than photovoltaic generators:
+8501.31.00
+
+- -Of an output not exceeding 750 W
+
+10 - - - - -DC motors, of an output exceeding 37.5 W but not exceeding 75 W ....
+20 - - - - -DC motors, of an output exceeding 75 W but less than 750 W .............
+90 - - - - -Other ......................................................................................................
+8501.32
+
+- -Of an output exceeding 750 W but not exceeding 75 kW
+
+8501.32.20 00 - - -Motors for use as the primary source of mechanical power for electric
+powered vehicles of subheading 8703.80 or 8703.90
+
+8501.32.90
+
+NMB
+NMB
+NMB
+
+NMB
+
+- - -Other
+
+10 - - - - -DC generators........................................................................................
+90 - - - - -Other ......................................................................................................
+8501.33.00 00 - -Of an output exceeding 75 kW but not exceeding 375 kW
+
+NMB
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 2
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8501.34.00
+
+SS
+
+Description of Goods
+- -Of an output exceeding 375 kW
+
+30 - - - - -Generators .............................................................................................
+40 - - - - -Motors ....................................................................................................
+8501.40.00
+
+Unit of
+Meas.
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+
+-Other AC motors, single-phase
+
+10 - - - - -External rotor permanent split capacitor motors, of a power exceeding
+30 W or more but not exceeding 120 W, for use in the manufacture of
+cooker (range) hoods; Gear motors, for use in the manufacture of
+machinery or equipment; Other motors, for use in the manufacture of
+submersible water pump systems, with a pump diameter exceeding
+8.89 cm...................................................................................................
+20 - - - - -Of an output exceeding 37.5 W but not exceeding 75 W .......................
+30 - - - - -Of an output exceeding 75 W but not exceeding 750 W ........................
+40 - - - - -Of an output exceeding 750 W but not exceeding 3,730 W ...................
+50 - - - - -Of an output exceeding 3,730 W ............................................................
+
+MFN
+Tariff
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Other AC motors, multi-phase:
+8501.51.00
+
+- -Of an output not exceeding 750 W
+
+10 - - - - -Gear motors............................................................................................
+90 - - - - -Other ......................................................................................................
+8501.52.00
+
+- -Of an output exceeding 750 W but not exceeding 75 kW
+
+10 - - - - -Of an output exceeding 750 W but not exceeding 14.92 kW .................
+20 - - - - -Of an output exceeding 14.92 kW but not exceeding 75 kW..................
+8501.53.00
+
+NMB
+NMB
+
+NMB
+NMB
+
+- -Of an output exceeding 75 kW
+
+10 - - - - -For operating mud (slush) pumps, winches (draw works) or rotary
+tables......................................................................................................
+20 - - - - -Of an output not exceeding 149 kW .......................................................
+30 - - - - -Of an output exceeding 149 kW but not exceeding 375 kW...................
+40 - - - - -Of an output exceeding 375 kW but not exceeding 750 kW...................
+50 - - - - -Of an output exceeding 750 kW but not exceeding 1,875 kW................
+60 - - - - -Of an output exceeding 1,875 kW ..........................................................
+
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+85 - 3
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8501.61.00 00 - -Of an output not exceeding 75 kVA
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8501.62.00 00 - -Of an output exceeding 75 kVA but not exceeding 375 kVA
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8501.63.00 00 - -Of an output exceeding 375 kVA but not exceeding 750 kVA
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+-AC generators (alternators), other than photovoltaic generators:
+
+8501.64.00
+
+- -Of an output exceeding 750 kVA
+
+10 - - - - -For use in the manufacture of generator sets ........................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+-Photovoltaic DC generators:
+8501.71.00 00 - -Of an output not exceeding 50 W
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8501.72.00 00 - -Of an output exceeding 50 W
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8501.80.00 00 -Photovoltaic AC generators
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+85.02
+
+Electric generating sets and rotary converters.
+-Generating sets with compression-ignition internal combustion piston
+engines (diesel or semi-diesel engines):
+
+Issued January 1, 2025
+
+85 - 4
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8502.11.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Of an output not exceeding 75 kVA
+
+10 - - - - -Of an output not exceeding 35 kW .........................................................
+90 - - - - -Other ......................................................................................................
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+
+8502.12.00 00 - -Of an output exceeding 75 kVA but not exceeding 375 kVA
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8502.13.00 00 - -Of an output exceeding 375 kVA
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8502.20.00
+
+-Generating sets with spark-ignition internal combustion piston engines
+
+10 - - - - -For use on the farm, for farm purposes only; Ground power units, for
+providing electrical power for aircraft; Of an output not exceeding 35 kW
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+-Other generating sets:
+8502.31.00 00 - -Wind-powered
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8502.39.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8502.40.00 00 -Electric rotary converters
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8503.00
+
+Parts suitable for use solely or principally with the machines of
+heading 85.01 or 85.02.
+
+8503.00.10
+
+- - -Stators and rotors of the machines of heading 85.01
+
+Issued January 1, 2025
+
+85 - 5
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Of gear motors .......................................................................................
+20 - - - - -Of motors, excluding gear motors ..........................................................
+30 - - - - -Of generators, excluding generating sets ..............................................
+90 - - - - -Other ......................................................................................................
+8503.00.90
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+- - -Other
+
+10 - - - - -Of gear motors .......................................................................................
+20 - - - - -Of motors, excluding gear motors ..........................................................
+30 - - - - -Of generators, excluding generating sets ..............................................
+90 - - - - -Other ......................................................................................................
+85.04
+
+Unit of
+Meas.
+
+-
+
+Electrical transformers, static converters (for example, rectifiers) and
+inductors.
+
+8504.10.00 00 -Ballasts for discharge lamps or tubes
+
+NMB
+
+-Liquid dielectric transformers:
+8504.21.00
+
+- -Having a power handling capacity not exceeding 650 kVA
+
+10 - - - - -Having a power handling capacity of less than 500 kVA .......................
+20 - - - - -Having a power handling capacity of 500 kVA or more but not
+exceeding 650 kVA ................................................................................
+8504.22.00
+
+NMB
+
+- -Having a power handling capacity exceeding 650 kVA but not
+exceeding 10,000 kVA
+
+10 - - - - -Having a power handling capacity exceeding 650 kVA but not
+exceeding 2,500 kVA .............................................................................
+20 - - - - -Having a power handling capacity exceeding 2,500 kVA but not
+exceeding 10,000 kVA ...........................................................................
+8504.23.00
+
+NMB
+
+NMB
+NMB
+
+- -Having a power handling capacity exceeding 10,000 kVA
+
+10 - - - - -Having a power handling capacity exceeding 10,000 kVA but not
+exceeding 59,000 kVA ...........................................................................
+20 - - - - -Having a power handling capacity exceeding 59,000 kVA but not
+exceeding 100,000 kVA .........................................................................
+30 - - - - -Having a power handling capacity exceeding 100,000 kVA ..................
+
+NMB
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 6
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8504.40.30 00 - - -Power supplies for the automatic data processing machines of
+heading 84.71
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8504.40.40 00 - - -Speed drive controllers for electric motors
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+-Other transformers:
+8504.31.00
+
+- -Having a power handling capacity not exceeding 1 kVA
+
+20 - - - - -Having a power handling capacity less than 40 VA................................
+30 - - - - -Having a power handling capacity of 40 VA or more but less than 1 kVA
+40 - - - - -Having a power handling capacity of 1 kVA ...........................................
+
+NMB
+NMB
+NMB
+
+8504.32.00 00 - -Having a power handling capacity exceeding 1 kVA but not exceeding
+16 kVA
+
+NMB
+
+8504.33.00
+
+- -Having a power handling capacity exceeding 16 kVA but not
+exceeding 500 kVA
+
+10 - - - - -Having a power handling capacity exceeding 16 kVA but not exceeding
+50 kVA....................................................................................................
+20 - - - - -Having a power handling capacity exceeding 50 kVA but not exceeding
+500 kVA ..................................................................................................
+8504.34.00 00 - -Having a power handling capacity exceeding 500 kVA
+
+8504.40
+
+8504.40.90
+
+NMB
+NMB
+
+-Static converters
+
+- - -Other
+
+- - - - -Semiconductor converters wherein the devices employed in the
+converting element have a current rating exceeding 100 A average:
+31 - - - - - -Rectifiers ..............................................................................................
+32 - - - - - -Inverters ...............................................................................................
+
+Issued January 1, 2025
+
+-
+
+85 - 7
+CUSTOMS TARIFF - SCHEDULE
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8504.90.10 00 - - -Printed circuit assemblies for the goods of subheadings 8504.40 and
+8504.90
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8504.90.20 00 - - -Other parts of power supplies for automatic data processing machines of
+heading 84.71
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+33 - - - - - -Alternating current converters and cycle converters ............................
+34 - - - - - -Direct current converters......................................................................
+35 - - - - - -Power supplies.....................................................................................
+39 - - - - - -Other ....................................................................................................
+- - - - -Battery chargers:
+41 - - - - - -USB type, from AC source...................................................................
+42 - - - - - -USB type, from DC source...................................................................
+49 - - - - - -Other ....................................................................................................
+- - - - -Other:
+93 - - - - - -Power supplies.....................................................................................
+99 - - - - - -Other ....................................................................................................
+8504.50.00 00 -Other inductors
+
+8504.90
+
+8504.90.90
+
+NMB
+NMB
+NMB
+-
+
+-Parts
+
+- - -Other
+
+10 - - - - -Printed circuit assemblies, of electric transformers and other inductors
+- - - - -Other, of electric transformers:
+81 - - - - - -Having a power handling capacity of less than 500 kVA .....................
+82 - - - - - -Having a power handling capacity of 500 kVA or more .......................
+90 - - - - -Other ......................................................................................................
+85.05
+
+Unit of
+Meas.
+
+-
+
+Electro-magnets; permanent magnets and articles intended to become
+permanent magnets after magnetization; electro-magnetic or permanent
+magnet chucks, clamps and similar holding devices; electro-magnetic
+couplings, clutches and brakes; electro-magnetic lifting heads.
+-Permanent magnets and articles intended to become permanent
+magnets after magnetization:
+
+8505.11.00
+
+- -Of metal
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+85 - 8
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Containing neodymium............................................................................
+90 - - - - -Other........................................................................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+KGM
+KGM
+
+8505.19.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8505.20.00 00 -Electro-magnetic couplings, clutches and brakes
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8505.90.00 00 -Other, including parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8506.10.10 00 - - -Alkaline cells having welded connectors or designed to receive welded
+connectors, for use in electronic lock systems or in components thereof;
+Primary batteries, 9 V, for use in the manufacture of smoke detectors
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8506.10.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8506.30.00 00 -Mercuric oxide
+
+NMB
+
+7%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8506.40.00 00 -Silver oxide
+
+NMB
+
+7%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+85.06
+
+Primary cells and primary batteries.
+
+8506.10
+
+-Manganese dioxide
+
+8506.50
+
+-Lithium
+
+8506.50.10 00 - - -Cells having welded connectors or designed to receive welded
+connectors, for use in electronic lock systems or in components thereof
+
+Revised January 1, 2025
+Issued January 1, 2025
+
+85 - 9
+CUSTOMS TARIFF - SCHEDULE
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8506.80.10 00 - - -For use in the manufacture of smoke detectors
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8506.80.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8506.90.00 00 -Parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+8506.50.90
+
+SS
+
+Description of Goods
+- - -Other
+
+10 - - - - -Of an external volume not exceeding 300 cm³.......................................
+20 - - - - -Of an external volume exceeding 300 cm³.............................................
+8506.60.00 00 -Air-zinc
+
+8506.80
+
+NMB
+NMB
+
+-Other primary cells and primary batteries
+
+85.07
+
+Electric accumulators, including separators therefor, whether or not
+rectangular (including square).
+
+8507.10.00
+
+-Lead-acid, of a kind used for starting piston engines
+
+10 - - - - -12 V ........................................................................................................
+90 - - - - -Other ......................................................................................................
+8507.20
+
+Unit of
+Meas.
+
+NMB
+NMB
+
+-Other lead-acid accumulators
+
+8507.20.10 00 - - -For use as the primary source of electrical power for electrically-powered
+vehicles of subheading 8703.80 or 8703.90;
+For use in the initial installation of smoke, fire or gas detection and alarm
+systems manufactured in Canada, including power supply panels and
+modules for those systems
+
+NMB
+
+Issued January 1, 2025
+
+85 - 10
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8507.20.90
+
+SS
+
+Description of Goods
+- - -Other
+
+10 - - - - -6 V ..........................................................................................................
+20 - - - - -12 V ........................................................................................................
+30 - - - - -36 V ........................................................................................................
+90 - - - - -Other ......................................................................................................
+8507.30
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 7%
+
+NMB
+NMB
+NMB
+NMB
+
+-Nickel-cadmium
+
+8507.30.10 00 - - -Cells having welded connectors or designed to receive welded
+connectors, for use in electronic lock systems or in components thereof;
+For use in miners' safety lamps
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.30.20 00 - - -For use as the primary source of electrical power for electrically-powered
+vehicles of subheading 8703.80 or 8703.90
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.30.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 7%
+
+8507.50.10 00 - - -For use as the primary source of electrical power for electrically-powered
+vehicles of subheading 8703.80 or 8703.90
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.50.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 7%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.50
+
+8507.60
+
+-Nickel-metal hydride
+
+-Lithium-ion
+
+8507.60.10 00 - - -For use as the primary source of electrical power for electrically-powered
+vehicles of subheading 8703.80 or 8703.90
+
+Issued January 1, 2025
+
+85 - 11
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8507.60.20 00 - - -For use as the primary source of electrical power for electrically-powered
+motorcycles of subheading 8711.60 or 8711.90
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.60.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 7%
+
+8507.80.10 00 - - -Alkaline or lithium cells having welded connectors or designed to receive
+welded connectors, for use in electronic lock systems or in components
+thereof;
+Low discharge types, for use in the manufacture, maintenance or repair of
+buoys or beacons for the Government of Canada
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.80.20 00 - - -For use as the primary source of electrical power for electrically-powered
+vehicles of subheading 8703.80 or 8703.90
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8507.80.90 00 - - -Other
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 7%
+
+8507.90.00 00 -Parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8508.11.00 00 - -Of a power not exceeding 1,500 W and having a dust bag or other
+receptacle capacity not exceeding 20 litres
+
+NMB
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+8508.19.00 00 - -Other
+
+NMB
+
+7.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+8507.80
+
+85.08
+
+SS
+
+Description of Goods
+
+-Other accumulators
+
+Vacuum cleaners.
+-With self-contained electric motor:
+
+Issued January 1, 2025
+
+85 - 12
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8508.60.00 00 -Other vacuum cleaners
+
+8508.70.00 00 -Parts
+
+85.09
+
+Electro-mechanical domestic appliances, with self-contained electric
+motor, other than vacuum cleaners of heading 85.08.
+
+8509.40
+
+-Food grinders and mixers; fruit or vegetable juice extractors
+
+8509.40.10 00 - - -Grape crushers for domestic purposes
+
+8509.40.90
+
+NMB
+
+7.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+8%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+NMB
+
+NMB
+
+- - -Other
+
+10 - - - - -For food preparation ...............................................................................
+20 - - - - -For floor or carpet cleaning....................................................................
+90 - - - - -Other ......................................................................................................
+8509.90
+
+Applicable
+Preferential Tariffs
+
+-Other appliances
+
+8509.80.10 00 - - -Ultrasonic vaporizers
+
+8509.80.90
+
+MFN
+Tariff
+
+- - -Other
+
+20 - - - - -Food mixers............................................................................................
+30 - - - - -Juice extractors ......................................................................................
+90 - - - - -Other ......................................................................................................
+8509.80
+
+Unit of
+Meas.
+
+NMB
+NMB
+NMB
+
+-Parts
+
+8509.90.20 00 - - -For use in the manufacture of the goods of this heading;
+Of the goods of tariff item No. 8509.40.90 or 8509.80.90
+
+Issued January 1, 2025
+
+-
+
+85 - 13
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8510.20.10 00 - - -For cutting pet hair;
+Alternating current-powered, for cutting human hair
+
+NMB
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 2.5%
+
+8510.20.90 00 - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8510.30.00 00 -Hair-removing appliances
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8509.90.90 00 - - -Other
+
+85.10
+
+Shavers, hair clippers and hair-removing appliances, with self-contained
+electric motor.
+
+8510.10.00 00 -Shavers
+
+8510.20
+
+-Hair clippers
+
+8510.90.00 00 -Parts
+
+85.11
+
+Electrical ignition or starting equipment of a kind used for spark-ignition
+or compression-ignition internal combustion engines (for example,
+ignition magnetos, magneto-dynamos, ignition coils, sparking plugs
+and glow plugs, starter motors); generators (for example, dynamos,
+alternators) and cut-outs of a kind used in conjunction with such
+engines.
+
+8511.10.00 00 -Sparking plugs
+
+Issued January 1, 2025
+
+85 - 14
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8511.20.00 00 -Ignition magnetos; magneto-dynamos; magnetic flywheels
+
+8511.30.00
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Distributors; ignition coils
+
+10 - - - - -Distributors .............................................................................................
+20 - - - - -Ignition coils............................................................................................
+
+NMB
+NMB
+
+8511.40.00 00 -Starter motors and dual purpose starter-generators
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8511.50.00 00 -Other generators
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+5.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 3%
+
+8511.80.00
+
+-Other equipment
+
+- - - - -Voltage or voltage-current regulators, with cut-out relays:
+11 - - - - - -Designed for use on 6, 12 or 24 V systems .........................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+8511.90.00 00 -Parts
+
+85.12
+
+-
+
+Electrical lighting or signalling equipment (excluding articles of
+heading 85.39), windscreen wipers, defrosters and demisters, of a kind
+used for cycles or motor vehicles.
+
+8512.10.00 00 -Lighting or visual signalling equipment of a kind used on bicycles
+
+Issued January 1, 2025
+
+85 - 15
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8512.20.00
+
+SS
+
+Description of Goods
+-Other lighting or visual signalling equipment
+
+10 - - - - -Lighting equipment, including interior lights ...........................................
+20 - - - - -Visual signalling equipment, including braking lights and turning signal
+lights.......................................................................................................
+8512.30
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+-Sound signalling equipment
+
+8512.30.10 00 - - -Bells or buzzers for use in the repair of logging trucks, or in the
+manufacture of such parts;
+For use in the manufacture of detectors for propane or other toxic fumes
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8512.30.90 00 - - -Other
+
+-
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 6.5%
+
+8512.40.00 00 -Windscreen wipers, defrosters and demisters
+
+-
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 6%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8512.90.00
+
+-Parts
+
+10 - - - - -Of lighting equipment .............................................................................
+20 - - - - -Of signalling equipment..........................................................................
+90 - - - - -Other ......................................................................................................
+85.13
+
+Portable electric lamps designed to function by their own source of
+energy (for example, dry batteries, accumulators, magnetos), other than
+lighting equipment of heading 85.12.
+
+8513.10
+
+-Lamps
+
+8513.10.10 00 - - -Flashlights;
+Miners' safety lamps
+
+-
+
+NMB
+
+Issued January 1, 2025
+
+85 - 16
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8513.90.10 00 - - -Of flashlights and miners' safety lamps
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8513.90.90 00 - - -Other
+
+-
+
+3.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.11.00 00 - -Hot isostatic presses
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.19.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.20.00 00 -Furnaces and ovens functioning by induction or dielectric loss
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8513.10.90 00 - - -Other
+
+8513.90
+
+85.14
+
+-Parts
+
+Industrial or laboratory electric furnaces and ovens (including those
+functioning by induction or dielectric loss); other industrial or
+laboratory equipment for the heat treatment of materials by induction or
+dielectric loss.
+-Resistance heated furnaces and ovens:
+
+-Other furnaces and ovens:
+8514.31.00 00 - -Electron beam furnaces
+
+Issued January 1, 2025
+
+85 - 17
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8514.32.00 00 - -Plasma and vacuum arc furnaces
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.39.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.40.00 00 -Other equipment for the heat treatment of materials by induction or
+dielectric loss
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8514.90.00 00 -Parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8515.11.00 00 - -Soldering irons and guns
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8515.19.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8515.21.00 00 - -Fully or partly automatic
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8515.29.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+85.15
+
+SS
+
+Description of Goods
+
+Electric (including electrically heated gas), laser or other light or photon
+beam, ultrasonic, electron beam, magnetic pulse or plasma arc
+soldering, brazing or welding machines and apparatus, whether or not
+capable of cutting; electric machines and apparatus for hot spraying of
+metals or cermets.
+-Brazing or soldering machines and apparatus:
+
+-Machines and apparatus for resistance welding of metal:
+
+Issued January 1, 2025
+
+85 - 18
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Machines and apparatus for arc (including plasma arc) welding of
+metals:
+8515.31.00
+
+- -Fully or partly automatic
+
+30 - - - - -DC or AC/DC arc welders.......................................................................
+90 - - - - -Other ......................................................................................................
+8515.39.00
+
+- -Other
+
+- - - - -Non-rotating type:
+11 - - - - - -AC transformer type .............................................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Rotating type ..........................................................................................
+8515.80.00 00 -Other machines and apparatus
+
+8515.90.00
+
+NMB
+NMB
+
+NMB
+NMB
+NMB
+-
+
+-Parts
+
+20 - - - - -Of DC or AC/DC arc welders..................................................................
+80 - - - - -Of other welding machines and apparatus .............................................
+90 - - - - -Other ......................................................................................................
+85.16
+
+Electric instantaneous or storage water heaters and immersion heaters;
+electric space heating apparatus and soil heating apparatus; electrothermic hair-dressing apparatus (for example, hair dryers, hair curlers,
+curling tong heaters) and hand dryers; electric smoothing irons; other
+electro-thermic appliances of a kind used for domestic purposes;
+electric heating resistors, other than those of heading 85.45.
+
+8516.10
+
+-Electric instantaneous or storage water heaters and immersion heaters
+
+-
+
+8516.10.10 00 - - -Immersion heaters for photographic solutions
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.10.20 00 - - -Immersion heaters for use in motor vehicles
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Issued January 1, 2025
+
+85 - 19
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8516.10.90
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- - -Other
+
+10 - - - - -Electric water heaters of a kind used for domestic purposes .................
+90 - - - - -Other ......................................................................................................
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+6.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+
+-Electric space heating apparatus and electric soil heating apparatus:
+8516.21.00 00 - -Storage heating radiators
+
+8516.29.00
+
+-
+
+- -Other
+
+- - - - -Electric space heating apparatus:
+11 - - - - - -Of a kind used for domestic purposes .................................................
+12 - - - - - -Forced air type with built-in fan ............................................................
+13 - - - - - -Infra-red type........................................................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Electric soil heating apparatus ...............................................................
+
+NMB
+NMB
+-
+
+-Electro-thermic hair-dressing or hand-drying apparatus:
+8516.31.00
+
+- -Hair dryers
+
+10 - - - - -Domestic hair dryers ..............................................................................
+90 - - - - -Other ......................................................................................................
+8516.32
+
+NMB
+NMB
+
+- -Other hair-dressing apparatus
+
+8516.32.10 00 - - -Curling irons
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.32.90 00 - - -Other
+
+NMB
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8516.33
+
+- -Hand-drying apparatus
+
+Issued January 1, 2025
+
+85 - 20
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8516.33.10 00 - - -Wall mounted
+
+NMB
+
+6%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.33.90 00 - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.40.00 00 -Electric smoothing irons
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.50.00 00 -Microwave ovens
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+SS
+
+Description of Goods
+
+8516.60
+
+-Other ovens; cookers, cooking plates, boiling rings, grillers and
+roasters
+
+8516.60.10
+
+- - -Bread makers;
+Indoor smokeless barbecues;
+Rice cookers
+
+10 - - - - -Bread makers .........................................................................................
+20 - - - - -Indoor smokeless barbecues..................................................................
+30 - - - - -Rice cookers...........................................................................................
+8516.60.20
+
+- - -Ovens, cooking stoves and ranges
+
+10 - - - - -Ovens, built-in.........................................................................................
+20 - - - - -Cooking stoves and ranges ....................................................................
+90 - - - - -Other ......................................................................................................
+8516.60.90
+
+NMB
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+- - -Other
+
+10 - - - - -Counter-top appliances ..........................................................................
+90 - - - - -Other ......................................................................................................
+-Other electro-thermic appliances:
+
+Issued January 1, 2025
+
+NMB
+NMB
+
+85 - 21
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8516.71.10 00 - - -Coffee makers
+
+NMB
+
+9%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8516.71.20 00 - - -Tea makers
+
+NMB
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8516.72.10 00 - - -Automatic
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.72.90 00 - - -Other
+
+NMB
+
+6%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.79.10 00 - - -Fabric steamers
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.79.90 00 - - -Other
+
+NMB
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+8516.71
+
+8516.72
+
+8516.79
+
+8516.80.00
+
+SS
+
+Description of Goods
+- -Coffee or tea makers
+
+- -Toasters
+
+- -Other
+
+-Electric heating resistors
+
+10 - - - - -Designed for cooking, of a kind used for domestic purposes.................
+90 - - - - -Other ......................................................................................................
+8516.90
+
+-
+
+-Parts
+
+Issued January 1, 2025
+
+85 - 22
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8516.90.10 00 - - -Housings for hand-drying apparatus
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.20 00 - - -Housings and steel bases for electric smoothing irons
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.30 00 - - -Assemblies for microwave ovens, incorporating at least two of the
+following: cooking chamber, space structural supporting chassis, door or
+outer case
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.40 00 - - -Printed circuit assemblies for microwave ovens
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.50 00 - - -Cooking chambers, whether or not assembled, for ovens or cookers
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.60 00 - - -Top surface panels, whether or not with heating elements or controls, for
+ovens or cookers
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.70 00 - - -Door assemblies, for ovens or cookers, incorporating at least two of the
+following: inner panel, outer panel, window or insulation
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.81 00 - - - -For automatic toasters
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8516.90.82 00 - - - -For other toasters
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+- - -Housings for toasters:
+
+Issued January 1, 2025
+
+85 - 23
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8516.90.90
+
+SS
+
+Description of Goods
+- - -Other
+
+70 - - - - -For ovens or cookers .............................................................................
+90 - - - - -Other ......................................................................................................
+85.17
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Telephone sets, including smartphones and other telephones for
+cellular networks or for other wireless networks; other apparatus for the
+transmission or reception of voice, images or other data, including
+apparatus for communication in a wired or wireless network (such as a
+local or wide area network), other than transmission or reception
+apparatus of heading 84.43, 85.25, 85.27 or 85.28.
+-Telephone sets, including smartphones and other telephones for
+cellular networks or for other wireless networks:
+
+8517.11.00
+
+- -Line telephone sets with cordless handsets
+
+10 - - - - -With answering machine ........................................................................
+20 - - - - -Without answering machine ...................................................................
+
+NMB
+NMB
+
+8517.13.00 00 - -Smartphones
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8517.14.00 00 - -Other telephones for cellular networks or for other wireless networks
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8517.18.00
+
+- -Other
+
+10 - - - - -Videophones ..........................................................................................
+- - - - -Other:
+91 - - - - - -Line telephone sets with corded handsets, with answering machine ..
+92 - - - - - -Line telephone sets with corded handsets, without answering machine
+99 - - - - - -Other ....................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+
+-Other apparatus for transmission or reception of voice, images or other
+data, including apparatus for communication in a wired or wireless
+network (such as a local or wide area network):
+
+Issued January 1, 2025
+
+85 - 24
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8517.61.00 00 - -Base stations
+
+8517.62.00
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+- -Machines for the reception, conversion and transmission or
+regeneration of voice, images or other data, including switching and
+routing apparatus
+
+30 - - - - -Modems, including facsimile modems, of a kind used with data
+processing machines of heading 84.71 ..................................................
+40 - - - - -Other modems........................................................................................
+90 - - - - -Other ......................................................................................................
+8517.69.00
+
+Unit of
+Meas.
+
+NMB
+NMB
+-
+
+- -Other
+
+10 - - - - -Facsimile apparatus;Other telephonic or telegraphic apparatus ............
+20 - - - - -Receivers for calling, alerting or paging .................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+-Parts:
+8517.71.00 00 - -Aerials and aerial reflectors of all kinds; parts suitable for use
+therewith
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8517.79.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+85.18
+
+Microphones and stands therefor; loudspeakers, whether or not
+mounted in their enclosures; headphones and earphones, whether or
+not combined with a microphone, and sets consisting of a microphone
+and one or more loudspeakers; audio-frequency electric amplifiers;
+electric sound amplifier sets.
+
+8518.10.00 00 -Microphones and stands therefor
+
+-Loudspeakers, whether or not mounted in their enclosures:
+
+Issued January 1, 2025
+
+85 - 25
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8518.21.00 00 - -Single loudspeakers, mounted in their enclosures
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8518.22.00 00 - -Multiple loudspeakers, mounted in the same enclosure
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8518.29.00 00 - -Other
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+8518.30
+
+SS
+
+Description of Goods
+
+-Headphones and earphones, whether or not combined with a
+microphone, and sets consisting of a microphone and one or more
+loudspeakers
+
+8518.30.10 00 - - -Telephone handsets
+
+8518.30.90
+
+- - -Other
+
+10 - - - - -Headphones, including earphones, and telephone headsets ................
+90 - - - - -Other ......................................................................................................
+8518.40.00 00 -Audio-frequency electric amplifiers
+
+8518.50.00 00 -Electric sound amplifier sets
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 26
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8519.20.10 00 - - -Coin- or token-operated record-players
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8519.20.90 00 - - -Other
+
+NMB
+
+5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8519.30.10 00 - - -With automatic record changing mechanism
+
+NMB
+
+3.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8519.30.90 00 - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8519.81.00 00 - -Using magnetic, optical or semiconductor media
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8519.89.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8518.90.00 00 -Parts
+
+85.19
+
+Sound recording or reproducing apparatus.
+
+8519.20
+
+-Apparatus operated by coins, banknotes, bank cards, tokens or by
+other means of payment
+
+8519.30
+
+-Turntables (record-decks)
+
+-Other apparatus:
+
+85.21
+
+Video recording or reproducing apparatus, whether or not incorporating
+a video tuner.
+
+Issued January 1, 2025
+
+85 - 27
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8522.90.10 00 - - -Printed circuit assemblies
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8522.90.90 00 - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8523.21.10 00 - - -Cards incorporating an unrecorded magnetic stripe
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8523.21.20 00 - - -Cards incorporating a recorded magnetic stripe
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8521.10.00 00 -Magnetic tape-type
+
+8521.90.00
+
+-Other
+
+10 - - - - -Laser video disc players.........................................................................
+90 - - - - -Other ......................................................................................................
+85.22
+
+Parts and accessories suitable for use solely or principally with the
+apparatus of heading 85.19 or 85.21.
+
+8522.10.00 00 -Pick-up cartridges
+
+8522.90
+
+85.23
+
+NMB
+NMB
+
+-Other
+
+Discs, tapes, solid-state non-volatile storage devices, "smart cards" and
+other media for the recording of sound or of other phenomena, whether
+or not recorded, including matrices and masters for the production of
+discs, but excluding products of Chapter 37.
+-Magnetic media:
+
+8523.21
+
+- -Cards incorporating a magnetic stripe
+
+Issued January 1, 2025
+
+85 - 28
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8523.59.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8523.80.00 00 -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8523.29.00 00 - -Other
+
+-Optical media:
+8523.41.00 00 - -Unrecorded
+
+8523.49.00
+
+- -Other
+
+- - - - -Recorded discs, for laser reading systems, for reproducing phenomena
+other than sound or image:
+11 - - - - - -Prepackaged software, for automatic data processing machines, of a
+kind sold at retail ..................................................................................
+12 - - - - - -Customized software............................................................................
+18 - - - - - -Other software......................................................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Semiconductor media:
+8523.51.00 00 - -Solid-state non-volatile storage devices
+
+8523.52.00 00 - -"Smart cards"
+
+Issued January 1, 2025
+
+85 - 29
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8524.11.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+8524.11.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.11.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8524.12.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+8524.12.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.12.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+Tariff
+Item
+85.24
+
+SS
+
+Description of Goods
+Flat panel display modules, whether or not incorporating touchsensitive screens.
+-Without drivers or control circuits:
+
+8524.11
+
+8524.12
+
+8524.19
+
+- -Of liquid crystals
+
+- -Of organic light-emitting diodes (OLED)
+
+- -Other
+
+Issued January 1, 2025
+
+85 - 30
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8524.19.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+8524.19.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.19.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8524.91.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+8524.91.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.91.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+SS
+
+Description of Goods
+
+-Other:
+8524.91
+
+8524.92
+
+- -Of liquid crystals
+
+- -Of organic light-emitting diodes (OLED)
+
+8524.92.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+Issued January 1, 2025
+
+85 - 31
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8524.92.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.92.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8524.99.10 00 - - -For motor vehicles of headings 87.01 to 87.05
+
+-
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 6%
+
+8524.99.20 00 - - -Replacement parts other than those used in goods of tariff item No.
+8509.40.90 or 8509.80.90
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8524.99.90 00 - - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+8524.99
+
+SS
+
+Description of Goods
+
+- -Other
+
+85.25
+
+Transmission apparatus for radio-broadcasting or television, whether or
+not incorporating reception apparatus or sound recording or
+reproducing apparatus; television cameras, digital cameras and video
+camera recorders.
+
+8525.50.00
+
+-Transmission apparatus
+
+10 - - - - -For television ..........................................................................................
+30 - - - - -For aircraft ..............................................................................................
+90 - - - - -Other ......................................................................................................
+8525.60.00
+
+NMB
+NMB
+
+-Transmission apparatus incorporating reception apparatus
+
+40 - - - - -For aircraft ..............................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 32
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8525.81.00 00 - -High-speed goods as specified in Subheading Note 1 to this Chapter
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8525.82.00 00 - -Other, radiation-hardened or radiation-tolerant goods as specified in
+Subheading Note 2 to this Chapter
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8525.83.00 00 - -Other, night vision goods as specified in Subheading Note 3 to this
+Chapter
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+-Television cameras, digital cameras and video camera recorders:
+
+8525.89.00
+
+- -Other
+
+10 - - - - -Television cameras.................................................................................
+20 - - - - -Digital cameras and video camera recorders .........................................
+85.26
+
+Radar apparatus, radio navigational aid apparatus and radio remote
+control apparatus.
+
+8526.10.00
+
+-Radar apparatus
+
+10 - - - - -For aircraft ..............................................................................................
+20 - - - - -For boats or ships...................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+-Other:
+8526.91.00
+
+- -Radio navigational aid apparatus
+
+20 - - - - -For aircraft ..............................................................................................
+80 - - - - -Other, reception only ..............................................................................
+90 - - - - -Other ......................................................................................................
+8526.92.00
+
+- -Radio remote control apparatus
+
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+
+85 - 33
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Radio remote control apparatus, for use on amateur bands for hobby
+purposes or domestic audio/video equipment........................................
+90 - - - - -Other ......................................................................................................
+85.27
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Reception apparatus for radio-broadcasting, whether or not combined,
+in the same housing, with sound recording or reproducing apparatus or
+a clock.
+-Radio-broadcast receivers capable of operating without an external
+source of power:
+
+8527.12.00 00 - -Pocket-size radio cassette-players
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.13.00 00 - -Other apparatus combined with sound recording or reproducing
+apparatus
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.19.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.21.00 00 - -Combined with sound recording or reproducing apparatus
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.29.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.91.00 00 - -Combined with sound recording or reproducing apparatus
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8527.92.00 00 - -Not combined with sound recording or reproducing apparatus but
+combined with a clock
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Radio-broadcast receivers not capable of operating without an external
+source of power, of a kind used in motor vehicles:
+
+-Other:
+
+Issued January 1, 2025
+
+85 - 34
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.42.00 00 - -Capable of directly connecting to and designed for use with an
+automatic data processing machine of heading 84.71
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.49.00 00 - -Other
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.59.11 00 - - - -High definition
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.59.19 00 - - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8527.99.00 00 - -Other
+
+85.28
+
+Monitors and projectors, not incorporating television reception
+apparatus; reception apparatus for television, whether or not
+incorporating radio-broadcast receivers or sound or video recording or
+reproducing apparatus.
+-Cathode-ray tube monitors:
+
+-Other monitors:
+8528.52.00 00 - -Capable of directly connecting to and designed for use with an
+automatic data processing machine of heading 84.71
+
+8528.59
+
+- -Other
+- - -For use in the manufacture of lightwave transmission systems:
+
+Issued January 1, 2025
+
+85 - 35
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8528.59.20 00 - - -Black and white or other monochrome
+
+NMB
+
+6%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.59.30 00 - - -Incomplete or unfinished colour monitors, including assemblies for
+monitors consisting of video intermeidate (IF) amplifying and detecting
+systems, video processing and amplification systems, synchronizing and
+deflection circuitry and audio detection and amplification systems plus a
+power supply, but not incorporating a flat panel screen or similar
+display;Other, having a single picture tube intended for direct viewing
+(non-projection type);Other, with flat panel screen
+
+NMB
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.59.90 00 - - -Other
+
+NMB
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.69.11 00 - - - -Capable of being used with both automatic data processing machines of
+heading 84.71 and with apparatus which emits television signals
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.69.19 00 - - - -Other
+
+NMB
+
+6%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.69.20 00 - - -Incomplete or unfinished colour pojectors, including assemblies for
+projectors consisting of video intermediate (IF) amplifying and detecting
+systems, video processing and amplification systems, synchronizing and
+deflection circuitry and audio detection and amplification systems plus a
+power supply, but not incorporating a cathode-ray tube, flat panel screen
+or similar display;
+Colour, other
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Projectors:
+8528.62.00 00 - -Capable of directly connecting to and designed for use with an
+automatic data processing machine of heading 84.71
+
+8528.69
+
+- -Other
+- - -Colour, with flat panel screen:
+
+Issued January 1, 2025
+
+85 - 36
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8528.69.30 00 - - -Black and white or other monochrome
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+-Reception apparatus for television, whether or not incorporating radiobroadcast receivers or sound or video recording or reproducing
+apparatus:
+8528.71.00
+
+- -Not designed to incorporate a video display or screen
+
+10 - - - - -Set-top boxes which have a communication function: a microprocessorbased device incorporating a model for gaining access to the Internet,
+and having a function of interactive information exchange ....................
+90 - - - - -Other ......................................................................................................
+8528.72
+
+NMB
+NMB
+
+- -Other, colour
+
+8528.72.10 00 - - -Set-top boxes which have a communication function: a microprocessorbased device incorporating a modem for gaining access to the Internet,
+and having a function of interactive information exchange
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.72.20 00 - - -Incomplete or unfinished television receivers, including assemblies for
+television receivers consisting of video intermediate (IF) amplifying and
+detecting systems, video processing and amplification systems,
+synchronizing and deflection circuitry, tuners and tuner control systems,
+and audio detection and amplification systems plus a power supply, but
+not incorporating a cathode-ray tube, flat panel screen or similar display
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.72.31 00 - - - -Projection type, with cathode-ray tube
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.72.32 00 - - - -Non-projection type, with cathode-ray tube
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+- - -High definition:
+
+Issued January 1, 2025
+
+85 - 37
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8528.72.33 00 - - - -Other, with flat panel screen
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.72.34 00 - - - -Other, for use in the manufacture of lightwave transmission systems
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.72.39 00 - - - -Other
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 5%
+
+8528.72.91 00 - - - -Having a single picture tube intended for direct viewing (non-projection
+type), with a video display diagonal not exceeding 35.56 cm
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.72.92 00 - - - -Combined in the same housing with video recording or reproducing
+apparatus (video cassette recorders/players), having a single picture
+tube intended for direct viewing (non-projection type), with a video
+display diagonal exceeding 35.56 cm
+
+NMB
+
+5.5%
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.72.93 00 - - - -Other non-projection type having a single picture tube intended for direct
+viewing, with a video display diagonal exceeding 35.56 cm but less than
+66.04 cm
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8528.72.94 00 - - - -Other non-projection type having a single picture tube intended for direct
+viewing, with a video display diagonal of 66.04 cm or more
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+- - -Other:
+
+Issued January 1, 2025
+
+85 - 38
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8528.72.95 00 - - - -Projection type, with cathode-ray tube
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.72.96 00 - - - -Other, with flat panel screen
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 3%
+
+8528.72.97 00 - - - -Other, for use in the manufacture of lightwave transmission systems
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.72.99 00 - - - -Other
+
+NMB
+
+5%
+
+AUT, NZT, CCCT, LDCT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+GPT: 5%
+
+8528.73.10 00 - - -Domestic television receivers
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.73.90 00 - - -Other
+
+NMB
+
+6%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8528.73
+
+SS
+
+Description of Goods
+
+- -Other, monochrome
+
+85.29
+
+Parts suitable for use solely or principally with the apparatus of
+headings 85.24 to 85.28.
+
+8529.10.00
+
+-Aerials and aerial reflectors of all kinds; parts suitable for use therewith
+
+10 - - - - -Radio ......................................................................................................
+20 - - - - -Television ...............................................................................................
+30 - - - - -Radar, radio navigational aid and radio remote control..........................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+-
+
+85 - 39
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8529.90.10 00 - - -Printed circuit assemblies
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.20 00 - - -Transceiver assemblies for the goods of subheading 8526.10, not
+elsewhere specified or included
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.31 00 - - - -Combinations of parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.39 00 - - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.50 00 - - -Parts, including face plates and lock latches, for printed circuit assemblies
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.60 00 - - -Other parts of goods of heading 85.25 or 85.27, excluding parts of cellular
+telephones
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8529.90.90 00 - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+8529.90
+
+SS
+
+Description of Goods
+-Other
+
+- - -The following parts of television receivers (including video monitors and
+video projectors): video intermediate (IF) amplifying and detecting
+systems; video processing and amplification systems; synchronizing and
+deflection circuitry; tuners and tuner control systems; and audio detection
+and amplification systems:
+
+85.30
+
+Electrical signalling, safety or traffic control equipment for railways,
+tramways, roads, inland waterways, parking facilities, port installations
+or airfields (other than those of heading 86.08).
+
+Issued January 1, 2025
+
+85 - 40
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8530.80.10 00 - - -For use in the manufacture, maintenance or repair of buoys for the
+Government of Canada
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8530.80.90 00 - - -Other
+
+-
+
+6.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8530.10.00 00 -Equipment for railways or tramways
+
+8530.80
+
+8530.90.00
+
+-Other equipment
+
+-Parts
+
+10 - - - - -Of equipment for railways or tramways ..................................................
+90 - - - - -Other ......................................................................................................
+85.31
+
+Electric sound or visual signalling apparatus (for example, bells, sirens,
+indicator panels, burglar or fire alarms), other than those of
+heading 85.12 or 85.30.
+
+8531.10
+
+-Burglar or fire alarms and similar apparatus
+
+8531.10.10
+
+- - -Indicating or automatic alarm equipment for detecting or indicating noxious
+gases or noxious vapours in the atmosphere;
+Smoke detectors
+
+10 - - - - -Battery-operated.....................................................................................
+90 - - - - -Other ......................................................................................................
+8531.10.90
+
+NMB
+NMB
+
+- - -Other
+
+10 - - - - -Burglar alarms ........................................................................................
+90 - - - - -Other ......................................................................................................
+8531.20.00
+
+-
+
+NMB
+NMB
+
+-Indicator panels incorporating liquid crystal devices (LCD) or lightemitting diodes (LED)
+
+10 - - - - -Incorporating LCD's................................................................................
+
+Issued January 1, 2025
+
+-
+
+85 - 41
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+90 - - - - -Other ......................................................................................................
+8531.80.00
+
+85.32
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+-Parts
+
+10 - - - - -Of smoke detectors; Of indicating or automatic alarm equipment, for
+detecting or indicating noxious gases or noxious vapours in the
+atmosphere ............................................................................................
+90 - - - - -Other ......................................................................................................
+
+MFN
+Tariff
+
+-
+
+-Other apparatus
+
+10 - - - - -Indicating or automatic alarm equipment for detecting or indicating
+noxious gases or noxious vapours in the atmosphere ...........................
+90 - - - - -Other ......................................................................................................
+8531.90.00
+
+Unit of
+Meas.
+
+-
+
+Electrical capacitors, fixed, variable or adjustable (pre-set).
+
+8532.10.00 00 -Fixed capacitors designed for use in 50/60 Hz circuits and having a
+reactive power handling capacity of not less than 0.5 kvar (power
+capacitors)
+
+-
+
+-Other fixed capacitors:
+8532.21.00
+
+- -Tantalum
+
+10 - - - - -Designed for surface mounting, chips ....................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+8532.22.00 00 - -Aluminum electrolytic
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8532.23.00 00 - -Ceramic dielectric, single layer
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8532.24.00
+
+- -Ceramic dielectric, multilayer
+
+10 - - - - -Chips ......................................................................................................
+
+NMB
+
+Issued January 1, 2025
+
+85 - 42
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+90 - - - - -Other ......................................................................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+8532.25.00 00 - -Dielectric of paper or plastics
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8532.29.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8532.30.00 00 -Variable or adjustable (pre-set) capacitors
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8532.90.00 00 -Parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8533.21.00 00 - -For a power handling capacity not exceeding 20 W
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8533.29.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+85.33
+
+Electrical resistors (including rheostats and potentiometers), other than
+heating resistors.
+
+8533.10.00 00 -Fixed carbon resistors, composition or film types
+
+-Other fixed resistors:
+
+-Wirewound variable resistors, including rheostats and potentiometers:
+8533.31.00 00 - -For a power handling capacity not exceeding 20 W
+
+Issued January 1, 2025
+
+85 - 43
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8533.39.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8533.40.00 00 -Other variable resistors, including rheostats and potentiometers
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8533.90.10 00 - - -Of ceramic or metallic materials, electrically or mechanically reactive to
+changes in temperature, for the goods of tariff item No. 8533.40.00
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8533.90.90 00 - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+8533.90
+
+8534.00.00
+
+SS
+
+Description of Goods
+
+-Parts
+
+Printed circuits.
+
+- - - - -Plastic impregnated, not flexible type:
+11 - - - - - -Having a glass base, with 3 or more layers of conducting materials ...
+12 - - - - - -Having a glass base, with less than 3 layers of conducting materials .
+19 - - - - - -Other ....................................................................................................
+- - - - -Other:
+92 - - - - - -Having a ceramic base ........................................................................
+99 - - - - - -Other ....................................................................................................
+85.35
+
+Electrical apparatus for switching or protecting electrical circuits, or for
+making connections to or in electrical circuits (for example, switches,
+fuses, lightning arresters, voltage limiters, surge suppressors, plugs
+and other connectors, junction boxes), for a voltage exceeding 1,000
+volts.
+
+8535.10.00
+
+-Fuses
+
+10 - - - - -For a voltage exceeding 1,000 volts, to be employed in mining,
+recovering and producing crude oil from shales, oil-sands or tar-sands
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-
+
+-Automatic circuit breakers:
+
+Issued January 1, 2025
+
+85 - 44
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8535.21.00 00 - -For a voltage of less than 72.5 kV
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8535.29.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8535.30.00
+
+SS
+
+Description of Goods
+
+-Isolating switches and make-and-break switches
+
+10 - - - - -Knife .......................................................................................................
+90 - - - - -Other ......................................................................................................
+8535.40.00 00 -Lightning arresters, voltage limiters and surge suppressors
+
+8535.90
+
+-Other
+
+8535.90.30 00 - - -Motor starters and motor overload protectors
+
+8535.90.90
+
+- - -Other
+
+10 - - - - -Terminals, electrical splices and electrical couplings .............................
+20 - - - - -Other connectors ....................................................................................
+90 - - - - -Other ......................................................................................................
+85.36
+
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+Electrical apparatus for switching or protecting electrical circuits, or for
+making connections to or in electrical circuits (for example, switches,
+relays, fuses, surge suppressors, plugs, sockets, lamp-holders and
+other connectors, junction boxes), for a voltage not exceeding 1,000
+volts; connectors for optical fibres, optical fibre bundles or cables.
+
+8536.10.00 00 -Fuses
+
+Issued January 1, 2025
+
+-
+
+85 - 45
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8536.20.00
+
+SS
+
+Description of Goods
+-Automatic circuit breakers
+
+10 - - - - -With molded case...................................................................................
+90 - - - - -Other ......................................................................................................
+8536.30
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+
+-Other apparatus for protecting electric circuits
+
+8536.30.10 00 - - -Overloads for use in the manufacture of air conditioning machines
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8536.30.20 00 - - -Overload motor protectors excluding those for use in the manufacture of
+air conditioning machines
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8536.30.90
+
+- - -Other
+
+10 - - - - -Overloads...............................................................................................
+90 - - - - -Other ......................................................................................................
+
+-
+
+-Relays:
+8536.41.00
+
+- -For a voltage not exceeding 60 V
+
+- - - - -With contacts rated at less than 10 A:
+11 - - - - - -Electro-mechanical ..............................................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Automotive signalling flashers................................................................
+- - - - -Other:
+91 - - - - - -Contactors............................................................................................
+92 - - - - - -Electro-mechanical ..............................................................................
+99 - - - - - -Other ....................................................................................................
+8536.49.00
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+- -Other
+
+10 - - - - -Electro-mechanical, with contacts rated at less than 10 A .....................
+20 - - - - -Other, with contacts rated at less than 10 A ..........................................
+30 - - - - -Contactors..............................................................................................
+40 - - - - -Other, electro-mechanical ......................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 46
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8536.50
+
+SS
+
+Description of Goods
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+2.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Other switches
+
+8536.50.10 00 - - -Motor starters
+
+8536.50.90
+
+Unit of
+Meas.
+
+- - -Other
+
+- - - - -Push-button:
+11 - - - - - -For use with machinery or equipment ..................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -High pressure and float, except for dishwashers....................................
+30 - - - - -Rotary .....................................................................................................
+40 - - - - -Snap-action, other than limit...................................................................
+50 - - - - -Knife .......................................................................................................
+60 - - - - -Limit ........................................................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+NMB
+
+-Lamp-holders, plugs and sockets:
+8536.61.00 00 - -Lamp-holders
+
+8536.69.00
+
+- -Other
+
+10 - - - - -For co-axial cables .................................................................................
+20 - - - - -For printed circuits ..................................................................................
+30 - - - - -Cylindrical multi-contact connectors .......................................................
+40 - - - - -Rack and panel connectors ....................................................................
+90 - - - - -Other ......................................................................................................
+8536.70.00 00 -Connectors for optical fibres, optical fibre bundles or cables
+
+8536.90.00
+
+-
+
+-Other apparatus
+
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+NMB
+-
+
+85 - 47
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Junction boxes .......................................................................................
+20 - - - - -Terminals, electrical splices and electrical couplings .............................
+90 - - - - -Other ......................................................................................................
+85.37
+
+Boards, panels, consoles, desks, cabinets and other bases, equipped
+with two or more apparatus of heading 85.35 or 85.36, for electric control
+or the distribution of electricity, including those incorporating
+instruments or apparatus of Chapter 90, and numerical control
+apparatus, other than switching apparatus of heading 85.17.
+
+8537.10
+
+-For a voltage not exceeding 1,000 V
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+- - -Numerical control panels with built-in automatic data processing
+machines:
+8537.10.11 00 - - - -Assembled with outer housings or supports, for the goods of
+heading 84.21, 84.22, 84.28, 84.50 or 85.16
+
+8537.10.19
+
+NMB
+
+- - - -Other
+
+10 - - - - -For use with machinery or equipment ....................................................
+90 - - - - -Other ......................................................................................................
+
+-
+
+- - -Motor control centres:
+8537.10.21 00 - - - -For automotive use
+
+8537.10.29
+
+NMB
+
+- - - -Other
+
+10 - - - - -For use with machinery or equipment ....................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+- - -Other, for use with machinery or equipment:
+8537.10.31 00 - - - -Automated industrial control systems, excluding panels for anode
+formers
+
+NMB
+
+Issued January 1, 2025
+
+85 - 48
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8537.10.39
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+- - - -Other
+
+10 - - - - -Assembled with outer housings or supports, for the goods of heading
+84.21, 84.22, 84.50 or 85.16 ..................................................................
+- - - - -Other:
+91 - - - - - -Panel boards and distribution boards...................................................
+92 - - - - - -Programmable controllers ....................................................................
+99 - - - - - -Other ....................................................................................................
+
+NMB
+NMB
+NMB
+
+- - -Other:
+8537.10.91 00 - - - -Assembled with outer housings or supports, for the goods of
+heading 84.21, 84.22, 84.50 or 85.16
+
+8537.10.93 00 - - - -Panel boards and distribution boards
+
+8537.10.99
+
+- - - -Other
+
+20 - - - - -Programmable controllers ......................................................................
+30 - - - - -Metal clad industrial switchgear, excluding flameproof electric
+switchgear to be employed in mines in which inflammable gases exist .
+90 - - - - -Other ......................................................................................................
+8537.20.00
+
+-
+
+Parts suitable for use solely or principally with the apparatus of
+heading 85.35, 85.36 or 85.37.
+
+8538.10.00 00 -Boards, panels, consoles, desks, cabinets and other bases for the
+goods of heading 85.37, not equipped with their apparatus
+
+8538.90
+
+NMB
+
+-For a voltage exceeding 1,000 V
+
+10 - - - - -Switchgear assemblies and switchboards..............................................
+90 - - - - -Other ......................................................................................................
+85.38
+
+NMB
+
+-Other
+
+Issued January 1, 2025
+
+-
+
+85 - 49
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8538.90.10 00 - - -Of ceramic or metallic materials, electrically or mechanically reactive to
+changes in temperature, for motor starters and overload protectors
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8538.90.20 00 - - -Printed circuit assemblies
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8538.90.31 00 - - - -For use in the manufacture of relays, microwave, passive infrared, or
+combination microwave/passive infrared, for a voltage not exceeding
+60 V
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8538.90.39 00 - - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 6%
+
+2%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+- - -Moulded parts:
+
+8538.90.90
+
+- - -Other
+
+10 - - - - -Of automatic circuit breakers .................................................................
+20 - - - - -Metal contacts ........................................................................................
+30 - - - - -Other parts of switchgear, switchboards, panel boards and distribution
+boards ....................................................................................................
+90 - - - - -Other ......................................................................................................
+85.39
+
+Electric filament or discharge lamps, including sealed beam lamp units
+and ultra-violet or infra-red lamps; arc-lamps, light-emitting diode (LED)
+light sources.
+
+8539.10
+
+-Sealed beam lamp units
+
+8539.10.10
+
+- - -For use in motor vehicles of Chapter 87
+
+10 - - - - -Of a dimension less than 15.24 cm ........................................................
+20 - - - - -Of a dimension 15.24 cm or more ..........................................................
+8539.10.90
+
+- - -Other
+
+-
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 50
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+10 - - - - -Of a dimension less than 15.24 cm ........................................................
+20 - - - - -Of a dimension 15.24 cm or more ..........................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+8%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+NMB
+
+-Other filament lamps, excluding ultra-violet or infra-red lamps:
+8539.21.00
+
+- -Tungsten halogen
+
+10 - - - - -For a voltage not exceeding 100 V.........................................................
+20 - - - - -For a voltage exceeding 100 V...............................................................
+8539.22
+
+- -Other, of a power not exceeding 200 W and for a voltage exceeding
+100 V
+
+8539.22.10 00 - - -For use in the manufacture of Christmas lighting sets or patio lighting sets
+
+8539.22.90
+
+NMB
+
+- - -Other
+
+10 - - - - -Standard household, of a power of 40 to 100 watts ...............................
+90 - - - - -Other ......................................................................................................
+8539.29
+
+NMB
+NMB
+
+NMB
+NMB
+
+- -Other
+
+8539.29.10 00 - - -Xenon filament lamps
+
+- - -Other:
+8539.29.91 00 - - - -For a voltage exceeding 31 V
+
+8539.29.99
+
+- - - -Other
+
+10 - - - - -For use with the motor vehicles of Chapter 87 .......................................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+NMB
+NMB
+
+85 - 51
+CUSTOMS TARIFF - SCHEDULE
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+7%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+7.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.41.10 00 - - -For use in measuring, checking or testing instruments of Chapter 90, or for
+use in electrically operated apparatus for indicating intervals of time;
+Hollow-cathode lamps, for use in instruments and apparatus for
+measuring or detecting noxious gases;
+Xenon arc-lamps
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.41.90 00 - - -Other
+
+NMB
+
+7.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+-Discharge lamps, other than ultra-violet lamps:
+8539.31.00
+
+- -Fluorescent, hot cathode
+
+20 - - - - -Single-end connection tubes, including compact ...................................
+90 - - - - -Other ......................................................................................................
+8539.32
+
+- -Mercury or sodium vapour lamps; metal halide lamps
+
+8539.32.10 00 - - -For use in measuring, checking or testing instruments of Chapter 90, or for
+use in electrically operated apparatus for indicating intervals of time;
+High pressure (190-200 atmospheres), 100W to 300W mercury discharge
+lamps with arc gaps from 1.0mm to 1.3mm, mounted within a parabolic or
+elliptical dichroic glass reflector, and with a luminious efficiency of
+60 (+/- 5) lumens per watt, for use in Canadian manufactures
+8539.32.90
+
+NMB
+NMB
+
+NMB
+
+- - -Other
+
+10 - - - - -Mercury vapour ......................................................................................
+20 - - - - -Sodium vapour .......................................................................................
+30 - - - - -Metal halide ............................................................................................
+8539.39.00 00 - -Other
+
+NMB
+NMB
+NMB
+
+-Ultra-violet or infra-red lamps; arc-lamps:
+8539.41
+
+8539.49
+
+- -Arc-lamps
+
+- -Other
+
+Issued January 1, 2025
+
+85 - 52
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8539.49.10 00 - - -For use in measuring, checking or testing instruments of Chapter 90, or for
+use in electrically operated apparatus for indicating intervals of time;
+Ultra violet hollow-cathode lamps, for use in instruments and apparatus for
+measuring or detecting noxious gases;
+Ultra violet lamps designed for detecting scheelite ore
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.49.90 00 - - -Other
+
+NMB
+
+7.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+8539.51.10 00 - - -To be incorporated into goods of Chapter 85 or 94
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.51.90 00 - - -Other
+
+-
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.90.10 00 - - -Filaments, cathodes or electrodes, for use in the manufacture of electric
+lamps;
+Of the goods of tariff item No. 8539.10.90, 8539.22.10, 8539.29.10,
+8539.32.10, 8539.39.00, 8539.41.10, 8539.49.10, 8543.90.00 or
+9405.99.00
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8539.90.90 00 - - -Other
+
+-
+
+6%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 5%
+
+SS
+
+Description of Goods
+
+-Light-emitting diode (LED) light sources:
+8539.51
+
+- -Light-emitting diode (LED) modules
+
+8539.52.00 00 - -Light-emitting diode (LED) lamps
+
+8539.90
+
+85.40
+
+-Parts
+
+Thermionic, cold cathode or photo-cathode valves and tubes (for
+example, vacuum or vapour or gas filled valves and tubes, mercury arc
+rectifying valves and tubes, cathode-ray tubes, television camera
+tubes).
+
+Issued January 1, 2025
+
+85 - 53
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8540.11.11 00 - - - -With a video display diagonal not exceeding 35.56 cm
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.11.12 00 - - - -With a video display diagonal exceeding 35.56 cm
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.11.21 00 - - - -With a video display diagonal not exceeding 35.56 cm
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.11.22 00 - - - -With a video display diagonal exceeding 35.56 cm
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.11.90 00 - - -Other
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+-Cathode-ray television picture tubes, including video monitor cathoderay tubes:
+
+8540.11
+
+- -Colour
+- - -High definition:
+
+- - -Other, for non-projection television receivers:
+
+8540.12
+
+- -Monochrome
+- - -High definition:
+
+8540.12.11 00 - - - -For use in the manufacture of video monitors;
+For use in the manufacture of high definition colour television receivers,
+projection type
+
+Issued January 1, 2025
+
+85 - 54
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.12.91 00 - - - -For use in the manufacture of video monitors;
+For use in the manufacture of other colour television receivers, projection
+type
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.12.99 00 - - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.20.00 00 -Television camera tubes; image converters and intensifiers; other
+photo-cathode tubes
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.40.00 00 -Data/graphic display tubes, monochrome; data/graphic display tubes,
+colour, with a phosphor dot screen pitch smaller than 0.4 mm
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.60.00 00 -Other cathode-ray tubes
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.71.00 00 - -Magnetrons
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.79.00 00 - -Other
+
+NMB
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+8540.12.19 00 - - - -Other
+
+- - -Other:
+
+-Microwave tubes (for example, magnetrons, klystrons, travelling wave
+tubes, carcinotrons), excluding grid-controlled tubes:
+
+-Other valves and tubes:
+
+Issued January 1, 2025
+
+85 - 55
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8540.81.00 00 - -Receiver or amplifier valves and tubes
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.89.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.91.10 00 - - -Front panel assemblies as follows:
+(a) with respect to colour cathode-ray television picture tube, an assembly
+that consists of a glass panel to which a shadow mask or aperture grill is
+attached for ultimate use, that is suitable for incorporation into a colour
+cathode-ray television picture tube (including a video monitor or video
+projector cathode-ray tube) and that has undergone the necessary
+chemical and physical processes for imprinting phosphors on the glass
+panel with sufficient precision to render a video image when excited by a
+stream of electrons; or
+(b) with respect to a monochrome cathode-ray television picture tube, an
+assembly that consists of either a glass panel or a glass envelope, that is
+suitable for incorporation into a monochrome cathode-ray television picture
+tube (including a video monitor or video projector cathode-ray tube) and
+that has undergone the necessary chemical and physical processes for
+imprinting phosphors on the glass panel or glass envelope with sufficient
+precision to render a video image when excited by a stream of electrons
+
+-
+
+Free
+
+CCCT, LDCT, GPT,
+UST, MXT, CIAT, CT,
+CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8540.91.90 00 - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.99.10 00 - - -Electron guns;
+Radio frequency (RF) interaction structures for microwave tubes of
+subheading 8540.71, 8540.72 or 8540.79
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8540.99.90 00 - - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+-Parts:
+8540.91
+
+8540.99
+
+- -Of cathode-ray tubes
+
+- -Other
+
+Issued January 1, 2025
+
+85 - 56
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+85.41
+
+Semiconductor devices (for example, diodes, transistors,
+semiconductor-based transducers); photosensitive semiconductor
+devices, including photovoltaic cells whether or not assembled in
+modules or made up into panels; light-emitting diodes (LED), whether or
+not assembled with other light-emitting diodes (LED); mounted piezoelectric crystals.
+
+8541.10.00
+
+-Diodes, other than photosensitive or light-emitting diodes (LED)
+
+30 - - - - -Zener ......................................................................................................
+90 - - - - -Other ......................................................................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+
+-Transistors, other than photosensitive transistors:
+8541.21.00 00 - -With a dissipation rate of less than 1 W
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.29.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.30.00 00 -Thyristors, diacs and triacs, other than photosensitive devices
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.41.00 00 - -Light-emitting diodes (LED)
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.42.00 00 - -Photovoltaic cells not assembled in modules or made up into panels
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.43.00 00 - -Photovoltaic cells assembled in modules or made up into panels
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Photosensitive semiconductor devices, including photovoltaic cells
+whether or not assembled in modules or made up into panels; lightemitting diodes (LED):
+
+Issued January 1, 2025
+
+85 - 57
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8541.49.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Other
+
+10 - - - - -Other diodes...........................................................................................
+20 - - - - -Optical coupled isolators ........................................................................
+90 - - - - -Other ......................................................................................................
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+NMB
+NMB
+
+-Other semiconductor devices:
+8541.51.00 00 - -Semiconductor-based transducers
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+8541.59.00 00 - -Other
+
+-
+
+Free
+
+AUT, NZT, CCCT, LDCT,
+GPT, UST, MXT, CIAT,
+CT, CRT, IT, NT, SLT, PT,
+COLT, JT, PAT, HNT,
+KRT, CEUT, UAT,
+CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8541.60.00
+
+-Mounted piezo-electric crystals
+
+10 - - - - -Quartz, designed for operating frequencies not exceeding 20 MHz ......
+20 - - - - -Quartz, designed for operating frequencies exceeding 20 MHz ............
+90 - - - - -Other ......................................................................................................
+8541.90.00 00 -Parts
+
+85.42
+
+NMB
+NMB
+NMB
+
+Electronic integrated circuits.
+-Electronic integrated circuits:
+
+8542.31.00 00 - -Processors and controllers, whether or not combined with memories,
+converters, logic circuits, amplifiers, clock and timing circuits, or
+other circuits
+
+8542.32.00
+
+- -Memories
+
+20 - - - - -Dynamic read-write random access memory (DRAM) ...........................
+30 - - - - -Static read-write random access memory (SRAM) ................................
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+85 - 58
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+40 - - - - -Electrically erasable programmable read only memory (EEPROM).......
+50 - - - - -Other erasable programmable read only memory (EPROM) .................
+90 - - - - -Other ......................................................................................................
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+NMB
+NMB
+
+8542.33.00 00 - -Amplifiers
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8542.39.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8542.90.00 00 -Parts
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8543.10.00 00 -Particle accelerators
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8543.20.00 00 -Signal generators
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8543.30.00 00 -Machines and apparatus for electroplating, electrolysis or
+electrophoresis
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+85.43
+
+8543.40.00
+
+Electrical machines and apparatus, having individual functions, not
+specified or included elsewhere in this Chapter.
+
+-Electronic cigarettes and similar personal electric vaporizing devices
+
+10 - - - - -With substances containing nicotine ......................................................
+90 - - - - -Other ......................................................................................................
+8543.70.00 00 -Other machines and apparatus
+
+Issued January 1, 2025
+
+NMB
+NMB
+-
+
+85 - 59
+CUSTOMS TARIFF - SCHEDULE
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8544.20.00 00 -Co-axial cable and other co-axial electric conductors
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8544.30.00 00 -Ignition wiring sets and other wiring sets of a kind used in vehicles,
+aircraft or ships
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8543.90.00 00 -Parts
+
+85.44
+
+Insulated (including enamelled or anodized) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not
+fitted with connectors; optical fibre cables, made up of individually
+sheathed fibres, whether or not assembled with electric conductors or
+fitted with connectors.
+-Winding wire:
+
+8544.11.00
+
+- -Of copper
+
+10 - - - - -Of a diameter not exceeding 0.18 mm (33 AWG) ..................................
+20 - - - - -Of a diameter exceeding 0.18 mm (33 AWG) but not exceeding 0.64
+mm (22 AWG) ........................................................................................
+30 - - - - -Of a diameter exceeding 0.64 mm (22 AWG) ........................................
+8544.19.00 00 - -Other
+
+KGM
+KGM
+KGM
+
+-Other electric conductors, for a voltage not exceeding 1,000 V:
+8544.42.00
+
+- -Fitted with connectors
+
+10 - - - - -USB type cable, for a voltage not exceeding 5 V ...................................
+90 - - - - -Other ......................................................................................................
+8544.49.00
+
+- -Other
+
+NMB
+-
+
+Issued January 1, 2025
+
+85 - 60
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+- - - - -Of copper:
+11 - - - - - -For a voltage exceeding 600 V.............................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+8544.60.00
+
+8544.70.00 00 -Optical fibre cables
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+KGM
+KGM
+
+-Other electric conductors, for a voltage exceeding 1,000 V
+
+- - - - -Fitted with connectors:
+11 - - - - - -Of copper .............................................................................................
+19 - - - - - -Other ....................................................................................................
+- - - - -Other:
+91 - - - - - -Of copper .............................................................................................
+99 - - - - - -Other ....................................................................................................
+
+85.45
+
+Unit of
+Meas.
+
+KGM
+KGM
+KGM
+KGM
+
+MTR
+
+Carbon electrodes, carbon brushes, lamp carbons, battery carbons and
+other articles of graphite or other carbon, with or without metal, of a kind
+used for electrical purposes.
+-Electrodes:
+
+8545.11.00
+
+- -Of a kind used for furnaces
+
+- - - - -Of graphite:
+31 - - - - - -Not exceeding 88.9 cm in circumference or outside measurement .....
+32 - - - - - -Exceeding 88.9 cm in circumference or outside measurement............
+90 - - - - -Other ......................................................................................................
+
+KGM
+KGM
+KGM
+
+8545.19.00 00 - -Other
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8545.20.00 00 -Brushes
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Issued January 1, 2025
+
+85 - 61
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8545.90.00 00 -Other
+
+85.46
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+-Other
+
+10 - - - - -Of a kind used for the transmission of electrical energy ........................
+90 - - - - -Other ......................................................................................................
+85.47
+
+Applicable
+Preferential Tariffs
+
+-Of ceramics
+
+10 - - - - -Of a kind used for the transmission of electrical energy ........................
+90 - - - - -Other ......................................................................................................
+8546.90.00
+
+MFN
+Tariff
+
+Electrical insulators of any material.
+
+8546.10.00 00 -Of glass
+
+8546.20.00
+
+Unit of
+Meas.
+
+-
+
+Insulating fittings for electrical machines, appliances or equipment,
+being fittings wholly of insulating material apart from any minor
+components of metal (for example, threaded sockets) incorporated
+during moulding solely for purposes of assembly, other than insulators
+of heading 85.46; electrical conduit tubing and joints therefor, of base
+metal lined with insulating material.
+
+8547.10.00 00 -Insulating fittings of ceramics
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8547.20.00 00 -Insulating fittings of plastics
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8547.90.00
+
+-Other
+
+10 - - - - -Conduit tubing ........................................................................................
+20 - - - - -Threaded joints ......................................................................................
+30 - - - - -Other insulating fittings...........................................................................
+
+-
+
+Issued January 1, 2025
+
+85 - 62
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8549.11.00 00 - -Waste and scrap of lead-acid accumulators; spent lead-acid
+accumulators
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8549.12.00 00 - -Other, containing lead, cadmium or mercury
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8549.13.00 00 - -Sorted by chemical type and not containing lead, cadmium or mercury
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8549.14.00 00 - -Unsorted and not containing lead, cadmium or mercury
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8549.19.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+90 - - - - -Other ......................................................................................................
+8548.00.00 00 Electrical parts of machinery or apparatus, not specified or included
+elsewhere in this Chapter.
+
+85.49
+
+Unit of
+Meas.
+-
+
+Electrical and electronic waste and scrap.
+-Waste and scrap of primary cells, primary batteries and electric
+accumulators; spent primary cells, spent primary batteries and spent
+electric accumulators:
+
+-Of a kind used principally for the recovery of precious metal:
+8549.21.00 00 - -Containing primary cells, primary batteries, electric accumulators,
+mercury-switches, glass from cathode-ray tubes or other activated
+glass, or electrical or electronic components containing cadmium,
+mercury, lead or polychlorinated biphenyls (PCBs)
+
+Issued January 1, 2025
+
+85 - 63
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8549.29.00 00 - -Other
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+KGM
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-Other electrical and electronic assemblies and printed circuit boards:
+8549.31.00 00 - -Containing primary cells, primary batteries, electric accumulators,
+mercury-switches, glass from cathode-ray tubes or other activated
+glass, or electrical or electronic components containing cadmium,
+mercury, lead or polychlorinated biphenyls (PCBs)
+
+8549.39.00 00 - -Other
+
+-Other:
+8549.91.00 00 - -Containing primary cells, primary batteries, electric accumulators,
+mercury-switches, glass from cathode-ray tubes or other activated
+glass, or electrical or electronic components containing cadmium,
+mercury, lead or polychlorinated biphenyls (PCBs)
+
+8549.99.00 00 - -Other
+
+Issued January 1, 2025
+
+

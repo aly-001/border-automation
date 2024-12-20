@@ -1,0 +1,549 @@
+COMS TARIFF - SCHEDULE
+XVII - 1
+
+Section XVII
+VEHICLES, AIRCRAFT, VESSELS
+AND ASSOED TRANSPORT EQUIPME
+Notes.
+1. This Section does not cover articles of heading 95.03 or 95.08, or bobsleighs, toboggans or the like of heading 95.06.
+2. The expressions ''parts'' and ''parts and accessories'' do not apply to the following articles, whether or not they are identifiable
+as for the goods of this Section:
+(a) Joints, washers or the like of any material (classified according to their constituent material or in heading 84.84) or other
+articles of vulcanised rubber other than hard rubber (heading 40.16);
+(b) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV), or similar goods of plastics
+(Chapter 39);
+(c) Articles of Chapter 82 (tools);
+(d) Articles of heading 83.06;
+(e) Machines or apparatus of headings 84.01 to 84.79, or parts thereof, other than the radiators for the articles of this Section;
+articles of heading 84.81 or 84.82 or, provided they constitute integral parts of engines or motors, articles of heading
+84.83;
+(f) Electrical machinery or equipment (Chapter 85);
+(g) Articles of Chapter 90;
+(h) Articles of Chapter 91;
+(ij) Arms (Chapter 93);
+(k) Luminaires and lighting fittings and parts thereof of heading 94.05; or
+(l) Brushes of a kind used as parts of vehicles (heading 96.03).
+3. References in Chapters 86 to 88 to ''parts'' or ''accessories'' do not apply to parts or accessories which are not suitable for
+use solely or principally with the articles of those Chapters. A part or accessory which answers to a description in two or more
+of the headings of those Chapters is to be classified under that heading which corresponds to the principal use of that part or
+accessory.
+4. For the purpose of this Section:
+(a) Vehicles specially constructed to travel on both road and rail are classified under the appropriate heading of Chapter 87;
+(b) Amphibious motor vehicles are classified under the appropriate heading of Chapter 87;
+(c) Aircraft specially constructed so that they can also be used as road vehicles are classified under the appropriate heading
+of Chapter 88.
+5. Air-cushion vehicles are to be classified within this Section with the vehicles to which they are most akin as follows:
+(a) In Chapter 86 if designed to travel on a guide-track (hovertrains);
+(b) In Chapter 87 if designed to travel over land or over both land and water;
+(c) In Chapter 89 if designed to travel over water, whether or not able to land on beaches or landing-stages or also able to
+travel over ice.
+Parts and accessories of air-cushion vehicles are to be classified in the same way as those of vehicles of the heading in
+which the air-cushion vehicles are classified under the above provisions.
+Hovertrain track fixtures and fittings are to be classified as railway track fixtures and fittings, and signalling, safety or traffic
+control equipment for hovertrain transport systems as signalling, safety or traffic control equipment for railways.
+
+Issued January 1, 2025
+
+COMS TARIFF - SCHEDULE
+86 - i
+Chapter 86
+RAILWAY OR TRAMWAY LOCOMOTIVES
+ROLLING-STOCK AND PARTS THEREOF;
+RAILWAY OR TRAMWAY TRACK FIXTURES AND FTINGS
+AND PARTS THEREOF; MECHANICAL (INCLUDING ELERO-MECHANICAL)
+TRAFFIC SIGNALLING EQUIPME OF ALL KINDS
+Notes.
+1. This Chapter does not cover:
+(a) Railway or tramway sleepers of wood or of concrete, or concrete guide-track sections for hovertrains (heading 44.06 or
+68.10);
+(b) Railway or tramway track construction material of iron or steel of heading 73.02; or
+(c) Electrical signalling, safety or traffic control equipment of heading 85.30.
+2. Heading 86.07 applies, inter alia, to:
+(a) Axles, wheels, wheel sets (running gear), metal tires, hoops and hubs and other parts of wheels;
+(b) Frames, underframes, bogies and bissel-bogies;
+(c) Axle boxes; brake gear;
+(d) Buffers for rolling-stock; hooks and other coupling gear and corridor connections;
+(e) Coachwork.
+3. Subject to the provisions of Note 1 above, heading 86.08 applies, inter alia, to:
+(a) Assembled track, turntables, platform buffers, loading gauges;
+(b) Semaphores, mechanical signal discs, level crossing control gear, signal and point controls, and other mechanical
+(including electro-mechanical) signalling, safety or traffic control equipment, whether or not fitted for electric lighting, for
+railways, tramways, roads, inland waterways, parking facilities, port installations or airfields.
+
+Issued January 1, 2025
+
+86 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8601.10.00 00 -Powered from an external source of electricity
+
+NMB
+
+9.5%, H, C, : 
+: 5%
+
+8601.20.00 00 -Powered by electric accumulators
+
+NMB
+
+9.5%, H, C, : 
+: 5%
+
+8602.10.00 00 -Diesel-electric locomotives
+
+NMB
+
+9.5%, H, C, : 
+: 5%
+
+8602.90.00 00 -Other
+
+NMB
+
+9.5%, H, C, : 
+
+8603.10.00 00 -Powered from an external source of electricity
+
+NMB
+
+8%, H, C, : 
+
+8603.90.00 00 -Other
+
+NMB
+
+8%, H, C, : 
+
+SS
+
+Description of Goods
+
+
+
+86.01
+
+86.02
+
+86.03
+
+8604.00
+
+Rail locomotives powered from an external source of electricity or by
+electric accumulators.
+
+Other rail locomotives; locomotive tenders.
+
+Self-propelled railway or tramway coaches, vans and trucks (cars), other
+than those of heading 86.04.
+
+Railway or tramway maintenance or service vehicles, whether or not
+self-propelled (for example, workshops, cranes, ballast tampers
+trackliners, testing coaches and track inspection vehicles).
+
+Issued January 1, 2025
+
+86 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8604.00.10 00 - - -Ballast spreaders;
+Buggies for transporting work crews and track material trailers, not
+exceeding 20 tonnes;
+Combination ballast broom and snow switch cleaners;
+Manual feed spike drivers for maintenance or production applications;
+On-track brush cutters;
+Rail tie spacing machines;
+Snow plows;
+Supply push carts;
+Tie cranes;
+Track carriage cranes
+
+NMB
+
+6%, H, C, : 
+
+8604.00.90 00 - - -Other
+
+NMB, H, C, : 
+
+8605.00.00 00 Railway or tramway passenger coaches, not self-propelled; luggage
+vans (baggage cars), post office coaches and other special purpose
+railway or tramway coaches, not self-propelled (excluding those of
+heading 86.04).
+
+NMB
+
+11%, H, C, : 
+: 5%
+
+11%, H, C, : 
+: 5%
+
+NMB
+
+11%, H, C, : 
+: 5%
+
+NMB
+
+11%, H, C, : 
+: 5%
+
+SS
+
+Description of Goods
+
+86.06
+
+Railway or tramway goods vans and wagons (freight cars), not selfpropelled.
+
+8606.10.00
+
+-Tank wagons (tank cars) and the like
+
+10 - - - - -Insulated .................................................................................................
+20 - - - - -Non-insulated .........................................................................................
+8606.30.00 00 -Self-discharging vans and wagons (cars), other than those of
+subheading 8606.10
+
+NMB
+NMB
+
+-Other:
+8606.91.00 00 - -Covered and closed
+
+Issued January 1, 2025
+
+86 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8606.92.00 00 - -Open, with non-removable sides of a height exceeding 60 cm
+
+NMB
+
+11%, H, C, : 
+: 5%
+
+8606.99.00 00 - -Other
+
+NMB
+
+11%, H, C, : 
+: 5%
+
+8607.11.00 00 - -Driving bogies and bissel-bogies (truck assemblies)
+
+-, H, C, : 
+
+8607.12.00 00 - -Other bogies and bissel-bogies (truck assemblies)
+
+-, H, C, : 
+
+8607.19.11 00 - - - -For self-propelled railway vehicles for the transport of passengers
+baggage, mail or express traffic;
+In the rough, for use in the manufacture of axles for railway rolling-stock
+
+-, H, C, : 
+
+8607.19.19 00 - - - -Other
+
+-
+
+9.5%, H, C, : 
+AUT: 2%
+NZT: 2%
+: 5%
+
+86.07
+
+SS
+
+Description of Goods
+
+Parts of railway or tramway locomotives or rolling-stock.
+-Bogies, bissel-bogies (truck assemblies), axles and wheels, and parts
+thereof:
+
+8607.19
+
+- -Other, including parts
+- - -Axles:
+
+- - -Wheels, whether or not fitted with axles:
+
+Issued January 1, 2025
+
+86 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8607.19.21 00 - - - -Blanks for use in the manufacture of wheel and axle combinations for
+railway and tramway (including subway cars) passenger coaches;
+For self-propelled railway vehicles for the transport of passengers
+baggage, mail or express traffic;
+For use in the repair of tramway vehicles (excluding subway cars) with
+magnetic track brakes; Forged, for use in the
+manufacture or production of wheel sets
+
+NMB, H, C, : 
+
+8607.19.29 00 - - - -Other
+
+NMB
+
+9.5%, H, C, : 
+AUT: 2%
+NZT: 2%
+: 5%
+
+8607.19.30 00 - - -Parts of axles or wheels
+
+-, H, C, : 
+
+8607.19.40 00 - - -Tires of steel, in the rough, not machined or drilled
+
+-
+
+3.5%, H, C, :, H, C, : 
+
+8607.19.50
+
+SS
+
+Description of Goods
+
+- - -Parts of bogies or bissel-bogies (truck assemblies)
+
+30 - - - - - For non self-propelled rolling-stock .......................................................
+40 - - - - -For locomotives and other self-propelled rolling stock ...........................
+
+-
+
+-Brakes and parts thereof:
+8607.21
+
+- -Air brakes and parts thereof
+
+8607.21.10 00 - - -For self-propelled railway vehicles for the transport of passengers
+baggage, mail or express traffic;
+Parts for use in the manufacture of brake systems for subway and rapid
+transit cars
+
+-, H, C, : 
+
+8607.21.20 00 - - -Brake beams for use in railway vehicles
+
+-
+
+10%, H, C, : 
+
+Issued January 1, 2025
+
+86 - 5
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+8607.21.90
+
+SS
+
+Description of Goods
+- - -Other
+
+10 - - - - -For the vehicles of heading 86.05 or 86.06............................................
+90 - - - - -Other ......................................................................................................
+8607.29
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+10%, H, C, : 
+: 5%
+
+-
+
+- -Other
+
+8607.29.10 00 - - -For self-propelled railway vehicles for the transport of passengers
+baggage, mail or express traffic;
+For use in the repair of tramway vehicles (excluding subway cars) with
+magnetic track brakes;
+Parts for use in the manufacture of brake systems for subway and rapid
+transit cars
+
+-, H, C, : 
+
+8607.29.90 00 - - -Other
+
+-
+
+10%, H, C, : 
+: 5%
+
+8607.30.10 00 - - -For self-propelled railway vehicles for the transport of passengers
+baggage, mail or express traffic;
+For use in the repair of tramway vehicles (excluding subway cars) with
+magnetic track brakes;
+Parts for use in the manufacture of hydraulic cushioning devices (buffers)
+for railway rolling-stock
+
+-, H, C, : 
+
+8607.30.90 00 - - -Other
+
+-
+
+2.5%, H, C, : 
+
+-, H, C, :, H, C, : 
+
+8607.30
+
+-Hooks and other coupling devices, buffers, and parts thereof
+
+-Other:
+8607.91.00 00 - -Of locomotives
+
+8607.99
+
+- -Other
+- - -Of self-propelled rolling-stock:
+
+8607.99.11
+
+- - - -For use in the repair of tramway vehicles (excluding subway cars) with
+magnetic track brakes;
+Of the vehicles of heading 86.04;
+Of railway vehicles for the transport of passengers, baggage, mail or
+express traffic
+
+Issued January 1, 2025
+
+86 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+30 - - - - -Of railway or tramway maintenance or service vehicles.........................
+90 - - - - -Other ......................................................................................................
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+8607.99.19 00 - - - -Other
+
+-
+
+8.5%, H, C, : 
+
+8607.99.20 00 - - -Of non self-propelled rolling-stock
+
+-
+
+11%, H, C, : 
+
+8608.00.10 00 - - -Fixed and sliding railway bumping posts and friction buffer stops;
+Signalling equipment for railways and parts thereof
+
+-, H, C, : 
+
+8608.00.90 00 - - -Other
+
+-
+
+6.5%, H, C, : 
+
+8609.00.10 00 - - -Reusable, specially designed to be employed in the transportation of
+motor vehicle components which are free of customs duties, presented
+with the goods therein
+
+-, H, C, : 
+
+8609.00.90 00 - - -Other
+
+-
+
+6.5%, H, C, : 
+: 3%
+
+8608.00
+
+8609.00
+
+Railway or tramway track fixtures and fittings; mechanical (including
+electro-mechanical) signalling, safety or traffic control equipment for
+railways, tramways, roads, inland waterways, parking facilities, port
+installations or airfields; parts of the foregoing.
+
+Containers (including containers for the transport of fluids) specially
+designed and equipped for carriage by one or more modes of transport.
+
+Issued January 1, 2025
+
+

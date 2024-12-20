@@ -1,0 +1,756 @@
+53 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+H
+C, : 
+
+5309.11.00 00 - -Unbleached or bleached
+H
+C, : 
+
+5309.19.00 00 - -Other
+H
+C, : 
+
+5309.21.00 00 - -Unbleached or bleached
+H
+C, : 
+
+5309.29.00 00 - -Other
+H
+C, : 
+
+5310.10.00 00 -Unbleached
+H
+C, : 
+
+5310.90.00 00 -Other
+H
+C, : 
+
+5311.00.00 00 Woven fabrics of other vegetable textile fibres; woven fabrics of paper
+yarn.
+H
+C, : 
+
+SS
+
+Description of Goods
+
+5308.90.00 00 -Other
+
+53.09
+
+Woven fabrics of flax.
+-Containing 85% or more by weight of flax:
+
+-Containing less than 85% by weight of flax:
+
+53.10
+
+Woven fabrics of jute or of other textile bast fibres of heading 53.03.
+
+Issued January 1, 2025
+
+COMS TARIFF - SCHEDULE
+54 - i
+Chapter 54
+MAN-MADE FILAMES; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS
+Notes.
+1. Throughout the Nomenclature, the term "man-made fibres" means staple fibres and filaments of organic polymers produced
+by manufacturing processes, either:
+(a) By polymerisation of organic monomers to produce polymers such as polyamides, polyesters, polyolefins or
+polyurethanes, or by chemical modification of polymers produced by this process (for example, poly(vinyl alcohol)
+prepared by the hydrolysis of poly(vinyl acetate)); or
+(b) By dissolution or chemical treatment of natural organic polymers (for example, cellulose) to produce polymers such as
+cuprammonium rayon (cupro) or viscose rayon, or by chemical modification of natural organic polymers (for example
+cellulose, casein and other proteins, or alginic acid), to produce polymers such as cellulose acetate or alginates.
+The terms "synthetic" and "artificial", used in relation to fibres, mean: synthetic: fibres as defined at (a); artificial: fibres as
+defined at (b). Strip and the like of heading 54.04 or 54.05 are not considered to be man-made fibres.
+The terms "man-made", "synthetic" and "artificial" shall have the same meanings when used in relation to "textile materials".
+2. Headings 54.02 and 54.03 do not apply to synthetic or artificial filament tow of Chapter 55.
+
+Issued January 1, 2025
+
+54 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5401.10.00 00 -Of synthetic filaments, H
+C, : 
+
+5401.20.00 00 -Of artificial filaments
+H
+C, : 
+
+5402.11.00 00 - -Of aramids
+H
+C, : 
+
+5402.19.00 00 - -Other
+H
+C, : 
+
+5402.20.00 00 -High tenacity yarn of polyesters, whether or not textured
+H
+C, : 
+
+5402.31.00 00 - -Of nylon or other polyamides, measuring per single yarn not more
+than 50 tex
+H
+C, : 
+
+5402.32.00 00 - -Of nylon or other polyamides, measuring per single yarn more than
+50 tex
+H
+C, : 
+
+SS
+
+Description of Goods
+
+
+
+54.01
+
+54.02
+
+Sewing thread of man-made filaments, whether or not put up for retail
+sale.
+
+Synthetic filament yarn (other than sewing thread), not put up for retail
+sale, including synthetic monofilament of less than 67 decitex.
+-High tenacity yarn of nylon or other polyamides, whether or not
+textured:
+
+-Textured yarn:
+
+Issued January 1, 2025
+
+54 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+5402.33.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Of polyesters
+
+10 - - - - -Measuring not more than 66 tex (660 decitex) .......................................
+20 - - - - -Measuring more than 66 tex (660 decitex) .............................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+H
+C, : 
+
+
+
+
+5402.34.00 00 - -Of polypropylene
+H
+C, : 
+
+5402.39.00 00 - -Other
+H
+C, :
+H
+C, :
+H
+C, : 
+
+-Other yarn, single, untwisted or with a twist not exceeding 50 turns per
+metre:
+5402.44.00 00 - -Elastomeric
+
+5402.45.00
+
+- -Other, of nylon or other polyamides
+
+10 - - - - -Monofilament; Multifilament, untwisted or with a twist of less than 5
+turns per metre .......................................................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+5402.46.00 00 - -Other, of polyesters, partially oriented
+H
+C, : 
+
+5402.47.00 00 - -Other, of polyesters
+H
+C, : 
+
+5402.48.00 00 - -Other, of polypropylene
+H
+C, : 
+
+Issued January 1, 2025
+
+54 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+H
+C, :
+H
+C, :
+H
+C, : 
+
+5402.52.91 00 - - - -Solely of polyesters, fully drawn, measuring not more than 180 decitex;
+
+Solely of polyesters, measuring 72 decitex or more but not exceeding
+111 decitex, for use in the manufacture of woven labels;
+Containing 80% or more by weight of polyesters, of uneven thickness
+with slubs, loops or similar irregularities, measuring 1,000 decitex or less
+for use in the manufacture of curtains of a weight not exceeding 100 g/m²
+H
+C, : 
+
+5402.52.99 00 - - - -Other
+H
+C, : 
+
+5402.53.00 00 - -Of polypropylene
+H
+C, : 
+
+5402.59.00 00 - -Other
+H
+C, :
+H
+C, : 
+
+SS
+
+Description of Goods
+
+5402.49.00 00 - -Other
+
+-Other yarn, single, with a twist exceeding 50 turns per metre:
+5402.51.00 00 - -Of nylon or other polyamides
+
+5402.52
+
+- -Of polyesters
+
+5402.52.10 00 - - -Solely of polyesters, measuring not less than 75 decitex but not more than
+80 decitex and having 24 filaments per yarn
+
+- - -Other:
+
+-Other yarn, multiple (folded) or cabled:
+5402.61.00 00 - -Of nylon or other polyamides
+
+Issued January 1, 2025
+
+54 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5402.62.00 00 - -Of polyesters
+H
+C, : 
+
+5402.63.00 00 - -Of polypropylene
+H
+C, : 
+
+5402.69.00 00 - -Other
+H
+C, :
+H
+C, : 
+
+5403.31.00 00 - -Of viscose rayon, untwisted or with a twist not exceeding 120 turns
+per metre
+H
+C, : 
+
+5403.32.00 00 - -Of viscose rayon, with a twist exceeding 120 turns per metre
+H
+C, : 
+
+5403.33.00 00 - -Of cellulose acetate
+H
+C, : 
+
+5403.39.00 00 - -Other
+H
+C, : 
+
+54.03
+
+SS
+
+Description of Goods
+
+Artificial filament yarn (other than sewing thread), not put up for retail
+sale, including artificial monofilament of less than 67 decitex.
+
+5403.10.00 00 -High tenacity yarn of viscose rayon
+
+-Other yarn, single:
+
+-Other yarn, multiple (folded) or cabled:
+
+Issued January 1, 2025
+
+54 - 5
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5403.41.00 00 - -Of viscose rayon
+H
+C, : 
+
+5403.42.00 00 - -Of cellulose acetate
+H
+C, : 
+
+5403.49.00 00 - -Other
+H
+C, : 
+
+5404.11.00 00 - -Elastomeric
+H
+C, : 
+
+5404.12.00 00 - -Other, of polypropylene
+H
+C, : 
+
+5404.19.00 00 - -Other
+H
+C, : 
+
+5404.90.00 00 -Other
+H
+C, : 
+
+5405.00.00 00 Artificial monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example
+artificial straw) of artificial textile materials of an apparent width not
+exceeding 5 mm.
+H
+C, : 
+
+54.04
+
+SS
+
+Description of Goods
+
+Synthetic monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example
+artificial straw) of synthetic textile materials of an apparent width not
+exceeding 5 mm.
+-Monofilament:
+
+5406.00
+
+Man-made filament yarn (other than sewing thread), put up for retail
+sale.
+
+Issued January 1, 2025
+
+54 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5406.00.10 00 - - -Synthetic filament yarn
+
+
+
+8%, H
+C, : 
+
+5406.00.90 00 - - -Other
+H
+C, : 
+
+5407.10.00 00 -Woven fabrics obtained from high tenacity yarn of nylon or other
+polyamides or of polyesters
+H
+C, : 
+
+5407.20.00 00 -Woven fabrics obtained from strip or the like, H
+C, : 
+
+5407.30.00 00 -Fabrics specified in Note 9 to Section XI, H
+C, : 
+
+5407.41.00 00 - -Unbleached or bleached
+H
+C, : 
+
+5407.42.00 00 - -Dyed
+H
+C, : 
+
+5407.43.00 00 - -Of yarns of different colours, H
+C, : 
+
+54.07
+
+SS
+
+Description of Goods
+
+Woven fabrics of synthetic filament yarn, including woven fabrics
+obtained from materials of heading 54.04.
+
+-Other woven fabrics, containing 85% or more by weight of filaments of
+nylon or other polyamides:
+
+Issued January 1, 2025
+
+54 - 7
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+5407.44.00 00 - -Printed
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H
+C, :, H
+C, :
+H
+C, : 
+
+-Other woven fabrics, containing 85% or more by weight of textured
+polyester filaments:
+5407.51.00 00 - -Unbleached or bleached
+
+5407.52.00
+
+- -Dyed
+
+40 - - - - -Of a weight not exceeding 170 g/m² ......................................................
+90 - - - - -Other ......................................................................................................
+
+
+
+
+5407.53.00 00 - -Of yarns of different colours, H
+C, : 
+
+5407.54.00 00 - -Printed, H
+C, : 
+
+5407.61.10 00 - - -Solely of polyester single yarns measuring not less than 75 decitex but not
+more than 80 decitex, having 24 filaments per yarn and a twist of 900 or
+more turns per metre, H
+C, : 
+
+5407.61.90 00 - - -Other
+H
+C, : 
+
+-Other woven fabrics, containing 85% or more by weight of polyester
+filaments:
+5407.61
+
+- -Containing 85% or more by weight of non-textured polyester filaments
+
+Issued January 1, 2025
+
+54 - 8
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+5407.69.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+- -Other
+
+10 - - - - -Unbleached or bleached.........................................................................
+20 - - - - -Dyed .......................................................................................................
+30 - - - - -Of yarns of different colours ...................................................................
+40 - - - - -Printed ....................................................................................................
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+H
+C, : 
+
+
+
+
+
+
+-Other woven fabrics, containing 85% or more by weight of synthetic
+filaments:
+5407.71.00 00 - -Unbleached or bleached, H
+C, : 
+
+5407.72.00 00 - -Dyed, H
+C, : 
+
+5407.73.00 00 - -Of yarns of different colours
+H
+C, : 
+
+5407.74.00 00 - -Printed, H
+C, : 
+
+5407.81.00 00 - -Unbleached or bleached, H
+C, : 
+
+5407.82.00 00 - -Dyed
+H
+C, : 
+
+5407.83.00 00 - -Of yarns of different colours, H
+C, : 
+
+-Other woven fabrics, containing less than 85% by weight of synthetic
+filaments, mixed mainly or solely with cotton:
+
+Issued January 1, 2025
+
+54 - 9
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H
+C, : 
+
+5407.91.00 00 - -Unbleached or bleached, H
+C, : 
+
+5407.92.00 00 - -Dyed
+H
+C, : 
+
+5407.93.00 00 - -Of yarns of different colours, H
+C, : 
+
+5407.94.00 00 - -Printed
+H
+C, :, H
+C, :
+H
+C, : 
+
+SS
+
+Description of Goods
+
+5407.84.00 00 - -Printed
+
+-Other woven fabrics:
+
+54.08
+
+Woven fabrics of artificial filament yarn, including woven fabrics
+obtained from materials of heading 54.05.
+
+5408.10.00 00 -Woven fabrics obtained from high tenacity yarn of viscose rayon
+
+-Other woven fabrics, containing 85% or more by weight of artificial
+filament or strip or the like:
+5408.21.00 00 - -Unbleached or bleached
+
+5408.22
+
+- -Dyed
+
+Issued January 1, 2025
+
+54 - 10
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5408.22.20 00 - - -Of cuprammonium rayon
+H
+C, : 
+
+5408.22.90 00 - - -Other
+H
+C, : 
+
+5408.23.10 00 - - -Of cuprammonium rayon, H
+C, : 
+
+5408.23.90 00 - - -Other, H
+C, : 
+
+5408.24.10 00 - - -Of cuprammonium rayon
+H
+C, : 
+
+5408.24.90 00 - - -Other
+H
+C, : 
+
+5408.31.00 00 - -Unbleached or bleached
+H
+C, : 
+
+5408.32.00 00 - -Dyed
+H
+C, : 
+
+5408.23
+
+5408.24
+
+SS
+
+Description of Goods
+
+- -Of yarns of different colours
+
+- -Printed
+
+-Other woven fabrics:
+
+Issued January 1, 2025
+
+54 - 11
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+5408.33.00 00 - -Of yarns of different colours, H
+C, : 
+
+5408.34.00 00 - -Printed
+H
+C, : 
+
+SS
+
+Description of Goods
+
+Issued January 1, 2025
+
+

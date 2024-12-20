@@ -1,0 +1,44 @@
+HS10 Code,HS10 Code Formatted,HS10 Date Key,HS10 Start Date,HS10 End Date,Unit of Measure,HS10 UOM Date Key,UOM Start Date,UOM End Date,HS10 English Description,HS10 French Description
+3601000000,3601.00.00.00,3601.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,Propellent powders,Poudres propulsives
+3601000010,3601.00.00.10,3601.00.00.10 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,Black powder (gunpowder),Poudre noire
+3601000090,3601.00.00.90,3601.00.00.90 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Propellent powders, nes","Poudres propulsives, nda"
+3602000010,3602.00.00.10,3602.00.00.10 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,"Prepared explosives,o/t propellent pdr,based on nitroglycerin","Explosifs préparés, a/q poudres propulsives, à base de nitroglycérine"
+3602000011,3602.00.00.11,3602.00.00.11 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Explosives,based on nitroglycerin,in cartridges,sticks/o forms,for blasting","Explosifs à base nitroglycérine, en cartouches, bâtons, etc, util charge explo"
+3602000019,3602.00.00.19,3602.00.00.19 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Prepared explosives,in cartridges,sticks or o forms, for blasting, nes","Explosifs préparés, en cartouches, bâtons, etc, util en charge explosive, nda"
+3602000090,3602.00.00.90,3602.00.00.90 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,"Prepared explosives, o/t propellent powders","Explosifs préparés, a/q poudres propulsives"
+3602000090,3602.00.00.90,3602.00.00.90 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Prepared explosives, other than propellent powders, nes","Explosifs préparés, autres que poudres propulsives, nda"
+3602000091,3602.00.00.91,3602.00.00.91 (1990-01/2011-12),199001,201112,KGM,KGM (1990-01/2011-12),199001,201112,"Prepared explosives,o/t propellent pdr,based on nitroglycerin,nes","Explosifs préparés, a/q poudres propulsives, à base de nitroglycérine, nda"
+3602000099,3602.00.00.99,3602.00.00.99 (1990-01/2011-12),199001,201112,KGM,KGM (1990-01/2011-12),199001,201112,"Prepared explosives, o/t propellent powders, nes","Explosifs préparés, a/q poudres propulsives, nda"
+3603000010,3603.00.00.10,3603.00.00.10 (1988-01/2016-12),198801,201612,,N/A (1988-01/2016-12),198801,201612,Safety fuses & detonating fuses,Mèches de sûreté et cordeaux détonants
+3603000020,3603.00.00.20,3603.00.00.20 (1988-01/2011-12),198801,201112,,N/A (1988-01/2011-12),198801,201112,Percussion caps,Amorces à percussion
+3603000020,3603.00.00.20,3603.00.00.20 (2017-01/2021-12),201701,202112,,N/A (2017-01/2021-12),201701,202112,Safety fuses,Mèches de sûreté
+3603000030,3603.00.00.30,3603.00.00.30 (1988-01/2011-12),198801,201112,,N/A (1988-01/2011-12),198801,201112,Detonating caps,Capsules fulminantes
+3603000030,3603.00.00.30,3603.00.00.30 (2017-01/2021-12),201701,202112,,N/A (2017-01/2021-12),201701,202112,Detonating fuses,Cordeaux détonants
+3603000040,3603.00.00.40,3603.00.00.40 (1988-01/2016-12),198801,201612,,N/A (1988-01/2016-12),198801,201612,Igniters and electric detonators,Allumeurs et détonateurs électriques
+3603000050,3603.00.00.50,3603.00.00.50 (2012-01/2021-12),201201,202112,,N/A (2012-01/2021-12),201201,202112,Percussion caps or detonating caps,Amorces à percussion ou capsules fulminantes
+3603000060,3603.00.00.60,3603.00.00.60 (2017-01/2021-12),201701,202112,,N/A (2017-01/2021-12),201701,202112,Igniters,Allumeurs
+3603000070,3603.00.00.70,3603.00.00.70 (2017-01/2021-12),201701,202112,,N/A (2017-01/2021-12),201701,202112,Electric detonators,Détonateurs électriques
+3603100000,3603.10.00.00,3603.10.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Safety fuses,Mèches de sûreté
+3603200000,3603.20.00.00,3603.20.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Detonating cords,Cordeaux détonants
+3603300000,3603.30.00.00,3603.30.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Percussion caps,Amorces fulminantes
+3603400000,3603.40.00.00,3603.40.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Detonating caps,Capsules fulminantes
+3603500000,3603.50.00.00,3603.50.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Igniters,Allumeurs
+3603600000,3603.60.00.00,3603.60.00.00 (2022-01/9999-12),202201,999912,,N/A (2022-01/9999-12),202201,999912,Electric detonators,Détonateurs électriques
+3604100000,3604.10.00.00,3604.10.00.00 (1988-01/9999-12),198801,999912,KGM,KGM (1994-01/9999-12),199401,999912,Fireworks,Articles pour feux d'artifice
+3604100000,3604.10.00.00,3604.10.00.00 (1988-01/9999-12),198801,999912,,N/A (1988-01/1993-12),198801,199312,Fireworks,Articles pour feux d'artifice
+3604900000,3604.90.00.00,3604.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Signalling flares, rain rockets, fog signals and other pyrotechnic articles","Fusées de signalisation,paragrêles et sim,pétards,autres articles de pyrotechnie"
+3604900010,3604.90.00.10,3604.90.00.10 (1988-01/2016-12),198801,201612,KGM,KGM (1994-01/2016-12),199401,201612,Signalling flares,Fusées de signalisation
+3604900010,3604.90.00.10,3604.90.00.10 (1988-01/2016-12),198801,201612,,N/A (1988-01/1993-12),198801,199312,Signalling flares,Fusées de signalisation
+3604900090,3604.90.00.90,3604.90.00.90 (1988-01/2016-12),198801,201612,KGM,KGM (1994-01/2016-12),199401,201612,"Rain rockets, fog signals & other pyrotechnic articles, nes","Fusées paragrêles ou similaires et autres articles de pyrotechnie, nda"
+3604900090,3604.90.00.90,3604.90.00.90 (1988-01/2016-12),198801,201612,,N/A (1988-01/1993-12),198801,199312,"Rain rockets, fog signals & other pyrotechnic articles, nes","Fusées paragrêles ou similaires et autres articles de pyrotechnie, nda"
+3605000000,3605.00.00.00,3605.00.00.00 (2012-01/9999-12),201201,999912,,N/A (2012-01/9999-12),201201,999912,"Matches, o/t pryotechnic articles of No 36.04","Allumettes, a/q les articles de pyrotechnie du n° 36.04"
+3605000010,3605.00.00.10,3605.00.00.10 (1998-01/2011-12),199801,201112,,N/A (1998-01/2011-12),199801,201112,Wood matches,Allumettes en bois
+3605000090,3605.00.00.90,3605.00.00.90 (1998-01/2011-12),199801,201112,,N/A (1998-01/2011-12),199801,201112,"Matches, except wooden","Allumettes, a/q en bois"
+3605001000,3605.00.10.00,3605.00.10.00 (1988-01/1997-12),198801,199712,,N/A (1988-01/1997-12),198801,199712,Wood matches,Allumettes en bois
+3605009000,3605.00.90.00,3605.00.90.00 (1988-01/1997-12),198801,199712,,N/A (1988-01/1997-12),198801,199712,"Matches, except wooden","Allumettes, a/q en bois"
+3606100000,3606.10.00.00,3606.10.00.00 (1988-01/9999-12),198801,999912,,N/A (1988-01/9999-12),198801,999912,Lighters refill fuels in containers of a capacity not exceeding 300 cm_,"Combustibles en récipients <=300 cm_, pour alimenter ou recharger les briquets"
+3606900000,3606.90.00.00,3606.90.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Ferro-cerium & o pyrophoric alloys; art of combustible mat spec in Ch Note 2,nes","Ferrocérium,au alli pyrophoriques; art en mati inflammables de Note 2 du Cha,nda"
+3606900010,3606.90.00.10,3606.90.00.10 (1988-01/2016-12),198801,201612,KGM,KGM (1994-01/2016-12),199401,201612,Solid fuels,Combustibles solides
+3606900010,3606.90.00.10,3606.90.00.10 (1988-01/2016-12),198801,201612,,N/A (1988-01/1993-12),198801,199312,Solid fuels,Combustibles solides
+3606900090,3606.90.00.90,3606.90.00.90 (1988-01/2016-12),198801,201612,KGM,KGM (1994-01/2016-12),199401,201612,Pyrophoric alloys; firelighters & re torches,Alliages pyrophoriques; allume-feu et torches ou flambeaux de résine
+3606900090,3606.90.00.90,3606.90.00.90 (1988-01/2016-12),198801,201612,,N/A (1988-01/1993-12),198801,199312,Pyrophoric alloys; firelighters & re torches,Alliages pyrophoriques; allume-feu et torches ou flambeaux de résine

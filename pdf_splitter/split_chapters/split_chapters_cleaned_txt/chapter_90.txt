@@ -1,0 +1,1958 @@
+COMS TARIFF - SCHEDULE
+90 - i
+Chapter 90
+OICAL, PHOTOGRAPHIC
+CINEMATOGRAPHIC, MEASURING, CHECKING
+PRECISION, MEDICAL OR SURGICAL INSTRUMES
+AND APPARATUS; PARTS AND ACCESSORIES THEREOF
+Notes.
+1. This Chapter does not cover:
+(a) Articles of a kind used in machines, appliances or for other technical uses, of vulcanised rubber other than hard rubber
+(heading 40.16), of leather or of composition leather (heading 42.05) or of textile material (heading 59.11);
+(b) Supporting belts or other support articles of textile material, whose intended effect on the organ to be supported or held
+derives solely from their elasticity (for example, maternity belts, thoracic support bandages, abdominal support bandages
+supports for joints or muscles) (Section XI);
+(c) Refractory goods of heading 69.03; ceramic wares for laboratory, chemical or other technical uses, of heading 69.09;
+(d) Glass mirrors, not optically worked, of heading 70.09, or mirrors of base metal or of precious metal, not being optical
+elements (heading 83.06 or Chapter 71);
+(e) Goods of heading 70.07, 70.08, 70.11, 70.14, 70.15 or 70.17;
+(f) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section XV) or similar goods of plastics (Chapter
+39); however, articles specially designed for use exclusively in implants in medical, surgical, dental or veterinary sciences
+are to be classified in heading 90.21;
+(g) Pumps incorporating measuring devices, of heading 84.13; weight-operated counting or checking machinery, or
+separately presented weights for balances (heading 84.23); lifting or handling machinery (headings 84.25 to 84.28); paper
+or paperboard cutting machines of all kinds (heading 84.41); fittings for adjusting work or tools on machine-tools or waterjet cutting machines, of heading 84.66, including fittings with optical devices for reading the scale (for example, "optical"
+dividing heads) but not those which are in themselves essentially optical instruments (for example, alignment telescopes);
+calculating machines (heading 84.70); valves or other appliances of heading 84.81; machines and apparatus (including
+apparatus for the projection or drawing of circuit patterns on sensitized semiconductor materials) of heading 84.86;
+(h) Searchlights or spotlights of a kind used for cycles or motor vehicles (heading 85.12); portable electric lamps of heading
+85.13; cinematographic sound recording, reproducing or re-recording apparatus (heading 85.19); sound-heads (heading
+85.22); television cameras, digital cameras and video camera recorders (heading 85.25); radar apparatus, radio
+navigational aid apparatus or radio remote control apparatus (heading 85.26); connectors for optical fibres, optical fibre
+bundles or cables (heading 85.36); numerical control apparatus of heading 85.37; sealed beam lamp units of heading
+85.39; optical fibre cables of heading 85.44;
+(ij) Searchlights or spotlights of heading 94.05;
+(k) Articles of Chapter 95;
+(l) Monopods, bipods, tripods and similar articles, of heading 96.20;
+(m)Capacity measures, which are to be classified according to their constituent material; or
+(n) Spools, reels or similar supports (which are to be classified according to their constituent material, for example, in heading
+39.23 or Section XV).
+2. Subject to Note 1 above, parts and accessories for machines, apparatus, instruments or articles of this Chapter are to be
+classified according to the following rules:
+(a) Parts and accessories which are goods included in any of the headings of this Chapter or of Chapter 84, 85 or 91 (other
+than heading 84.87, 85.48 or 90.33) are in all cases to be classified in their respective headings;
+(b) Other parts and accessories, if suitable for use solely or principally with a particular kind of machine, instrument or
+apparatus, or with a number of machines, instruments or apparatus of the same heading (including a machine, instrument
+or apparatus of heading 90.10, 90.13 or 90.31) are to be classified with the machines, instruments or apparatus of that
+kind;
+(c) All other parts and accessories are to be classified in heading 90.33.
+3. The provisions of Notes 3 and 4 to Section XVI apply also to this Chapter.
+
+Issued January 1, 2025
+
+COMS TARIFF – SCHEDULE
+90 - ii
+4. Heading 90.05 does not apply to telescopic sights for fitting to arms, periscopic telescopes for fitting to submarines or tanks
+or to telescopes for machines, appliances, instruments or apparatus of this Chapter or Section XVI; such telescopic sights
+and telescopes are to be classified in heading 90.13.
+5. Measuring or checking optical instruments, appliances or machines which, but for this Note, could be classified both in
+heading 90.13 and in heading 90.31 are to be classified in heading 90.31.
+6. For the purposes of heading 90.21, the expression "orthopaedic appliances" means appliances for:
+-
+
+Preventing or correcting bodily deformities; or
+
+-
+
+Supporting or holding parts of the body following an illness, operation or injury.
+
+Orthopaedic appliances include footwear and special insoles designed to correct orthopaedic conditions, provided that they
+are either (1) made to measure or (2) mass-produced, presented singly and not in pairs and designed to fit either foot
+equally.
+7. Heading 90.32 applies only to:
+(a) Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or
+for automatically controlling temperature, whether or not their operation depends on an electrical phenomenon which
+varies according to the factor to be automatically controlled, which are designed to bring this factor to, and maintain it at, a
+desired value, stabilised against disturbances, by constantly or periodically measuring its actual value; and
+(b) Automatic regulators of electrical quantities, and instruments or apparatus for automatically controlling non-electrical
+quantities the operation of which depends on an electrical phenomenon varying according to the factor to be controlled
+which are designed to bring this factor to, and maintain it at, a desired value, stabilised against disturbances, by
+constantly or periodically measuring its actural value.
+Supplementary Notes.
+1. For the purpose of this Chapter, the term "printed circuit assembly" means a good consisting of one or more printed circuits of
+heading 85.34 with one or more active elements assembled thereon, with or without passive elements. For the purpose of
+this Note, "active elements" means diodes, transistors and similar semiconductor devices, whether or not photosensitive, of
+heading 85.41, and integrated circuits and microassemblies of heading 85.42.
+2. For the purpose of the tariff items of this Chapter, the term "electrical" when used in reference to instruments, appliances
+apparatus and machines, refers to those articles the operation of which depends on an electrical phenomenon which varies
+according to the factor to be determined.
+Statistical Note.
+(NB This note does not form part of the Customs Tariff legislation.)
+1. For the statistical purposes of subheading 9001.10 having unit of measure “metre”, the intention is to capture the total number of
+metres obtained by multiplying the number of individual fibres by the length.
+
+Issued January 1, 2025
+
+90 - 1
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9001.10.00 00 -Optical fibres, optical fibre bundles and cables
+
+MTR, H, C, : 
+
+9001.20.00 00 -Sheets and plates of polarizing material, H, C, : 
+
+9001.30.00 00 -Contact lenses
+
+NMB, H, C, : 
+
+9001.40.10 00 - - -Designed for use by workers employed in hazardous work
+
+NMB, H, C, : 
+
+9001.40.40 00 - - -Other, unfinished
+
+NMB, H, C, : 
+
+9001.40.90 00 - - -Other
+
+NMB
+
+2%, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+
+
+90.01
+
+9001.40
+
+Optical fibres and optical fibre bundles; optical fibre cables other than
+those of heading 85.44; sheets and plates of polarizing material; lenses
+(including contact lenses), prisms, mirrors and other optical elements
+of any material, unmounted, other than such elements of glass not
+optically worked.
+
+-Spectacle lenses of glass
+
+9001.50
+
+-Spectacle lenses of other materials
+
+9001.50.10
+
+- - -Designed for use by workers employed in hazardous work;
+Unfinished, light polarizing, for use in the manufacture of spectacles
+
+10 - - - - -Designed for use by workers employed in hazardous work ...................
+20 - - - - -Unfinished, light polarizing, for use in the manufacture of spectacles ...
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+90 - 2
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9001.50.40 00 - - -Other, unfinished
+
+NMB, H, C, : 
+
+9001.50.90 00 - - -Other
+
+NMB
+
+2%, H, C, :, H, C, :, H, C, : 
+
+9001.90.00
+
+SS
+
+Description of Goods
+
+-Other
+
+10 - - - - -Lenses, prisms and mirrors ....................................................................
+90 - - - - -Other ......................................................................................................
+90.02
+
+-
+
+Lenses, prisms, mirrors and other optical elements, of any material
+mounted, being parts of or fittings for instruments or apparatus, other
+than such elements of glass not optically worked.
+-Objective lenses:
+
+9002.11
+9002.11.10
+
+- -For cameras, projectors or photographic enlargers or reducers
+- - -For colour television cameras or colour video cameras;
+For enlargers making negatives or positives of a width exceeding 10 cm
+and a length exceeding 12.5 cm;
+For photographic cameras;
+For use in the manufacture of projectors;
+To be employed in the commercial production of video tape productions
+cinematographic films (motion picture films), animated films or multi-image
+shows
+10 - - - - -For colour television cameras or colour video cameras; For enlargers
+making negatives or positives of a width exceeding 10 cm and a length
+exceeding 12.5 cm; For photographic cameras; For use in the
+manufacture of projectors.......................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+-
+
+9002.11.90 00 - - -Other
+
+-
+
+2%, H, C, : 
+
+9002.19.00 00 - -Other
+
+-, H, C, : 
+
+Issued January 1, 2025
+
+90 - 3
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9002.20.00 00 -Filters
+
+-, H, C, : 
+
+9002.90.00 00 -Other
+
+-, H, C, : 
+
+9003.11.10 00 - - -For prismatic eyeglasses;
+for safety goggles or safety spectacles, designed for use by workers
+employed in hazardous work
+
+NMB, H, C, : 
+
+9003.11.20 00 - - -For other spectacles, goggles or the like
+
+NMB
+
+2.5%, H, C, :, H, C, : 
+
+90.03
+
+SS
+
+Description of Goods
+
+Frames and mountings for spectacles, goggles or the like, and parts
+thereof.
+-Frames and mountings:
+
+9003.11
+
+9003.19.00
+
+- -Of plastics
+
+- -Of other materials
+
+10 - - - - -For prismatic eyeglasses for reading; For safety goggles or safety
+spectacles, designed for use by workers employed in hazardous work
+90 - - - - -Other ......................................................................................................
+9003.90
+
+NMB
+NMB
+
+-Parts
+
+9003.90.10 00 - - -For use in the manufacture of ski goggles;
+Of other spectacles, goggles or the like, unfinished;
+Of prismatic eyeglasses for reading;
+Of safety goggles or safety spectacles designed for use by workers
+employed in hazardous work
+
+-, H, C, : 
+
+9003.90.90 00 - - -Other
+
+-
+
+2.5%, H, C, : 
+
+90.04
+
+Spectacles, goggles and the like, corrective, protective or other.
+
+Issued January 1, 2025
+
+90 - 4
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+5%, H, C, : 
+
+NMB, H, C, : 
+
+5%, H, C, : 
+
+NMB, H, C, : 
+
+9005.80.10 00 - - -Telescopes
+
+NMB, H, C, : 
+
+9005.80.90 00 - - -Other
+
+NMB
+
+4.5%, H, C, : 
+
+-, H, C, : 
+
+SS
+
+Description of Goods
+
+9004.10.00 00 -Sunglasses
+
+9004.90
+
+-Other
+
+9004.90.10 00 - - -Prismatic eyeglasses;
+safety goggles and safety spectacles, designed for use by workers
+employed in hazardous work
+
+9004.90.90
+
+- - -Other
+
+10 - - - - -Goggles, of a kind used in sports ...........................................................
+90 - - - - -Other ......................................................................................................
+90.05
+
+Binoculars, monoculars, other optical telescopes, and mountings
+therefor; other astronomical instruments and mountings therefor, but
+not including instruments for radio-astronomy.
+
+9005.10.00 00 -Binoculars
+
+9005.80
+
+9005.90
+
+NMB
+NMB
+
+-Other instruments
+
+-Parts and accessories (including mountings)
+- - -Of binoculars or telescopes of heading 90.05:
+
+9005.90.11 00 - - - -Incorporating goods of heading 90.01 or 90.02
+
+Issued January 1, 2025
+
+90 - 5
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+9005.90.91 00 - - - -Incorporating goods of heading 90.01 or 90.02
+
+-
+
+6%, H, C, : 
+
+9005.90.99 00 - - - -Other
+
+-
+
+6%, H, C, : 
+
+9006.30.10 00 - - -Comparison cameras for forensic or criminological purposes;
+For making negatives or positives of a width exceeding 8 cm and of a
+length exceeding 10.5 cm;
+Specially designed for medical or surgical examination of internal organs
+
+NMB, H, C, : 
+
+9006.30.90 00 - - -Other
+
+NMB
+
+5%, H, C, : 
+
+9006.40.00 00 -Instant print cameras
+
+NMB, H, C, : 
+
+NMB
+
+5%, H, C, : 
+
+SS
+
+Description of Goods
+
+9005.90.19 00 - - - -Other
+
+- - -Other:
+
+90.06
+
+Photographic (other than cinematographic) cameras; photographic
+flashlight apparatus and flashbulbs other than discharge lamps of
+heading 85.39.
+
+9006.30
+
+-Cameras specially designed for underwater use, for aerial survey or for
+medical or surgical examination of internal organs; comparison
+cameras for forensic or criminological purposes
+
+-Other cameras:
+9006.53
+
+- -For roll film of a width of 35 mm
+
+9006.53.10 00 - - -For making negatives or positives;
+Single-use cameras
+
+Issued January 1, 2025
+
+90 - 6
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB, H, C, : 
+
+9006.59.10 00 - - -For making negatives or positives
+
+NMB
+
+5%, H, C, : 
+
+9006.59.90 00 - - -Other
+
+NMB, H, C, : 
+
+NMB, H, C, : 
+
+9006.69.10 00 - - -Flash guns
+
+-, H, C, : 
+
+9006.69.20 00 - - -Flashbulbs, flashcubes and the like
+
+-
+
+6.5%, H, C, : 
+
+9006.69.90 00 - - -Other
+
+-
+
+5%, H, C, : 
+
+SS
+
+Description of Goods
+
+9006.53.90 00 - - -Other
+
+9006.59
+
+- -Other
+
+-Photographic flashlight apparatus and flashbulbs:
+9006.61.00 00 - -Discharge lamp (''electronic'') flashlight apparatus
+
+9006.69
+
+- -Other
+
+-Parts and accessories:
+9006.91
+
+- -For cameras
+
+Issued January 1, 2025
+
+90 - 7
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9006.91.10 00 - - -Lantern slide attachments, lens hoods, stands and vignetters;
+Parts of the foregoing;
+Shutters and parts thereof, for use in the manufacture of cameras;
+Tripod tops and other parts of tripods;
+Unfinished parts for use in the manufacture of cameras;
+Other parts of the goods of tariff item No. 9006.30.10, 9006.40.00
+9006.53.90, 9006.59.10 or 9006.59.90
+
+-, H, C, : 
+
+9006.91.90 00 - - -Other
+
+-
+
+5%, H, C, : 
+
+9006.99.10 00 - - -Parts of discharge lamp ("electronic") flashlight apparatus or flash guns
+
+-, H, C, : 
+
+9006.99.90 00 - - -Other
+
+-
+
+3.5%, H, C, : 
+
+9007.10.10 00 - - -For use with surgical, dental, veterinary or diagnostic instruments;To be
+employed in the commercial production of video tape productions
+cinematographic films (motion picture films), animated films or multi-image
+shows
+
+NMB, H, C, : 
+
+9007.10.90 00 - - -Other
+
+NMB
+
+5%, H, C, : 
+
+NMB, H, C, : 
+
+9006.99
+
+SS
+
+Description of Goods
+
+- -Other
+
+90.07
+
+Cinematographic cameras and projectors, whether or not incorporating
+sound recording or reproducing apparatus.
+
+9007.10
+
+-Cameras
+
+9007.20
+
+-Projectors
+
+9007.20.10 00 - - -To be employed in medical, surgical, dental or veterinary applications
+
+Issued January 1, 2025
+
+90 - 8
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+6%, H, C, : 
+
+-, H, C, : 
+
+9007.92.10 00 - - -Parts for use in the manufacture of projectors
+
+-, H, C, : 
+
+9007.92.90 00 - - -Other
+
+-
+
+3.5%, H, C, : 
+
+NMB
+
+6%
+
+AUT, NZT, H
+C, : 
+
+9008.50.21 00 - - - -Microfilm or microfiche reader-printers
+
+NMB, H, C, : 
+
+9008.50.29 00 - - - -Other
+
+NMB
+
+6%, H, C, : 
+
+SS
+
+Description of Goods
+
+9007.20.90 00 - - -Other
+
+-Parts and accessories:
+9007.91.00 00 - -For cameras
+
+9007.92
+
+- -For projectors
+
+90.08
+
+Image projectors, other than cinematographic; photographic (other than
+cinematographic) enlargers and reducers.
+
+9008.50
+
+-Projectors, enlargers and reducers
+
+9008.50.10 00 - - -Slide projectors
+
+- - -Microfilm, microfiche or other microform readers, whether or not capable
+of producing copies:
+
+Issued January 1, 2025
+
+90 - 9
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9008.50.30 00 - - -Other image projectors
+
+NMB
+
+5.5%, H, C, : 
+
+9008.50.90 00 - - -Other
+
+NMB, H, C, : 
+
+9008.90.10 00 - - -Parts
+
+-, H, C, : 
+
+9008.90.20 00 - - -Accessories
+
+-
+
+7%, H, C, : 
+
+-, H, C, : 
+
+9010.50.00 00 -Other apparatus and equipment for photographic (including
+cinematographic) laboratories; negatoscopes
+
+NMB, H, C, : 
+
+9010.60.00 00 -Projection screens
+
+NMB, H, C, : 
+
+-, H, C, : 
+
+9008.90
+
+90.10
+
+SS
+
+Description of Goods
+
+-Parts and accessories
+
+Apparatus and equipment for photographic (including cinematographic)
+laboratories, not specified or included elsewhere in this Chapter;
+negatoscopes; projection screens.
+
+9010.10.00 00 -Apparatus and equipment for automatically developing photographic
+(including cinematographic) film or paper in rolls or for automatically
+exposing developed film to rolls of photographic paper
+
+9010.90.00 00 -Parts and accessories
+
+90.11
+
+Compound optical microscopes, including those for photomicrography
+cinephotomicrography or microprojection.
+
+Issued January 1, 2025
+
+90 - 10
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9011.10.00 00 -Stereoscopic microscopes
+
+NMB, H, C, : 
+
+9011.20.00 00 -Other microscopes, for photomicrography, cinephotomicrography or
+microprojection
+
+NMB, H, C, : 
+
+9011.80.00 00 -Other microscopes
+
+NMB, H, C, : 
+
+-, H, C, : 
+
+9012.10.00 00 -Microscopes other than optical microscopes; diffraction apparatus
+
+-, H, C, : 
+
+9012.90.00 00 -Parts and accessories
+
+-, H, C, : 
+
+9013.10.00 00 -Telescopic sights for fitting to arms; periscopes; telescopes designed
+to form parts of machines, appliances, instruments or apparatus of this
+Chapter or Section XVI
+
+NMB, H, C, : 
+
+9013.20.00 00 -Lasers, other than laser diodes
+
+NMB, H, C, : 
+
+SS
+
+Description of Goods
+
+9011.90.00 00 -Parts and accessories
+
+90.12
+
+90.13
+
+Microscopes other than optical microscopes; diffraction apparatus.
+
+Lasers, other than laser diodes; other optical appliances and
+instruments, not specified or included elsewhere in this Chapter.
+
+Issued January 1, 2025
+
+90 - 11
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+9013.80.00
+
+SS
+
+Description of Goods
+
+9013.90.00 00 -Parts and accessories, H, C, : 
+
+-, H, C, : 
+
+NMB, H, C, :, H, C, :, H, C, : 
+
+-, H, C, : 
+
+NMB, H, C, : 
+
+-
+
+NMB
+NMB
+NMB
+NMB
+
+-Other instruments and appliances
+
+10 - - - - -Sonar and echo sounding equipment ....................................................
+90 - - - - -Other ......................................................................................................
+9014.90.00 00 -Parts and accessories
+
+90.15
+
+
+
+-Instruments and appliances for aeronautical or space navigation (other
+than compasses)
+
+20 - - - - -Automatic pilots......................................................................................
+30 - - - - -Other electrical instruments and appliances ..........................................
+40 - - - - -Other than electrical, for aircraft.............................................................
+90 - - - - -Other ......................................................................................................
+9014.80.00
+
+Applicable
+Preferential Tariffs
+
+Direction finding compasses; other navigational instruments and
+appliances.
+
+9014.10.00 00 -Direction finding compasses
+
+9014.20.00
+
+
+Tariff
+
+-Other devices, appliances and instruments
+
+10 - - - - -Liquid crystal devices .............................................................................
+90 - - - - -Other ......................................................................................................
+
+90.14
+
+Unit of
+Meas.
+
+NMB
+NMB
+
+Surveying (including photogrammetrical surveying), hydrographic
+oceanographic, hydrological, meteorological or geophysical
+instruments and appliances, excluding compasses; rangefinders.
+
+9015.10.00 00 -Rangefinders
+
+Issued January 1, 2025
+
+90 - 12
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9015.20.00 00 -Theodolites and tachymeters (tacheometers)
+
+NMB, H, C, : 
+
+9015.30.00 00 -Levels
+
+NMB
+
+2.5%, H, C, : 
+
+-, H, C, : 
+
+
+
+AUT, NZT, H
+C, : 
+
+SS
+
+Description of Goods
+
+9015.40.00 00 -Photogrammetrical surveying instruments and appliances
+
+9015.80.00
+
+-Other instruments and appliances
+
+10 - - - - -Geophysical instruments, excluding magnetometers, gravimeters and
+geophone stringers.................................................................................
+90 - - - - -Other ......................................................................................................
+
+-
+
+9015.90.00 00 -Parts and accessories
+
+-, H, C, : 
+
+9016.00.00 00 Balances of a sensitivity of 5 cg or better, with or without weights.
+
+-, H, C, : 
+
+-, H, C, : 
+
+90.17
+
+Drawing, marking-out or mathematical calculating instruments (for
+example, drafting machines, pantographs, protractors, drawing sets
+slide rules, disc calculators); instruments for measuring length, for use
+in the hand (for example, measuring rods and tapes, micrometers
+callipers), not specified or included elsewhere in this Chapter.
+
+9017.10
+
+-Drafting tables and machines, whether or not automatic
+
+9017.10.10 00 - - -Drafting machines
+
+Issued January 1, 2025
+
+90 - 13
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-
+
+8.5%, H, C, : 
+: 5%
+
+9017.20.10 00 - - -Drawing instruments
+
+-
+
+
+
+AUT, NZT, H
+C, : 
+
+9017.20.90 00 - - -Other
+
+-
+
+2.5%
+
+AUT, NZT, H
+C, : 
+
+4%, H, C, : 
+
+SS
+
+Description of Goods
+
+9017.10.20 00 - - -Drafting tables
+
+9017.20
+
+9017.30.00
+
+-Other drawing, marking-out or mathematical calculating instruments
+
+-Micrometers, callipers and gauges
+
+10 - - - - -Micrometers and callipers ......................................................................
+20 - - - - -Gauges...................................................................................................
+9017.80
+
+NMB
+-
+
+-Other instruments
+
+9017.80.10 00 - - -Measuring rules and tapes
+
+-
+
+6.5%, H, C, : 
+: 5%
+
+9017.80.90 00 - - -Other, including map measurers
+
+-
+
+4.5%, H, C, : 
+
+9017.90.00 00 -Parts and accessories
+
+-
+
+
+
+AUT, NZT, H
+C, : 
+
+90.18
+
+Instruments and appliances used in medical, surgical, dental or
+veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and sight-testing instruments.
+
+Issued January 1, 2025
+
+90 - 14
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB, H, C, : 
+
+9018.11.91 00 - - - -Printed circuit assemblies
+
+-, H, C, : 
+
+9018.11.99 00 - - - -Other
+
+-, H, C, : 
+
+9018.12.00 00 - -Ultrasonic scanning apparatus
+
+NMB, H, C, : 
+
+9018.13.00 00 - -Magnetic resonance imaging apparatus
+
+NMB, H, C, : 
+
+9018.14.00 00 - -Scintigraphic apparatus
+
+NMB, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+-Electro-diagnostic apparatus (including apparatus for functional
+exploratory examination or for checking physiological parameters):
+
+9018.11
+
+- -Electro-cardiographs
+
+9018.11.10 00 - - -Electro-cardiographs
+
+- - -Parts and accessories:
+
+9018.19
+
+- -Other
+
+9018.19.10
+
+- - -Patient monitoring systems
+
+10 - - - - -Complete patient monitoring systems, incorporating component
+modules for monitoring such functions as temperature, blood pressure
+and pulse ................................................................................................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+-
+
+90 - 15
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+9018.19.90
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+-, H, C, : 
+
+NMB, H, C, : 
+
+-, H, C, :, H, C, : 
+
+- - -Other
+
+10 - - - - -Apparatus for functional exploratory examination; parts and
+accessories thereof ................................................................................
+90 - - - - -Other ......................................................................................................
+9018.20.00 00 -Ultra-violet or infra-red ray apparatus
+
+-
+
+-Syringes, needles, catheters, cannulae and the like:
+9018.31.00 00 - -Syringes, with or without needles
+
+9018.32.00 00 - -Tubular metal needles and needles for sutures
+
+9018.39.00
+
+- -Other
+
+10 - - - - -Bougies, catheters, drains and sondes, parts and accessories thereof .
+90 - - - - -Other ......................................................................................................
+
+-
+
+-Other instruments and appliances, used in dental sciences:
+9018.41.00 00 - -Dental drill engines, whether or not combined on a single base with
+other dental equipment
+
+-, H, C, : 
+
+9018.49.00 00 - -Other
+
+-, H, C, : 
+
+9018.50.00 00 -Other ophthalmic instruments and appliances
+
+-, H, C, : 
+
+Issued January 1, 2025
+
+90 - 16
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9018.90.10 00 - - -Defibrillators
+
+-, H, C, : 
+
+9018.90.20 00 - - -Printed circuit assemblies for the goods of tariff item No. 9018.90.10
+
+-, H, C, :, H, C, :, H, C, :, H, C, : 
+
+9018.90
+
+9018.90.90
+
+SS
+
+Description of Goods
+-Other instruments and appliances
+
+- - -Other
+
+10 - - - - -Optical instruments and appliances........................................................
+20 - - - - -Anaesthetic instruments and appliances ................................................
+40 - - - - -Sphygmomanometers, tensiometers and oscillometers.........................
+- - - - -Other electro-medical instruments and appliances:
+51 - - - - - -Electro-surgical instruments and appliances........................................
+52 - - - - - -Dialysis instruments and appliances ....................................................
+54 - - - - - -Other therapeutic instruments and appliances.....................................
+59 - - - - - -Other ....................................................................................................
+- - - - -Parts and accessories:
+83 - - - - - -Of electro-surgical instruments and appliances ...................................
+84 - - - - - -Of dialysis instruments and appliances ................................................
+85 - - - - - -Of other electro-medical instruments and appliances ..........................
+89 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+90.19
+
+Mechano-therapy appliances; massage apparatus; psychological
+aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol
+therapy, artificial respiration or other therapeutic respiration apparatus.
+
+9019.10.00
+
+-Mechano-therapy appliances; massage apparatus; psychological
+aptitude-testing apparatus
+
+10 - - - - -Mechano-therapy appliances; power-operated massage apparatus;
+Psychological aptitude-testing apparatus. ..............................................
+20 - - - - -Manually operated massage apparatus .................................................
+9019.20.00 00 -Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or
+other therapeutic respiration apparatus
+
+Issued January 1, 2025
+
+-
+
+-
+
+90 - 17
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+-, H, C, : 
+
+9021.21.00 00 - -Artificial teeth
+
+-, H, C, : 
+
+9021.29.00 00 - -Other
+
+-, H, C, : 
+
+9021.31.00 00 - -Artificial joints
+
+-, H, C, : 
+
+9021.39.00 00 - -Other
+
+-, H, C, : 
+
+9021.40.00 00 -Hearing aids, excluding parts and accessories
+
+NMB, H, C, : 
+
+9021.50.00 00 -Pacemakers for stimulating heart muscles, excluding parts and
+accessories
+
+NMB, H, C, : 
+
+SS
+
+Description of Goods
+
+9020.00.00 00 Other breathing appliances and gas masks, excluding protective masks
+having neither mechanical parts nor replaceable filters.
+
+90.21
+
+Orthopaedic appliances, including crutches, surgical belts and trusses;
+splints and other fracture appliances; artificial parts of the body; hearing
+aids and other appliances which are worn or carried, or implanted in the
+body, to compensate for a defect or disability.
+
+9021.10.00 00 -Orthopaedic or fracture appliances
+
+-Artificial teeth and dental fittings:
+
+-Other artificial parts of the body:
+
+Issued January 1, 2025
+
+90 - 18
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+9022.12.00 00 - -Computed tomography apparatus
+
+NMB, H, C, : 
+
+9022.13.00 00 - -Other, for dental uses
+
+NMB, H, C, : 
+
+9022.14.00 00 - -Other, for medical, surgical or veterinary use
+
+NMB, H, C, : 
+
+-, H, C, : 
+
+9022.21.00 00 - -For medical, surgical, dental or veterinary uses
+
+-, H, C, : 
+
+9022.29.00 00 - -For other uses
+
+-, H, C, : 
+
+SS
+
+Description of Goods
+
+9021.90.00 00 -Other
+
+90.22
+
+Apparatus based on the use of X-rays or of alpha, beta, gamma or other
+ionizing radiations, whether or not for medical, surgical, dental or
+veterinary uses, including radiography or radiotherapy apparatus, X-ray
+tubes and other X-ray generators, high tension generators, control
+panels and desks, screens, examination or treatment tables, chairs and
+the like.
+-Apparatus based on the use of X-rays, whether or not for medical
+surgical, dental or veterinary uses, including radiography or
+radiotherapy apparatus:
+
+9022.19.00 00 - -For other uses
+
+-Apparatus based on the use of alpha, beta, gamma or other ionizing
+radiations, whether or not for medical, surgical, dental or veterinary
+uses, including radiography or radiotherapy apparatus:
+
+Issued January 1, 2025
+
+90 - 19
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB, H, C, : 
+
+9022.90.10 00 - - -Radiation generator units
+
+-, H, C, : 
+
+9022.90.20 00 - - -Radiation beam delivery units
+
+-, H, C, : 
+
+9022.90.90 00 - - -Other
+
+-, H, C, : 
+
+9023.00.00 00 Instruments, apparatus and models, designed for demonstrational
+purposes (for example, in education or exhibitions), unsuitable for other
+uses.
+
+-, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+9022.30.00 00 -X-ray tubes
+
+9022.90
+
+-Other, including parts and accessories
+
+90.24
+
+Machines and appliances for testing the hardness, strength
+compressibility, elasticity or other mechanical properties of materials
+(for example, metals, wood, textiles, paper, plastics).
+
+9024.10.00
+
+-Machines and appliances for testing metals
+
+10 - - - - -Electrical testing machines and appliances ...........................................
+90 - - - - -Other ......................................................................................................
+
+-
+
+9024.80.00 00 -Other machines and appliances
+
+-, H, C, : 
+
+9024.90.00 00 -Parts and accessories
+
+-, H, C, : 
+
+Issued January 1, 2025
+
+90 - 20
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9025.11.10 00 - - -Clinical thermometers
+
+NMB, H, C, : 
+
+9025.11.90 00 - - -Other
+
+NMB
+
+3.5%, H, C, :, H, C, : 
+
+NMB, H, C, : 
+
+-, H, C, :, H, C, : 
+
+90.25
+
+SS
+
+Description of Goods
+Hydrometers and similar floating instruments, thermometers
+pyrometers, barometers, hygrometers and psychrometers, recording or
+not, and any combination of these instruments.
+-Thermometers and pyrometers, not combined with other instruments:
+
+9025.11
+
+9025.19.00
+
+- -Liquid-filled, for direct reading
+
+- -Other
+
+- - - - -Electrical thermometers; Pyrometers, other than infrared pyrometers:
+11 - - - - - -Clinical thermometers...........................................................................
+19 - - - - - -Other ....................................................................................................
+90 - - - - -Other ......................................................................................................
+9025.80.00 00 -Other instruments
+
+9025.90.00 00 -Parts and accessories
+
+90.26
+
+Instruments and apparatus for measuring or checking the flow, level
+pressure or other variables of liquids or gases (for example, flowmeters
+level gauges, manometers, heat meters), excluding instruments and
+apparatus of heading 90.14, 90.15, 90.28 or 90.32.
+
+9026.10.00
+
+-For measuring or checking the flow or level of liquids
+
+10 - - - - -Electrical flow meters..............................................................................
+- - - - -Other:
+91 - - - - - -Electrical instruments and apparatus ...................................................
+99 - - - - - -Other ....................................................................................................
+
+Issued January 1, 2025
+
+NMB
+NMB
+NMB
+
+NMB
+NMB
+NMB
+
+90 - 21
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+9026.20.00
+
+SS
+
+Description of Goods
+
+9026.80.00 00 -Other instruments or apparatus
+
+9026.90.00 00 -Parts and accessories
+
+90.27
+
+Instruments and apparatus for physical or chemical analysis (for
+example, polarimeters, refractometers, spectrometers, gas or smoke
+analysis apparatus); instruments and apparatus for measuring or
+checking viscosity, porosity, expansion, surface tension or the like;
+instruments and apparatus for measuring or checking quantities of heat
+sound or light (including exposure meters); microtomes.
+
+9027.10.00
+
+-Gas or smoke analysis apparatus
+
+10 - - - - -Electrical analyzers ................................................................................
+90 - - - - -Other ......................................................................................................
+
+Applicable
+Preferential Tariffs, H, C, : 
+
+NMB, H, C, : 
+
+-, H, C, :, H, C, :, H, C, : 
+
+
+
+AUT, NZT, H
+C, : 
+
+NMB
+NMB
+
+-
+
+-Chromatographs and electrophoresis instruments
+
+10 - - - - -Gas chromatographs..............................................................................
+20 - - - - -Liquid chromatographs...........................................................................
+90 - - - - -Other ......................................................................................................
+9027.30.00
+
+
+Tariff
+
+-For measuring or checking pressure
+
+10 - - - - -Electrical instruments and apparatus .....................................................
+90 - - - - -Other ......................................................................................................
+
+9027.20.00
+
+Unit of
+Meas.
+
+NMB
+NMB
+NMB
+
+-Spectrometers, spectrophotometers and spectrographs using optical
+radiations (UV, visible, IR)
+
+10 - - - - -Spectrophotometers ...............................................................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+
+Issued January 1, 2025
+
+90 - 22
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+
+Tariff
+
+Applicable
+Preferential Tariffs, H, C, :, H, C, :, H, C, : 
+
+-, H, C, : 
+
+9028.10.00 00 -Gas meters
+
+NMB, H, C, : 
+
+9028.20.00 00 -Liquid meters
+
+NMB, H, C, : 
+
+9028.30.00 00 -Electricity meters
+
+NMB, H, C, : 
+
+9027.50.00
+
+SS
+
+Description of Goods
+
+Unit of
+Meas.
+
+-Other instruments and apparatus using optical radiations (UV, visible
+IR)
+
+10 - - - - -Thermal analysis instruments and apparatus.........................................
+20 - - - - -Chemical analysis instruments and apparatus .......................................
+90 - - - - -Other ......................................................................................................
+
+NMB
+NMB
+NMB
+
+-Other instruments and apparatus:
+9027.81.00 00 - -Mass spectrometers
+
+9027.89.00
+
+- -Other
+
+10 - - - - -Chemical analysis instruments and apparatus .......................................
+20 - - - - -Physical analysis instruments and apparatus.........................................
+90 - - - - -Other ......................................................................................................
+9027.90.00 00 -Microtomes; parts and accessories
+
+90.28
+
+NMB
+
+NMB
+NMB
+NMB
+
+Gas, liquid or electricity supply or production meters, including
+calibrating meters therefor.
+
+Issued January 1, 2025
+
+90 - 23
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+9028.90.00 00 -Parts and accessories
+
+90.29
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+-, H, C, :, H, C, :, H, C, :, H, C, :, H, C, : 
+
+Revolution counters, production counters, taximeters, mileometers
+pedometers and the like; speed indicators and tachometers, other than
+those of heading 90.14 or 90.15; stroboscopes.
+
+9029.10.00 00 -Revolution counters, production counters, taximeters, mileometers
+pedometers and the like
+
+9029.20.00
+
+Unit of
+Meas.
+
+-Speed indicators and tachometers; stroboscopes
+
+10 - - - - -Speed indicators and tachometers.........................................................
+90 - - - - -Other ......................................................................................................
+9029.90.00 00 -Parts and accessories
+
+90.30
+
+Oscilloscopes, spectrum analyzers and other instruments and
+apparatus for measuring or checking electrical quantities, excluding
+meters of heading 90.28; instruments and apparatus for measuring or
+detecting alpha, beta, gamma, X-ray, cosmic or other ionizing radiations.
+
+9030.10.00
+
+-Instruments and apparatus for measuring or detecting ionizing
+radiations
+
+10 - - - - -Alpha-beta Geiger counters, Geiger-Mueller counters and instruments
+and apparatus for measuring or detecting nuclear radiation..................
+80 - - - - -Other electrical instruments and apparatus ...........................................
+90 - - - - -Other ......................................................................................................
+9030.20.00 00 -Oscilloscopes and oscillographs
+
+NMB
+NMB
+-
+
+NMB
+NMB
+NMB
+NMB
+
+-Other instruments and apparatus, for measuring or checking voltage
+current, resistance or power (other than those for measuring or
+checking semiconductor wafers or devices):
+
+Issued January 1, 2025
+
+90 - 24
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+9030.31.00 00 - -Multimeters without a recording device
+
+NMB, H, C, : 
+
+9030.32.00 00 - -Multimeters with a recording device
+
+NMB, H, C, :, H, C, : 
+
+9030.33.00
+
+SS
+
+Description of Goods
+
+- -Other, without a recording device
+
+10 - - - - -For measuring or checking voltage, current or resistance......................
+90 - - - - -Other ......................................................................................................
+
+-
+
+9030.39.00 00 - -Other, with a recording device
+
+-, H, C, : 
+
+9030.40.00 00 -Other instruments and apparatus, specially designed for
+telecommunications (for example, cross-talk meters, gain measuring
+instruments, distortion factor meters, psophometers)
+
+-, H, C, : 
+
+9030.82.00 00 - -For measuring or checking semiconductor wafers or devices
+(including integrated circuits)
+
+NMB, H, C, : 
+
+9030.84.00 00 - -Other, with a recording device
+
+NMB, H, C, :, H, C, : 
+
+-Other instruments and apparatus:
+
+9030.89.00
+
+- -Other
+
+10 - - - - -Electrical instruments and apparatus .....................................................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+-
+
+90 - 25
+COMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+
+Tariff
+
+Applicable
+Preferential Tariffs
+
+-, H, C, : 
+
+9031.10.00 00 -Machines for balancing mechanical parts
+
+-, H, C, : 
+
+9031.20.00 00 -Test benches
+
+-, H, C, : 
+
+NMB, H, C, : 
+
+NMB, H, C, : 
+
+-, H, C, :, H, C, : 
+
+SS
+
+Description of Goods
+
+9030.90.00 00 -Parts and accessories
+
+90.31
+
+Measuring or checking instruments, appliances and machines, not
+specified or included elsewhere in this Chapter; profile projectors.
+
+-Other optical instruments and appliances:
+9031.41.00 00 - -For inspecting semiconductor wafers or devices (including integrated
+circuits) or for inspecting photomasks or reticles used in
+manufacturing semiconductor devices (including integrated circuits)
+
+9031.49
+
+- -Other
+
+9031.49.10 00 - - -Co-ordinate measuring machines
+
+9031.49.90 00 - - -Other
+
+9031.80.00
+
+-Other instruments, appliances and machines
+
+10 - - - - -Gauges, not having an adjustable measuring device ............................
+30 - - - - -For testing characteristics of internal combustion engines ....................
+90 - - - - -Other ......................................................................................................
+9031.90
+
+-
+
+-Parts and accessories
+
+Issued January 1, 2025
+
+

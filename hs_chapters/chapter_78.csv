@@ -1,0 +1,57 @@
+HS10 Code,HS10 Code Formatted,HS10 Date Key,HS10 Start Date,HS10 End Date,Unit of Measure,HS10 UOM Date Key,UOM Start Date,UOM End Date,HS10 English Description,HS10 French Description
+7801100000,7801.10.00.00,7801.10.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Lead, refined, unwrought","Plomb, affiné, sous forme brute"
+7801100010,7801.10.00.10,7801.10.00.10 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Pig and block, refined lead, unwrought","Gueuses et masses, en plomb affiné sous forme brute"
+7801100090,7801.10.00.90,7801.10.00.90 (2012-01/2016-12),201201,201612,KGM,KGM (2012-01/2016-12),201201,201612,"Refined lead, unwrought, nes","Plomb affiné sous forme brute, nda"
+7801101000,7801.10.10.00,7801.10.10.00 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Pig and block, refined lead","Plomb affiné en saumons,masses ou blocs"
+7801109000,7801.10.90.00,7801.10.90.00 (1991-07/1992-12),199107,199212,KGM,KGM (1991-07/1992-12),199107,199212,"Refined lead, unwrought, nes","Plomb affiné sous forme brute,nda"
+7801109000,7801.10.90.00,7801.10.90.00 (1993-01/2011-12),199301,201112,KGM,KGM (1993-01/2011-12),199301,201112,"Refined lead, unwrought, nes","Plomb affiné sous forme brute,nda"
+7801109010,7801.10.90.10,7801.10.90.10 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Shot, refined lead, unwrought","Grenailles rondes, en plomb raffiné, sous forme brute"
+7801109090,7801.10.90.90,7801.10.90.90 (1988-01/1991-06),198801,199106,KGM,KGM (1988-01/1991-06),198801,199106,"Refined lead, unwrought, o/t shot, nes","Plomb raffiné sous forme brute, a/q grenailles rondes, nda"
+7801910000,7801.91.00.00,7801.91.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Lead, unwrought, containing by weight antimony as the principal other element","Plomb, sous forme brute, cont antimoine comme autre élément prédominant en poids"
+7801910010,7801.91.00.10,7801.91.00.10 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,"Lead-antimony-tin alloys, unwrought",Alliages plomb-antimoine-étain sous forme brute
+7801910090,7801.91.00.90,7801.91.00.90 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,"Lead unwrought containing by weight antimony as the principal other element, nes","Plomb sous forme brute avec antimoine comme autre élément prédominant en pds,nda"
+7801911000,7801.91.10.00,7801.91.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Lead-antimony-tin alloys, unwrought",Alliages plomb-antimoine-étain sous forme brute
+7801919000,7801.91.90.00,7801.91.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Lead unwrought containing by weight antimony as the principal other element, nes","Plomb sous forme brute avec antimoine comme autre élément prédominant en pds,nda"
+7801990000,7801.99.00.00,7801.99.00.00 (1988-01/1989-12),198801,198912,KGM,KGM (1988-01/1989-12),198801,198912,"Lead unwrought, nes","Plomb sous forme brute, nda"
+7801990010,7801.99.00.10,7801.99.00.10 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Lead bullion, unwrought",Lingots de plomb sous forme brute
+7801990020,7801.99.00.20,7801.99.00.20 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Lead alloys, unwrought, nes","Alliages de plomb sous forme brute,nda"
+7801990090,7801.99.00.90,7801.99.00.90 (1990-01/9999-12),199001,999912,KGM,KGM (1990-01/9999-12),199001,999912,"Lead unwrought, nes","Plomb sous forme brute,nda"
+7802000000,7802.00.00.00,7802.00.00.00 (1988-01/1992-12),198801,199212,KGM,KGM (1988-01/1992-12),198801,199212,Lead waste and scrap,Déchets et débris de plomb
+7802000000,7802.00.00.00,7802.00.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Waste and scrap, of lead","Déchets et débris, de plomb"
+7802000010,7802.00.00.10,7802.00.00.10 (1993-01/1995-12),199301,199512,KGM,KGM (1993-01/1995-12),199301,199512,Lead waste and scrap obtained from lead acid storage,Déchets et débris de plomb provenant d'accumulateurs électriques en plomb
+7802000010,7802.00.00.10,7802.00.00.10 (1996-01/2016-12),199601,201612,KGM,KGM (1996-01/2016-12),199601,201612,Lead waste and scrap obtained from lead acid storage,Déchets et débris de plomb provenant d'accumulateurs électriques en plomb
+7802000090,7802.00.00.90,7802.00.00.90 (1993-01/2016-12),199301,201612,KGM,KGM (1993-01/2016-12),199301,201612,"Lead waste and scarp, nes",Déchets et débris de plomb nda
+7803001000,7803.00.10.00,7803.00.10.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Bars and rods, of lead, not alloyed",Barres en plomb non allié
+7803002000,7803.00.20.00,7803.00.20.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Bars and rods, of lead-antimony-tin alloys",Barres en alliages plomb-antimoine-étain
+7803003000,7803.00.30.00,7803.00.30.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Bars and rods, of other lead alloys, nes; lead profiles and wire",Barres en alliages de plomb nda;profilés en plomb et fils de plomb
+7803009010,7803.00.90.10,7803.00.90.10 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Bars and rods, of lead-antimony-tin alloys",Barres en alliages plomb-antimoine-étain
+7803009020,7803.00.90.20,7803.00.90.20 (1998-01/2006-12),199801,200612,KGM,KGM (1998-01/2006-12),199801,200612,"Bars and rods, of other lead alloys, nes; lead profiles and wire",Barres en alliages de plomb nda;profilés en plomb et fils de plomb
+7804110000,7804.11.00.00,7804.11.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Lead sheets, strip and foil of a thickness, excluding any backing, <=0.2mm","Feuilles et bandes de plomb, d'une épaisseur <=0,2 mm, support non compris"
+7804111000,7804.11.10.00,7804.11.10.00 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Sheet,strip & foil,lead-tin alloy,w/n cont antimony,<=0.2mm thk,excl any backing","Feuilles/bandes en alli plomb-étain,même a antimoine,épais<=0,2mm,sup n compris"
+7804119000,7804.11.90.00,7804.11.90.00 (1988-01/2011-12),198801,201112,KGM,KGM (1988-01/2011-12),198801,201112,"Lead sheet,strip and foil,<=0.2mm thk, excl any backing, nes","Feuilles et bandes en plomb,épaisseur<=0,2mm, support non compris,nda"
+7804190000,7804.19.00.00,7804.19.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Lead plates, sheets, strip and foil, >0.2mm thick, nes","Tôles, feuilles et bandes en plomb, épaisseur >0,2 mm, nda"
+7804190010,7804.19.00.10,7804.19.00.10 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Plates, lead, not alloyed, >0.2 but<=5mm thk, >600mm wide","Tables en plomb non allié,épaisseur >0,2<=5mm,largeur >600mm"
+7804190020,7804.19.00.20,7804.19.00.20 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Plates, of lead-antimony-tin alloys",Tables en alliages plomb-antimoine-étain
+7804190090,7804.19.00.90,7804.19.00.90 (1998-01/2011-12),199801,201112,KGM,KGM (1998-01/2011-12),199801,201112,"Lead plates, nes","Tables en plomb,nda"
+7804191000,7804.19.10.00,7804.19.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Plates, lead, not alloyed, >0.2 but<=5mm thk, >600mm width","Tables en plomb non allié,épaisseur >0,2<=5mm,largeur >600mm"
+7804192000,7804.19.20.00,7804.19.20.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Plates, of lead-antimony-tin alloys",Tables en alliages plomb-antimoine-étain
+7804199000,7804.19.90.00,7804.19.90.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Lead plates, nes","Tables en plomb,nda"
+7804200000,7804.20.00.00,7804.20.00.00 (2017-01/9999-12),201701,999912,KGM,KGM (2017-01/9999-12),201701,999912,"Powders and flakes, of lead","Poudres et paillettes, de plomb"
+7804200010,7804.20.00.10,7804.20.00.10 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,"Lead powders, not alloyed",Poudres de plomb non alliés
+7804200020,7804.20.00.20,7804.20.00.20 (1998-01/2016-12),199801,201612,KGM,KGM (1998-01/2016-12),199801,201612,"Alloyed powders; flakes, lead","Poudres en alliages; paillettes,de plomb"
+7804201000,7804.20.10.00,7804.20.10.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Lead powders, not alloyed",Poudres de plomb non allié
+7804202000,7804.20.20.00,7804.20.20.00 (1988-01/1997-12),198801,199712,KGM,KGM (1988-01/1997-12),198801,199712,"Alloyed powders; flakes, lead",Poudres d'alliages de plomb;paillettes de plomb
+7805000000,7805.00.00.00,7805.00.00.00 (1988-01/2006-12),198801,200612,KGM,KGM (1988-01/2006-12),198801,200612,"Lead pipes or tubes and fittings, for example, couplings, elbows, sleeves","Tubes,tuyaux,accessoires de tuyauterie,p.ex. raccords,coudes,manchons,en plomb"
+7806000000,7806.00.00.00,7806.00.00.00 (2012-01/9999-12),201201,999912,KGM,KGM (2012-01/9999-12),201201,999912,"Articles of lead, nes","Ouvrages en plomb, nda"
+7806000010,7806.00.00.10,7806.00.00.10 (1988-01/2006-12),198801,200612,KGM,KGM (1995-01/2006-12),199501,200612,"Accumulator plates, lead","Plaques d'accumulateurs,en plomb"
+7806000010,7806.00.00.10,7806.00.00.10 (1988-01/2006-12),198801,200612,,N/A (1988-01/1994-12),198801,199412,"Accumulator plates, lead","Plaques d'accumulateurs,en plomb"
+7806000020,7806.00.00.20,7806.00.00.20 (1988-01/1991-12),198801,199112,,N/A (1988-01/1991-12),198801,199112,"Collapsible tubes, lead",Tubes souples en plomb
+7806000030,7806.00.00.30,7806.00.00.30 (1988-01/1991-06),198801,199106,,N/A (1988-01/1991-06),198801,199106,"Fabricated building components, of lead","Ouvrages façonnés pour le bâtiment, en plomb"
+7806000090,7806.00.00.90,7806.00.00.90 (1988-01/1991-06),198801,199106,,N/A (1988-01/1991-06),198801,199106,"Articles of lead, nes","Ouvrages en plomb,nda"
+7806000090,7806.00.00.90,7806.00.00.90 (1991-07/1991-12),199107,199112,,N/A (1991-07/1991-12),199107,199112,"Articles of lead, nes","Ouvrages en plomb,nda"
+7806000090,7806.00.00.90,7806.00.00.90 (1992-01/2006-12),199201,200612,KGM,KGM (1995-01/2006-12),199501,200612,"Articles of lead, nes","Ouvrages en plomb,nda"
+7806000090,7806.00.00.90,7806.00.00.90 (1992-01/2006-12),199201,200612,,N/A (1992-01/1994-12),199201,199412,"Articles of lead, nes","Ouvrages en plomb,nda"
+7806001000,7806.00.10.00,7806.00.10.00 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Bars and rods, of lead, not alloyed","Barres en plomb, non alliées"
+7806009010,7806.00.90.10,7806.00.90.10 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Accumulator plates, lead","Plaques d'accumulateurs, en plomb"
+7806009020,7806.00.90.20,7806.00.90.20 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Bars and rods, lead alloy; profiles and wire of lead",Barres en alliages plomb; profilés et fils en plomb
+7806009090,7806.00.90.90,7806.00.90.90 (2007-01/2011-12),200701,201112,KGM,KGM (2007-01/2011-12),200701,201112,"Articles of lead, nes, incl tubes, pipes and tube or pipe fittings","Ouvrages en plomb,nda, incl tubes, tuyaux et acces de tuyauterie"

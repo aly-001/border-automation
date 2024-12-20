@@ -1,0 +1,12 @@
+HS10 Code,HS10 Code Formatted,HS10 Date Key,HS10 Start Date,HS10 End Date,Unit of Measure,HS10 UOM Date Key,UOM Start Date,UOM End Date,HS10 English Description,HS10 French Description
+9901000000,9901.00.00.00,9901.00.00.00 (1988-01/9999-12),198801,999912,,N/A (1988-01/9999-12),198801,999912,Low value import transactions and confidential commodities,Transactions d'importations de faible valeur et marchandises confidentielles
+9902000000,9902.00.00.00,9902.00.00.00 (1998-01/9999-12),199801,999912,,N/A (1998-01/9999-12),199801,999912,Repairs,Réparations
+9902100000,9902.10.00.00,9902.10.00.00 (1988-01/1997-12),198801,199712,,N/A (1988-01/1997-12),198801,199712,Repairs to aircrafts and spacecrafts,Réparations pour navigation aérienne et spatiale
+9902200000,9902.20.00.00,9902.20.00.00 (1988-01/1993-12),198801,199312,,N/A (1988-01/1993-12),198801,199312,"Repairs to ships, boats and floating structures",Réparations pour navigation maritime et fluviale
+9902200000,9902.20.00.00,9902.20.00.00 (1994-01/1997-12),199401,199712,,N/A (1994-01/1997-12),199401,199712,"Repairs to ships, boats and floating structures",Réparations pour navigation maritime et fluviale
+9902900000,9902.90.00.00,9902.90.00.00 (1988-01/1997-12),198801,199712,,N/A (1988-01/1997-12),198801,199712,Repairs nes,Réparations nda
+9903100000,9903.10.00.00,9903.10.00.00 (1988-01/1988-09),198801,198809,,N/A (1988-01/1988-09),198801,198809,Canadian goods returned after exhibition or demonstration,Marchandises canadiennes ret après exposition ou démonstration
+9903200000,9903.20.00.00,9903.20.00.00 (1988-01/1988-09),198801,198809,,N/A (1988-01/1988-09),198801,198809,"Arms, military stores, munitions of war, etc, prop of Can Forces ret'd","Armes, fournitures mil, munitions, etc, propr des Forces canadiennes, ret"
+9903900000,9903.90.00.00,9903.90.00.00 (1988-01/1988-09),198801,198809,,N/A (1988-01/1988-09),198801,198809,"Non-trade re-imports, nes","Ré-importations non commerciales, nda"
+9999998800,9999.99.88.00,9999.99.88.00 (1992-07/9999-12),199207,999912,,N/A (1992-07/9999-12),199207,999912,Postal services,Frais de manutention pour services postaux
+9999999900,9999.99.99.00,9999.99.99.00 (1993-04/9999-12),199304,999912,,N/A (1993-04/9999-12),199304,999912,Low value couriers' shipments,Expéditions par courrier de faible valeur

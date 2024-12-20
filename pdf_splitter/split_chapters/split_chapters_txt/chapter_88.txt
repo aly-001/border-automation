@@ -1,0 +1,658 @@
+87 - 30
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+SS
+
+Description of Goods
+
+8716.80.10 00 - - -For the transport of persons
+
+8716.80.20
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+NMB
+
+4.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 6.5%
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+4.5%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+6.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+GPT: 6.5%
+
+- - -For the transport of goods
+
+10 - - - - -Industrial hand trucks .............................................................................
+90 - - - - -Other ......................................................................................................
+8716.90
+
+Unit of
+Meas.
+
+NMB
+NMB
+
+-Parts
+
+8716.90.30 00 - - -For use in the manufacture of trailers and semi-trailers
+
+-
+
+- - -Other:
+8716.90.91
+
+- - - -Brake drums, hubs and rotors for use in the manufacture or repair of
+brakes and brake assemblies mounted on axles for semi-trailers;
+Double ball race turntables for use in the manufacture of self-steering
+axle assemblies for trailers
+Forage boxes for self-loading or self-unloading trailers and semi-trailers,
+for agricultural purposes;
+Gravity discharge boxes for farm wagons;
+Hitches and couplings, for use on the farm;
+Parts for automatic bale stacking wagons, grain carts, silage wagons, or
+the header or swather transporters of subheading 8716.39
+10 - - - - -Brake drums, hubs and rotors, for use in the manufacture or repair of
+brakes and brake assemblies mounted on axles, for semi-trailers ........
+90 - - - - -Other ......................................................................................................
+
+8716.90.92 00 - - - -Other parts for farm, logging or freight wagons, for trailers for selfpropelled logging trucks or for other vehicles for the transport of persons
+
+8716.90.99
+
+-
+
+- - - -Other
+
+10 - - - - -Axles and parts.......................................................................................
+90 - - - - -Other ......................................................................................................
+
+Issued January 1, 2025
+
+-
+
+CUSTOMS TARIFF - SCHEDULE
+88 - i
+Chapter 88
+AIRCRAFT, SPACECRAFT, AND PARTS THEREOF
+
+Note.
+1. For the purposes of this Chapter, the expression “unmanned aircraft” means any aircraft, other than those of heading 88.01,
+designed to be flown without a pilot on board. They may be designed to carry a payload or equipped with permanently integrated
+digital cameras or other equipment which would enable them to perform utilitarian functions during their flight.
+The expression “unmanned aircraft”, however, does not cover flying toys, designed solely for amusement purposes (heading
+95.03).
+Subheading Note.
+1. For the purpose of subheadings 8802.11 to 8802.40, the expression "unladen weight" means the weight of the machine in
+normal flying order, excluding the weight of the crew and of fuel and equipment other than permanently fitted items of
+equipment.
+2. For the purposes of subheadings 8806.21 to 8806.24 and 8806.91 to 8806.94, the expression "maximum take-off weight"
+means the maximum weight of the machine in normal flying order, at take-off, including the weight of payload, equipment and
+fuel.
+
+Issued January 1, 2025
+
+88 - 1
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8801.00.10 00 - - -Captive balloons
+
+NMB
+
+11%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8801.00.90 00 - - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+
+
+8801.00
+
+88.02
+
+Balloons and dirigibles; gliders, hang gliders and other non-powered
+aircraft.
+
+Other aircraft (for example, helicopters, aeroplanes), except unmanned
+aircraft of heading 88.06; spacecraft (including satellites) and suborbital
+and spacecraft launch vehicles.
+-Helicopters:
+
+8802.11.00
+
+- -Of an unladen weight not exceeding 2,000 kg
+
+- - - - -New:
+14 - - - - - -Of an unladen weight not exceeding 998 kg........................................
+15 - - - - - -Of an unladen weight exceeding 998 kg but not exceeding 2,000 kg..
+20 - - - - -Used or rebuilt........................................................................................
+8802.12.00
+
+NMB
+NMB
+NMB
+
+- -Of an unladen weight exceeding 2,000 kg
+
+10 - - - - -New ........................................................................................................
+20 - - - - -Used or rebuilt........................................................................................
+
+NMB
+NMB
+
+8802.20.00 00 -Airplanes and other aircraft, of an unladen weight not exceeding 2,000
+kg
+
+NMB
+
+8802.30.00
+
+-Airplanes and other aircraft, of an unladen weight exceeding 2,000 kg
+but not exceeding 15,000 kg
+
+- - - - -New:
+16 - - - - - -Multiple engine airplanes, of an unladen weight exceeding 2,000 kg
+but not exceeding 4,536 kg ..................................................................
+
+NMB
+
+Issued January 1, 2025
+
+88 - 2
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+15.5%
+
+CCCT, LDCT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8804.00.20 00 - - -Parts and accessories for parachutes (including dirigible parachutes) and
+rotochutes
+
+-
+
+3%
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8804.00.30 00 - - -Paragliders; parts thereof and accessories thereto
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+SS
+
+Description of Goods
+
+17 - - - - - -Multiple engine airplanes, of an unladen weight exceeding 4,536 kg
+but not exceeding 15,000 kg, turbofan powered ..................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Used or rebuilt ........................................................................................
+8802.40.00
+
+8802.60.00 00 -Spacecraft (including satellites) and suborbital and spacecraft launch
+vehicles
+
+NMB
+NMB
+NMB
+
+Parachutes (including dirigible parachutes and paragliders) and
+rotochutes; parts thereof and accessories thereto.
+
+8804.00.10 00 - - -Parachutes (including dirigible parachutes) and rotochutes
+
+88.05
+
+NMB
+NMB
+NMB
+
+-Airplanes and other aircraft, of an unladen weight exceeding 15,000 kg
+
+- - - - -New:
+16 - - - - - -Passenger transports ...........................................................................
+19 - - - - - -Other ....................................................................................................
+20 - - - - -Used or rebuilt ........................................................................................
+
+8804.00
+
+Unit of
+Meas.
+
+Aircraft launching gear; deck-arrestor or similar gear; ground flying
+trainers; parts of the foregoing articles.
+
+8805.10.00 00 -Aircraft launching gear and parts thereof; deck-arrestor or similar gear
+and parts thereof
+
+-Ground flying trainers and parts thereof:
+
+Issued January 1, 2025
+
+88 - 3
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8805.21.00 00 - -Air combat simulators and parts thereof
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8805.29.00 00 - -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.21.00 00 - -With maximum take-off weight not more than 250 g
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.22.00 00 - -With maximum take-off weight more than 250 g but not more than 7 kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.23.00 00 - -With maximum take-off weight more than 7 kg but not more than 25 kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.24.00 00 - -With maximum take-off weight more than 25 kg but not more than 150
+kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.29.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+88.06
+
+SS
+
+Description of Goods
+
+Unmanned aircraft.
+
+8806.10.00 00 -Designed for the carriage of passengers
+
+-Other, for remote-controlled flight only:
+
+-Other:
+
+Issued January 1, 2025
+
+88 - 4
+CUSTOMS TARIFF - SCHEDULE
+
+Tariff
+Item
+
+Unit of
+Meas.
+
+MFN
+Tariff
+
+Applicable
+Preferential Tariffs
+
+8806.91.00 00 - -With maximum take-off weight not more than 250 g
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.92.00 00 - -With maximum take-off weight more than 250 g but not more than 7 kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.93.00 00 - -With maximum take-off weight more than 7 kg but not more than 25 kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.94.00 00 - -With maximum take-off weight more than 25 kg but not more than 150
+kg
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8806.99.00 00 - -Other
+
+NMB
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8807.10.00 00 -Propellers and rotors and parts thereof
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8807.20.00 00 -Under-carriages and parts thereof
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8807.30.00 00 -Other parts of aeroplanes, helicopters or unmanned aircraft
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+8807.90.00 00 -Other
+
+-
+
+Free
+
+CCCT, LDCT, GPT, UST,
+MXT, CIAT, CT, CRT, IT,
+NT, SLT, PT, COLT, JT,
+PAT, HNT, KRT, CEUT,
+UAT, CPTPT, UKT: Free
+
+88.07
+
+SS
+
+Description of Goods
+
+Parts of goods of heading 88.01, 88.02 or 88.06.
+
+Issued January 1, 2025
+
+
